@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294273642206",
+    "project_id": "techlink-n",
+    "storage_bucket": "techlink-n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294273642206:android:1cbe74410875d791cadc4f",
+        "android_client_info": {
+          "package_name": "com.example.tech_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bmgN-XizvqudmKmzCUp82PdgRcd5pM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

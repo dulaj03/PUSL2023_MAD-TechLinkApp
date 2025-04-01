@@ -154,7 +154,7 @@ class _LoginPageState extends State<LoginPage> {
                             decoration: InputDecoration(
                               contentPadding: const EdgeInsets.all(16),
 
-                              labelText: "Enter Password",
+                              labelText: "Enter Your Password",
                               labelStyle: GoogleFonts.chakraPetch(
                                 color: const Color.fromARGB(155, 12, 49, 22),
                                 fontSize: 16,
@@ -277,7 +277,7 @@ class _LoginPageState extends State<LoginPage> {
                             );
                           },
                           child: Text(
-                            "Sign Up",
+                            "SignUp",
                             style: GoogleFonts.chakraPetch(
                               fontSize: 18,
                               color: const Color.fromARGB(255, 7, 59, 58),

@@ -106,7 +106,7 @@ class _SignUpPageState extends State<SignUpPage> {
                     ),
                   ),
                   Text(
-                    "Sign up to join the tech community",
+                    "Sign up to join the TechLink community",
                     style: GoogleFonts.chakraPetch(
                       fontSize: 16,
                       color: const Color.fromARGB(255, 7, 59, 58),
@@ -164,7 +164,7 @@ class _SignUpPageState extends State<SignUpPage> {
                           return 'Please enter your name';
                         }
                         if (value.length < 3) {
-                          return 'Name must be at least 3 characters';
+                          return 'Name must be at least 3 characters!';
                         }
                         return null;
                       },

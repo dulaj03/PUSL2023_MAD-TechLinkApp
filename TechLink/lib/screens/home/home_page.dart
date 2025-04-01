@@ -175,7 +175,7 @@ class _HomePageState extends State<HomePage> {
                   height: 4,
                   child: LinearProgressIndicator(
                     borderRadius: BorderRadius.circular(100),
-                    color: Color.fromARGB(255, 7, 59, 58),
+                    color: Color.fromARGB(256, 7, 59, 58),
                   ),
                 ),
               ],
@@ -185,7 +185,7 @@ class _HomePageState extends State<HomePage> {
         : Scaffold(
           body: _pages[_bottomNavIndex],
           floatingActionButton: FloatingActionButton(
-            backgroundColor: const Color.fromARGB(255, 146, 227, 169),
+            backgroundColor: const Color.fromARGB(256, 146, 227, 169),
             shape: const CircleBorder(),
             onPressed: () {
               Navigator.of(
@@ -207,9 +207,9 @@ class _HomePageState extends State<HomePage> {
             gapLocation: GapLocation.center,
             notchSmoothness: NotchSmoothness.softEdge,
             onTap: _handleNavigation,
-            activeColor: const Color.fromARGB(255, 146, 227, 169),
+            activeColor: const Color.fromARGB(256, 144, 227, 169),
             inactiveColor: Colors.white,
-            backgroundColor: const Color.fromARGB(255, 7, 59, 58),
+            backgroundColor: const Color.fromARGB(256, 9, 59, 58),
             iconSize: 30,
             splashRadius: 0,
             splashColor: Colors.transparent,

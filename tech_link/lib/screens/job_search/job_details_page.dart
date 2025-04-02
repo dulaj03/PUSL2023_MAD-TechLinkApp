@@ -45,8 +45,8 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Text('Application submitted successfully!'),
-        backgroundColor: Color.fromARGB(255, 7, 59, 58),
-        duration: Duration(seconds: 2),
+        backgroundColor: Color.fromARGB(256, 9, 56, 60),
+        duration: Duration(seconds: 1),
       ),
     );
   }
@@ -68,7 +68,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
               _isSaved ? Icons.bookmark : Icons.bookmark_border,
               color:
                   _isSaved
-                      ? const Color.fromARGB(255, 146, 227, 169)
+                      ? const Color.fromARGB(256, 148, 226, 166)
                       : Colors.grey[600],
             ),
             onPressed: _toggleSave,
@@ -83,7 +83,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
         title: Text(
           'Job Details',
           style: GoogleFonts.chakraPetch(
-            color: Colors.black,
+            color: Colors.darkgray,
             fontWeight: FontWeight.bold,
           ),
         ),
@@ -253,7 +253,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                       style: GoogleFonts.chakraPetch(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
-                        color: Colors.black,
+                        color: Colors.darkgray,
                       ),
                     ),
                     const SizedBox(height: 12),
@@ -312,7 +312,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     style: GoogleFonts.chakraPetch(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: Colors.black,
+                      color: Colors.darkgray,
                     ),
                   ),
                   const SizedBox(height: 12),
@@ -389,7 +389,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     style: GoogleFonts.chakraPetch(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: Colors.black,
+                      color: Colors.darkgray,
                     ),
                   ),
                   const SizedBox(height: 12),

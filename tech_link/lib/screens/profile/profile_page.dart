@@ -59,7 +59,7 @@ class _ProfilePageState extends State<ProfilePage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               SizedBox(
-                height: 250,
+                height: 280,
                 child: Stack(
                   clipBehavior: Clip.none,
                   children: [
@@ -70,7 +70,7 @@ class _ProfilePageState extends State<ProfilePage> {
                       fit: BoxFit.cover,
                     ),
                     Positioned(
-                      top: 80,
+                      top: 90,
                       left: 20,
                       child: Container(
                         decoration: BoxDecoration(
@@ -79,7 +79,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         ),
                         child: ClipOval(
                           child: SizedBox(
-                            height: 150,
+                            height: 160,
                             width: 150,
                             child: FadeInImage.assetNetwork(
                               placeholder: 'assets/icon_bg_F.jpg',
@@ -97,7 +97,7 @@ class _ProfilePageState extends State<ProfilePage> {
                       ),
                     ),
                     Positioned(
-                      top: 160,
+                      top: 180,
                       right: 10,
                       child: IconButton(
                         onPressed: showEditProfileDialog,
@@ -127,7 +127,7 @@ class _ProfilePageState extends State<ProfilePage> {
                       child: Text(
                         userProvider.user!.email,
                         style: GoogleFonts.chakraPetch(
-                          fontSize: 15,
+                          fontSize: 18,
                           fontWeight: FontWeight.w500,
                           color: Colors.grey,
                         ),
@@ -157,7 +157,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         Text(
                           "Activity",
                           style: GoogleFonts.chakraPetch(
-                            fontSize: 20,
+                            fontSize: 24,
                             fontWeight: FontWeight.bold,
                             color: Colors.black,
                           ),
@@ -186,7 +186,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             style: GoogleFonts.chakraPetch(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
-                              fontSize: 15,
+                              fontSize: 18,
                             ),
                           ),
                         ),
@@ -210,7 +210,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             Text(
                               "12",
                               style: GoogleFonts.chakraPetch(
-                                fontSize: 16,
+                                fontSize: 18,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black,
                               ),
@@ -222,7 +222,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             Text(
                               "Followers",
                               style: GoogleFonts.chakraPetch(
-                                fontSize: 16,
+                                fontSize: 18,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black,
                               ),
@@ -231,7 +231,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             Text(
                               "1.2k",
                               style: GoogleFonts.chakraPetch(
-                                fontSize: 16,
+                                fontSize: 18,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black,
                               ),
@@ -252,7 +252,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             Text(
                               "1.5k",
                               style: GoogleFonts.chakraPetch(
-                                fontSize: 16,
+                                fontSize: 18,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.black,
                               ),
@@ -273,7 +273,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     SizedBox(
                       width: screenSize.width,
                       child: Text(
-                        "I am a passionate Software Engineer specializing in AI-driven tech solutions, mobile and web development, and cloud computing. I am also a tech enthusiast and a lifelong learner.",
+                        "I am a passionate Software Engineer (BSc) specializing in AI-driven tech solutions, mobile and web development, and cloud computing. I am also a tech enthusiast and a lifelong learner.",
                         style: GoogleFonts.chakraPetch(
                           fontSize: 15,
                           fontWeight: FontWeight.w500,
@@ -295,7 +295,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                     const SizedBox(height: 12),
                     SizedBox(
-                      height: 235,
+                      height: 230,
                       child: ListView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: featuredPosts.length,

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny avisering</item>
+    <item quantity="other">%d nya aviseringar</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigera hem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Lösenord"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Nyckel"</string>
+    <string name="bottomsheet_action_collapse">Komprimera arket på nedre delen av skärmen</string>
+    <string name="bottomsheet_action_expand">Utöka arket på nedre delen av skärmen</string>
+    <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
+    <string name="bottomsheet_drag_handle_clicked">Du tryckte snabbt två gånger på handtaget</string>
+    <string name="bottomsheet_drag_handle_content_description">Handtag</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Svara"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Avvisa"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Lägg på"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkommande samtal"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pågående samtal"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Ett inkommande samtal filtreras"</string>
+    <string name="character_counter_content_description">%1$d av %2$d tecken har angetts</string>
+    <string name="character_counter_overflowed_content_description">Teckengränsen har överskridits: %1$d av %2$d</string>
+    <string name="clear_text_end_icon_content_description">Rensa text</string>
+    <string msgid="406453423630273620" name="close_drawer">"Stäng navigeringsmenyn"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Stäng kalkylarket"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Komprimerad"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivera</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivera Google Play-tjänster</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installera</string>
+    <string name="common_google_play_services_install_text">%1$s kan inte köras utan Google Play-tjänsterna, som saknas på enheten.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hämta Google Play-tjänster</string>
+    <string name="common_google_play_services_notification_channel_name">Tillgänglighet för Google Plays tjänster</string>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_unknown_issue">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Uppdatera</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Uppdatera Google Play-tjänster</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_wear_update_text">En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort.</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_signin_button_text">Logga in</string>
+    <string name="common_signin_button_text_long">Logga in med Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Länk kopierad till Urklipp"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ogiltiga indata"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Popup-fönster"</string>
+    <string msgid="4057925834421392736" name="dialog">"Dialogruta"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Rullgardinsmeny"</string>
+    <string name="error_icon_content_description">Fel</string>
+    <string msgid="5974471714631304645" name="expanded">"Utökad"</string>
+    <string name="exposed_dropdown_menu_content_description">Visa rullgardinsmenyn</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiera länk"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Öppna i webbläsaren"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Dela länk"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Dialogikon</string>
+    <string msgid="6827826412747255547" name="in_progress">"Pågår"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delvis markerad"</string>
+    <string name="item_view_role_description">Flik</string>
+    <string name="material_clock_toggle_content_description">Välj mellan FM och EM</string>
+    <string name="material_hour_24h_suffix">%1$s timmar</string>
+    <string name="material_hour_selection">Ange timme</string>
+    <string name="material_hour_suffix">Klockan %1$s</string>
+    <string name="material_minute_selection">Välj minuter</string>
+    <string name="material_minute_suffix">%1$s minuter</string>
+    <string name="material_timepicker_am">FM</string>
+    <string name="material_timepicker_clock_mode_description">Byt till klockläget och ange tid.</string>
+    <string name="material_timepicker_hour">Timme</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">EM</string>
+    <string name="material_timepicker_select_time">Välj tid</string>
+    <string name="material_timepicker_text_input_mode_description">Byt till textinmatningsläget och ange tid.</string>
+    <string name="mtrl_badge_numberless_content_description">Ny avisering</string>
+    <string name="mtrl_chip_close_icon_content_description">Ta bort (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Fler än %1$d nya aviseringar</string>
+    <string name="mtrl_picker_a11y_next_month">Ändra till nästa månad</string>
+    <string name="mtrl_picker_a11y_prev_month">Ändra till föregående månad</string>
+    <string name="mtrl_picker_announce_current_range_selection">Val av startdatum: %1$s – val av slutdatum: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuellt val: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">inget</string>
+    <string name="mtrl_picker_cancel">Avbryt</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Välj datum</string>
+    <string name="mtrl_picker_date_header_unselected">Valt datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumn med dagar: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Slutdatum %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ogiltigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Exempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Använd %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ogiltigt intervall.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigera till innevarande år %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigera till år %1$d</string>
+    <string name="mtrl_picker_out_of_range">Utanför intervallet: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–slutdatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Välj intervall</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum–slutdatum</string>
+    <string name="mtrl_picker_save">Spara</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_today_description">Idag %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Byt till kalender som inmatningsläge</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tryck för att byta till kalendervy</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Byt till text som inmatningsläge</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tryck för att byta till årsvy</string>
+    <string name="mtrl_timepicker_cancel">Avbryt</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigeringsmeny"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Inte vald"</string>
+    <string msgid="875452955155264703" name="off">"Av"</string>
+    <string msgid="8655164131929253426" name="on">"På"</string>
+    <string name="password_toggle_content_description">Visa lösenord</string>
+    <string msgid="5941395253238309765" name="range_end">"Intervallets slut"</string>
+    <string msgid="7097486360902471446" name="range_start">"Intervallets början"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Sök"</string>
+    <string msgid="6043586758067023" name="selected">"Valt"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_acc_label_card_number">Kortnummer</string>
+    <string name="stripe_acc_label_card_number_node">%s, kortnummer</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC-kod</string>
+    <string name="stripe_acc_label_expiry_date">Sista giltighetsdag</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, sista giltighetsdag</string>
+    <string name="stripe_acc_label_zip">Postkod</string>
+    <string name="stripe_acc_label_zip_short">Postkod</string>
+    <string name="stripe_add_bank_account">Lägg till bankkonto</string>
+    <string name="stripe_add_new_payment_method">Lägg till en ny betalningsmetod</string>
+    <string name="stripe_add_payment_method">Lägg till en betalningsmetod</string>
+    <string name="stripe_added">La till %s</string>
+    <string name="stripe_address_city_required">Ange ort</string>
+    <string name="stripe_address_country_invalid">Ditt land är ogiltigt</string>
+    <string name="stripe_address_county_required">Ange land</string>
+    <string name="stripe_address_label_address">Adress</string>
+    <string name="stripe_address_label_address_line1">Adressrad 1</string>
+    <string name="stripe_address_label_address_line1_optional">Adressrad 1 (valfritt)</string>
+    <string name="stripe_address_label_address_line2">Adressrad 2</string>
+    <string name="stripe_address_label_address_line2_optional">Adressrad 2 (valfritt)</string>
+    <string name="stripe_address_label_address_optional">Adress (valfritt)</string>
+    <string name="stripe_address_label_ae_emirate">Emirat</string>
+    <string name="stripe_address_label_apt_optional">Lgh. (valfritt)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Förort eller stad</string>
+    <string name="stripe_address_label_bb_jm_parish">Parish</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Ort</string>
+    <string name="stripe_address_label_city_optional">Ort (valfritt)</string>
+    <string name="stripe_address_label_country">Land</string>
+    <string name="stripe_address_label_country_or_region">Land eller region</string>
+    <string name="stripe_address_label_county">Landskap</string>
+    <string name="stripe_address_label_county_optional">Region (valfritt)</string>
+    <string name="stripe_address_label_department">Departement</string>
+    <string name="stripe_address_label_district">Distrikt</string>
+    <string name="stripe_address_label_full_name">Fullständigt namn</string>
+    <string name="stripe_address_label_hk_area">Område</string>
+    <string name="stripe_address_label_ie_eircode">Eircode</string>
+    <string name="stripe_address_label_ie_townland">Townland</string>
+    <string name="stripe_address_label_in_pin">Pin</string>
+    <string name="stripe_address_label_island">Ö</string>
+    <string name="stripe_address_label_jp_prefecture">Prefektur</string>
+    <string name="stripe_address_label_kr_do_si">Provins och stad</string>
+    <string name="stripe_address_label_name">Namn</string>
+    <string name="stripe_address_label_neighborhood">Stadsdel</string>
+    <string name="stripe_address_label_oblast">Oblast</string>
+    <string name="stripe_address_label_phone_number">Telefonnummer</string>
+    <string name="stripe_address_label_phone_number_optional">Telefonnummer (valfritt)</string>
+    <string name="stripe_address_label_post_town">Post eller stad</string>
+    <string name="stripe_address_label_postal_code">Postnummer</string>
+    <string name="stripe_address_label_postal_code_optional">Postnummer (valfritt)</string>
+    <string name="stripe_address_label_postcode">Postnummer</string>
+    <string name="stripe_address_label_postcode_optional">Postnummer (valfritt)</string>
+    <string name="stripe_address_label_province">Provins</string>
+    <string name="stripe_address_label_province_optional">Provins (valfritt)</string>
+    <string name="stripe_address_label_region_generic">Delstat/region/provins</string>
+    <string name="stripe_address_label_region_generic_optional">Delstat/region/provins (valfritt)</string>
+    <string name="stripe_address_label_state">Delstat</string>
+    <string name="stripe_address_label_state_optional">Delstat (valfritt)</string>
+    <string name="stripe_address_label_suburb">Förort</string>
+    <string name="stripe_address_label_village_township">By eller kommun</string>
+    <string name="stripe_address_label_zip_code">Postnummer</string>
+    <string name="stripe_address_label_zip_code_optional">Postnummer (valfritt)</string>
+    <string name="stripe_address_label_zip_postal_code">Postnummer</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Postnummer (valfritt)</string>
+    <string name="stripe_address_name_required">Ange ditt namn</string>
+    <string name="stripe_address_phone_number_required">Ange ditt telefonnummer</string>
+    <string name="stripe_address_postal_code_invalid">Ditt postnummer är ogiltigt.</string>
+    <string name="stripe_address_postcode_invalid">Postnumret är ogiltigt</string>
+    <string name="stripe_address_province_required">Ange provins</string>
+    <string name="stripe_address_region_generic_required">Ange delstat/region/provins</string>
+    <string name="stripe_address_required">Ange adress</string>
+    <string name="stripe_address_search_content_description">Sök</string>
+    <string name="stripe_address_state_required">Ange delstat</string>
+    <string name="stripe_address_zip_invalid">Postnumret är ogiltigt.</string>
+    <string name="stripe_address_zip_postal_invalid">Postnumret är ogiltigt</string>
+    <string name="stripe_affirm_buy_now_pay_later">Sprid ut betalningarna med &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Sprid ut betalningarna med Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Köp nu eller betala senare med <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Betala av genom <num_installments/> räntefria delbetalningar på <installment_price/> med <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d räntefria betalningar på %2$s</string>
+    <string name="stripe_afterpay_subtitle">Köp nu eller betala senare med Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Genom att bekräfta betalningen med Amazon Pay tillåter du %s att debitera ditt Amazon Pay-konto för framtida betalningar i enlighet med deras villkor.</string>
+    <string name="stripe_au_becs_account_name">Namn på kontot</string>
+    <string name="stripe_au_becs_bsb_number">BSB-nummer</string>
+    <string name="stripe_au_becs_mandate">Genom att tillhandahålla dina bankkontouppgifter och bekräfta denna betalning samtycker du till denna begäran om autogiro och &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">användaravtalet för autogiro&lt;/a>, och godkänner att Stripe Payments Australia Pty Ltd ACN 160 180 343 Användar-ID för autogiro 507156 (“Stripe”) debiterar ditt konto via Bulk Electronic Clearing System (BECS) på uppdrag av %s (”handlaren”) för alla belopp som separat meddelats till dig av handlaren. Du intygar att du antingen är kontoinnehavare eller auktoriserad undertecknare på det konto som anges ovan.</string>
+    <string name="stripe_back">Tillbaka</string>
+    <string name="stripe_bacs_account_number">Kontonummer</string>
+    <string name="stripe_bacs_account_number_incomplete">Kontonumret är ofullständigt.</string>
+    <string name="stripe_bacs_bank_account_title">Bankkonto</string>
+    <string name="stripe_bacs_confirm_mandate_label">Jag är införstådd med att Stripe samlar in autogireringar på uppdrag av %s och bekräftar att jag är kontoinnehavaren och den enda person som krävs för att godkänna debiteringar från detta konto.</string>
+    <string name="stripe_bacs_sort_code">Clearingnummer (sort code)</string>
+    <string name="stripe_bacs_sort_code_incomplete">Sort code (clearingnummer) är ofullständigt.</string>
+    <string name="stripe_bank_account_ending_in">Bankkonto med slutsiffrorna %s</string>
+    <string name="stripe_bank_account_plus_last_4">Bankkonto ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Bankkonto ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Genom att tillhandahålla dina bankkontouppgifter och bekräfta denna betalning, samtycker du till denna \n    begäran om autogiro och användaravtalet för autogiro, och godkänner att\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 Användar-ID för autogiro 507156\n    (“Stripe”) debiterar ditt konto via Bulk Electronic Clearing System (BECS) på \n    uppdrag av %1$s (\"handlaren\") för alla belopp som separat meddelats till dig\n    av handlaren. Du intygar att du antingen är kontoinnehavare eller auktoriserad\n    undertecknare på det konto som anges ovan.\n    </string>
+    <string name="stripe_becs_widget_account_number">Kontonummer</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Kontonumret du angav är ofullständigt.</string>
+    <string name="stripe_becs_widget_account_number_required">Kontonummer är obligatoriskt.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">Det BSB du angav är ofullständigt.</string>
+    <string name="stripe_becs_widget_bsb_invalid">Det BSB du angav är ogiltigt.</string>
+    <string name="stripe_becs_widget_email">E-postadress</string>
+    <string name="stripe_becs_widget_email_invalid">E-postadressen är ogiltig.</string>
+    <string name="stripe_becs_widget_email_required">E-postadress är obligatoriskt.</string>
+    <string name="stripe_becs_widget_name">Namn</string>
+    <string name="stripe_becs_widget_name_required">Namn är obligatoriskt.</string>
+    <string name="stripe_billing_details">Faktureringsadress</string>
+    <string name="stripe_billing_same_as_shipping">Faktureringsadress är samma som leveransadress</string>
+    <string name="stripe_blank_and_required">Detta fält kan inte vara tomt.</string>
+    <string name="stripe_blik_code">BLIK-kod</string>
+    <string name="stripe_blik_confirm_payment">Bekräfta betalningen i din banks app inom %s för att slutföra köpet.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Avbryt</string>
+    <string name="stripe_card_brand_choice_no_selection">Inget val</string>
+    <string name="stripe_card_brand_choice_selection_header">Välj korttyp (valfritt)</string>
+    <string name="stripe_card_declined">Ditt kort nekades</string>
+    <string name="stripe_card_ending_in">%1$s med slutsiffrorna %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Genom att fortsätta godkänner du att %1$s debiterar ditt Cash App-konto för den här betalningen och framtida betalningar i enlighet med %2$ss villkor, tills detta godkännande återkallas. Du kan när som helst ändra detta i dina Cash App-inställningar.</string>
+    <string name="stripe_change">Ändra</string>
+    <string name="stripe_clearpay_subtitle">Köp nu eller betala senare med Clearpay</string>
+    <string name="stripe_close">Stäng</string>
+    <string name="stripe_confirm_close_form_body">Din betalningsinformation kommer inte att sparas.</string>
+    <string name="stripe_confirm_close_form_title">Vill du stänga det här formuläret?</string>
+    <string name="stripe_contact_information">Kontaktinformation</string>
+    <string name="stripe_continue_button_label">Fortsätt</string>
+    <string name="stripe_delete_payment_method">Ta bort betalningsmetoden</string>
+    <string name="stripe_delete_payment_method_prompt_title">Ta bort betalningsmetoden?</string>
+    <string name="stripe_done">Klar</string>
+    <string name="stripe_edit">Redigera</string>
+    <string name="stripe_email">E-post</string>
+    <string name="stripe_email_is_invalid">Din e-postadress är ogiltig.</string>
+    <string name="stripe_eps_bank">EPS Bank</string>
+    <string name="stripe_expiration_date_hint">MM/ÅÅ</string>
+    <string name="stripe_expired_card">Kortet har löpt ut</string>
+    <string name="stripe_expiry_date_hint">MM/ÅÅ</string>
+    <string name="stripe_expiry_label_short">Giltighetstid</string>
+    <string name="stripe_failure_connection_error">Vi har problem med anslutningen till vår leverantör av betaltjänster. Kontrollera internetanslutningen och försök igen.</string>
+    <string name="stripe_failure_reason_authentication">Vi kan inte verifiera din betalningsmetod. Välj en annan betalningsmetod och försök igen.</string>
+    <string name="stripe_failure_reason_timed_out">Tidsgränsen överskreds vid autentisering av betalningsmetoden – försök igen</string>
+    <string name="stripe_field_required">Detta är obligatoriskt</string>
+    <string name="stripe_form_label_optional">%s (valfritt)</string>
+    <string name="stripe_fpx_bank">FPX Bank</string>
+    <string name="stripe_fpx_bank_offline">%s - offline</string>
+    <string name="stripe_generic_decline">Din betalningsmetod godkändes inte.</string>
+    <string name="stripe_hcaptcha_loading_text">Bekräfta att du är människa</string>
+    <string name="stripe_iban_incomplete">Angivet IBAN är ofullständigt.</string>
+    <string name="stripe_iban_invalid_country">Angivet IBAN är ogiltigt, \"%s\" är inte en giltig landskod.</string>
+    <string name="stripe_iban_invalid_start">Ditt IBAN ska börja med en landskod (två bokstäver).</string>
+    <string name="stripe_ideal_bank">iDEAL Bank</string>
+    <string name="stripe_incomplete_blik_code">Din BLIK-kod är ofullständig.</string>
+    <string name="stripe_incomplete_expiry_date">Kortets utgångsdatum är ofullständigt.</string>
+    <string name="stripe_incomplete_phone_number">Ofullständigt telefonnummer</string>
+    <string name="stripe_inline_sign_up_header">Spara dina uppgifter för säker betalning med ett klick med Link</string>
+    <string name="stripe_internal_error">Ett internt fel uppstod.</string>
+    <string name="stripe_invalid_bank_account_iban">Angivet IBAN är ogiltigt.</string>
+    <string name="stripe_invalid_blik_code">Din BLIK-kod är ogiltig.</string>
+    <string name="stripe_invalid_card_number">Kortnumret är ogiltigt.</string>
+    <string name="stripe_invalid_cvc">Kortets säkerhetskod är ogiltig.</string>
+    <string name="stripe_invalid_email_address">Ogiltig e-postadress: %s</string>
+    <string name="stripe_invalid_expiry_month">Kortets utgångsmånad är ogiltig.</string>
+    <string name="stripe_invalid_expiry_year">Kortets utgångsår är ogiltigt.</string>
+    <string name="stripe_invalid_owner_name">Ditt namn är ogiltigt.</string>
+    <string name="stripe_invalid_shipping_information">Ogiltig leveransadress</string>
+    <string name="stripe_invalid_upi_id">Ogiltigt UPI ID</string>
+    <string name="stripe_invalid_zip">Ditt postnummer är ofullständigt.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Köp nu eller betala senare med Klarna.</string>
+    <string name="stripe_klarna_mandate">Genom att fortsätta till Klarna tillåter du %1$s att debitera ditt Klarna-konto för framtida betalningar i enlighet med deras och Klarnas villkor. Du kan när som helst ändra detta i din Klarna-app eller genom att kontakta %2$s.</string>
+    <string name="stripe_klarna_pay_later">Betala senare med Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Telefonnummer</string>
+    <string name="stripe_link_simple_secure_payments">Enkla och säkra betalningar med ett klick</string>
+    <string name="stripe_log_out">Logga ut från Link</string>
+    <string name="stripe_name_on_card">Namn på kortet</string>
+    <string name="stripe_network_error_message">Ett fel uppstod. Kontrollera din anslutning och försök igen.</string>
+    <string name="stripe_p24_bank">Przelewy24 Bank</string>
+    <string name="stripe_pay_button_amount">Betala %s</string>
+    <string name="stripe_pay_with_link">Betala med Link</string>
+    <string name="stripe_payment_method_add_new_card">Lägg till nytt kort ...</string>
+    <string name="stripe_payment_method_add_new_fpx">Välj bankkonto (FPX) ...</string>
+    <string name="stripe_payment_method_bank">Bank</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Genom att fortsätta samtycker du till att godkänna betalningar i enlighet med dessa <terms>villkor</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Genom att spara ditt bankkonto för %s samtycker du till att godkänna betalningar i enlighet med <terms>dessa villkor</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Något gick fel när ditt konto länkades.\nFörsök igen senare.</string>
+    <string name="stripe_paymentsheet_add_card">Lägg till kort</string>
+    <string name="stripe_paymentsheet_add_new_card">Lägg till nytt kort</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Lägg till</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kortinformation</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Lägg till betalningsinformation</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Lägg till amerikanskt bankkonto</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Spara adress</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Leveransadress</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Ett e-postmeddelande kommer att skickas till %s inom tre arbetsdagar för att bekräfta att detta autogiro har upprättats.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Bekräfta dina autogirouppgifter</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Ändra uppgifter</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Dessutom kommer du att två dagar i förväg via e-post få besked om alla belopp som ska debiteras enligt detta medgivande. Betalningar kommer att visas som \'%s\' på ditt bankkontoutdrag.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Dina betalningar skyddas av %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Köp med ett UPI ID</string>
+    <string name="stripe_paymentsheet_card_mandate">Genom att tillhandahålla kortinformationen ger du %s tillåtelse att debitera ditt kort för framtida betalningar enligt deras villkor.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Välj en betalmetod</string>
+    <string name="stripe_paymentsheet_close">Stäng</string>
+    <string name="stripe_paymentsheet_confirm">Bekräfta</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Bekräfta din CVC-kod</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Ange adress manuellt</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Hantera betalningsmetoder</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Hantera dina betalningsmetoder</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe sätter in 0,01 USD på ditt konto inom 1–2 arbetsdagar. Sedan får du ett e-postmeddelande med instruktioner för att slutföra betalningen till %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Redigera %s</string>
+    <string name="stripe_paymentsheet_new_card">Nytt kort</string>
+    <string name="stripe_paymentsheet_new_pm">Ny betalningsmetod</string>
+    <string name="stripe_paymentsheet_or_pay_using">Eller betala genom att använda</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Eller betala med ett kort</string>
+    <string name="stripe_paymentsheet_or_use">Eller använd</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Eller använd ett kort</string>
+    <string name="stripe_paymentsheet_pay_button_label">Betala</string>
+    <string name="stripe_paymentsheet_pay_using">Betala med</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Betala med ditt bankkonto på några få steg.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">AU BECS Direct Debit</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Bacs Direct Debit</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kort</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA Debit</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Bearbetar ...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Ta bort bankkonto?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Ta bort bankkonto</string>
+    <string name="stripe_paymentsheet_remove_card">Ta bort kort</string>
+    <string name="stripe_paymentsheet_remove_card_title">Ta bort kort?</string>
+    <string name="stripe_paymentsheet_remove_pm">Ta bort %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Ta bort betalningsmetod</string>
+    <string name="stripe_paymentsheet_save">Spara</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Spara en ny betalningsmetod</string>
+    <string name="stripe_paymentsheet_save_bank_title">Spara ditt bankkonto med några få steg.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Spara för framtida betalningar</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Spara detta kort för framtida betalningar hos %s</string>
+    <string name="stripe_paymentsheet_saved">Sparad</string>
+    <string name="stripe_paymentsheet_select_payment_method">Välj betalningsmetod</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Välj din betalningsmetod</string>
+    <string name="stripe_paymentsheet_total_amount">Totalt: %s</string>
+    <string name="stripe_paypal_mandate">Genom att bekräfta betalningen med PayPal tillåter du %s att debitera ditt PayPal-konto för framtida betalningar i enlighet med deras villkor.</string>
+    <string name="stripe_pm_set_as_default">Ställ in som standardbetalningsmetod</string>
+    <string name="stripe_price_free">Gratis</string>
+    <string name="stripe_processing_error">Ett fel uppstod vid behandlingen av ditt kort - försök igen om ett par sekunder</string>
+    <string name="stripe_remove">Ta bort</string>
+    <string name="stripe_remove_bank_account_ending_in">Ta bort bankkonto som slutar på %s</string>
+    <string name="stripe_removed">%s har tagits bort</string>
+    <string name="stripe_revolut_mandate">Genom att bekräfta betalningen med RevolutPay tillåter du %s att debitera ditt RevolutPay-konto för framtida betalningar i enlighet med deras villkor.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Spara för framtida %s-betalningar</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Spara betalningsuppgifter hos %s för framtida köp</string>
+    <string name="stripe_scan_card">Skanna kort</string>
+    <string name="stripe_secure_checkout">Säker betalning</string>
+    <string name="stripe_sepa_mandate">Genom att tillhandahålla din betalningsinformation och bekräfta denna betalning godkänner du (A) %s och Stripe, vår betaltjänstleverantör, att skicka instruktioner till din bank att debitera ditt konto och (B) din bank att debitera ditt konto i enlighet med dessa instruktioner. Som en del av dina rättigheter har du rätt till återbetalning från din bank enligt villkoren för ditt avtal med din bank. Återbetalning måste krävas inom åtta veckor från det datum då ditt konto debiterades. Dina rättigheter förklaras i ett utdrag som du kan få från din bank. Du godkänner att få aviseringar för framtida debiteringar upp till två dagar innan de inträffar.</string>
+    <string name="stripe_setup_button_label">Konfigurera</string>
+    <string name="stripe_show_menu">Visa meny</string>
+    <string name="stripe_sign_up">Börja använda Link</string>
+    <string name="stripe_sign_up_header">Betala säkert med ett klick</string>
+    <string name="stripe_sign_up_message">Betala snabbare hos %s och hos tusentals handlare.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Genom att registrera dig på Link, godkänner du våra <terms>villkor</terms> och vår <privacy>integritetspolicy</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Genom att tillhandahålla din e-postadress godkänner du att skapa ett Link-konto och spara dina betalningsuppgifter hos Link, i enlighet med <terms>Links villkor</terms> och <privacy>integritetspolicy</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Genom att tillhandahålla ditt telefonnummer godkänner du att skapa ett Link-konto och spara dina betalningsuppgifter hos Link, i enlighet med <terms>Links villkor</terms> och <privacy>integritetspolicy</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Någonting gick fel</string>
+    <string name="stripe_title_add_a_card">Lägg till kort</string>
+    <string name="stripe_title_add_an_address">Lägg till adress</string>
+    <string name="stripe_title_bank_account">Bankkonto</string>
+    <string name="stripe_title_payment_method">Betalningsmetod</string>
+    <string name="stripe_title_select_shipping_method">Välj leveransmetod</string>
+    <string name="stripe_title_update_card">Uppdatera kort</string>
+    <string name="stripe_update">Uppdatera</string>
+    <string name="stripe_upi_id_label">UPI ID</string>
+    <string name="stripe_upi_polling_cancel">Avbryt och betala på ett annat sätt</string>
+    <string name="stripe_upi_polling_header">Godkänn betalning</string>
+    <string name="stripe_upi_polling_message">Öppna UPI-appen för att godkänna din betalning inom %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Gå tillbaka och välj en annan betalningsmetod</string>
+    <string name="stripe_upi_polling_payment_failed_title">Betalningen misslyckades</string>
+    <string name="stripe_verification_change_email">Ändra e-postadress</string>
+    <string name="stripe_verification_code_sent">Koden har skickats</string>
+    <string name="stripe_verification_header">Ange din verifieringskod</string>
+    <string name="stripe_verification_header_inline">Logga in på ditt Link-konto</string>
+    <string name="stripe_verification_header_prefilled">Använd din sparade information för att betala snabbare</string>
+    <string name="stripe_verification_message">Ange koden som skickades till %s för att använda Link för att betala som standard.</string>
+    <string name="stripe_verification_not_email">Inte %s?</string>
+    <string name="stripe_verification_resend">Skicka koden igen</string>
+    <string name="stripe_verify_your_payment">Verifiera din betalning</string>
+    <string name="stripe_view_more">Visa mer</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Genom att fortsätta samtycker du till att godkänna betalningar i enlighet med dessa <terms>villkor</terms>.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Betalning</string>
+    <string name="stripe_wallet_default">Standard</string>
+    <string name="stripe_wallet_expanded_title">Betalningsmetoder</string>
+    <string name="stripe_wallet_pay_another_way">Betala på ett annat sätt</string>
+    <string name="stripe_wallet_recollect_cvc_error">Ange säkerhetskoden för ditt kort igen av säkerhetsskäl.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Är du säker på att du vill ta bort det länkade kontot?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Är du säker på att du vill ta bort kortet?</string>
+    <string name="stripe_wallet_remove_linked_account">Ta bort länkat konto</string>
+    <string name="stripe_wallet_set_as_default">Ställ in som standard</string>
+    <string name="stripe_wallet_unavailable">Otillgängligt för detta köp</string>
+    <string name="stripe_wallet_update_card">Uppdatera kort</string>
+    <string name="stripe_wallet_update_expired_card_error">Detta kort har löpt ut. Uppdatera kortinformationen eller använd en annan betalningsmetod.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Reglage"</string>
+    <string msgid="1672349317127674378" name="tab">"Flik"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string name="wallet_buy_button_place_holder">Köp med Google</string>
+</resources>

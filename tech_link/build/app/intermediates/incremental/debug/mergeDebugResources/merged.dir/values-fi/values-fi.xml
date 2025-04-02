@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uusi ilmoitus</item>
+    <item quantity="other">%d uutta ilmoitusta</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lisäasetukset"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"POIS PÄÄLTÄ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÄÄLLÄ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Vaihto+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"välilyönti"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Valikko+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hakukysely"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaa…"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jaa: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tiivistä"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Salasana"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Avainkoodi"</string>
+    <string name="bottomsheet_action_collapse">Tiivistä alapaneeli</string>
+    <string name="bottomsheet_action_expand">Laajenna alapaneeli</string>
+    <string name="bottomsheet_action_expand_halfway">Laajenna puoliväliin</string>
+    <string name="bottomsheet_drag_handle_clicked">Vetokahvaa kaksoisnapautettu</string>
+    <string name="bottomsheet_drag_handle_content_description">Vetokahva</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Vastaa"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Hylkää"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Lopeta puhelu"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Saapuva puhelu"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Käynnissä oleva puhelu"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Seulotaan saapuvaa puhelua"</string>
+    <string name="character_counter_content_description">%1$d/%2$d merkkiä kirjoitettu</string>
+    <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Tyhjennä teksti</string>
+    <string msgid="406453423630273620" name="close_drawer">"Sulje navigointivalikko"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Sulje taulukko"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Tiivistetty"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Päivitä</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Linkki kopioitu leikepöydälle"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Virheellinen syöte"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Ponnahdusikkuna"</string>
+    <string msgid="4057925834421392736" name="dialog">"Valintaikkuna"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Avattava valikko"</string>
+    <string name="error_icon_content_description">Virhe</string>
+    <string msgid="5974471714631304645" name="expanded">"Laajennettu"</string>
+    <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopioi linkki"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Avaa selaimessa"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Jaa linkki"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Valintaikkunan kuvake</string>
+    <string msgid="6827826412747255547" name="in_progress">"Kesken"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Osittain tarkistettu"</string>
+    <string name="item_view_role_description">Välilehti</string>
+    <string name="material_clock_toggle_content_description">Valitse AP tai IP</string>
+    <string name="material_hour_24h_suffix">%1$s tuntia</string>
+    <string name="material_hour_selection">Valitse tunti</string>
+    <string name="material_hour_suffix">klo %1$s</string>
+    <string name="material_minute_selection">Valitse minuutit</string>
+    <string name="material_minute_suffix">%1$s minuuttia</string>
+    <string name="material_timepicker_am">ap</string>
+    <string name="material_timepicker_clock_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
+    <string name="material_timepicker_hour">Tunnit</string>
+    <string name="material_timepicker_minute">Minuutti</string>
+    <string name="material_timepicker_pm">ip</string>
+    <string name="material_timepicker_select_time">Valitse aika</string>
+    <string name="material_timepicker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
+    <string name="mtrl_badge_numberless_content_description">Uusi ilmoitus</string>
+    <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Yli %1$d uutta ilmoitusta</string>
+    <string name="mtrl_picker_a11y_next_month">Vaihda seuraavaan kuukauteen</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaihda edelliseen kuukauteen</string>
+    <string name="mtrl_picker_announce_current_range_selection">Alkamispäivän valinta: %1$s – päättymispäivän valinta: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Nykyinen valinta: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">–</string>
+    <string name="mtrl_picker_cancel">Peru</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valitse päivämäärä</string>
+    <string name="mtrl_picker_date_header_unselected">Valittu päivämäärä</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päiväsarake: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Päättyy %1$s</string>
+    <string name="mtrl_picker_invalid_format">Virheellinen muoto</string>
+    <string name="mtrl_picker_invalid_format_example">Esimerkki: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Käytä muotoa %1$s</string>
+    <string name="mtrl_picker_invalid_range">Virheellinen alue</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Siirry kuluvaan vuoteen: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Siirry vuoteen %1$d</string>
+    <string name="mtrl_picker_out_of_range">Aikavälin ulkop.: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alkamispäivä – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – päättymispäivä</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Valitse jakso</string>
+    <string name="mtrl_picker_range_header_unselected">Alkamispäivä – päättymispäivä</string>
+    <string name="mtrl_picker_save">Tallenna</string>
+    <string name="mtrl_picker_start_date_description">Alkaa %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Päivämäärä</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Päättymispäivä</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alkamispäivä</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">v</string>
+    <string name="mtrl_picker_today_description">Tänään: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Vaihda syöttötavaksi kalenteri</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Siirry kalenterinäkymään napauttamalla</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Valitse syöttötavaksi teksti</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Siirry vuosinäkymään napauttamalla</string>
+    <string name="mtrl_timepicker_cancel">Peru</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigointivalikko"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ei valittu"</string>
+    <string msgid="875452955155264703" name="off">"Pois"</string>
+    <string msgid="8655164131929253426" name="on">"Päällä"</string>
+    <string name="password_toggle_content_description">Näytä salasana</string>
+    <string msgid="5941395253238309765" name="range_end">"Alueen loppu"</string>
+    <string msgid="7097486360902471446" name="range_start">"Alueen alku"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Haku"</string>
+    <string msgid="6043586758067023" name="selected">"Valittu"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Myöntäjän kuva</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Maksujärjestelmän kuva</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Ei</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Kyllä</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Peruuta</string>
+    <string name="stripe_3ds2_hzv_header_label">Turvallinen maksu</string>
+    <string name="stripe_3ds2_processing">Käsitellään\u2026</string>
+    <string name="stripe_acc_label_card_number">Kortin numero</string>
+    <string name="stripe_acc_label_card_number_node">%s, kortin numero</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">Erääntymispäivä</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, erääntymispäivä</string>
+    <string name="stripe_acc_label_zip">Postinumero</string>
+    <string name="stripe_acc_label_zip_short">Postinumero</string>
+    <string name="stripe_add_bank_account">Lisää pankkitili</string>
+    <string name="stripe_add_new_payment_method">Lisää uusi maksutapa</string>
+    <string name="stripe_add_payment_method">Lisää maksutapa</string>
+    <string name="stripe_added">Lisätty %s</string>
+    <string name="stripe_address_city_required">Kirjoita paikkakunta</string>
+    <string name="stripe_address_country_invalid">Maa ei kelpaa</string>
+    <string name="stripe_address_county_required">Kirjoita lääni</string>
+    <string name="stripe_address_label_address">Osoite</string>
+    <string name="stripe_address_label_address_line1">Osoiterivi 1</string>
+    <string name="stripe_address_label_address_line1_optional">Osoiterivi 1 (valinnainen)</string>
+    <string name="stripe_address_label_address_line2">Osoiterivi 2</string>
+    <string name="stripe_address_label_address_line2_optional">Osoiterivi 2 (valinnainen)</string>
+    <string name="stripe_address_label_address_optional">Osoite (valinnainen) </string>
+    <string name="stripe_address_label_ae_emirate">Emiraatti</string>
+    <string name="stripe_address_label_apt_optional">Asunto (valinnainen)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Esikaupunki tai kaupunki</string>
+    <string name="stripe_address_label_bb_jm_parish">Kunta</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Paikkakunta</string>
+    <string name="stripe_address_label_city_optional">Paikkakunta (valinnainen)</string>
+    <string name="stripe_address_label_country">Maa</string>
+    <string name="stripe_address_label_country_or_region">Maa tai alue</string>
+    <string name="stripe_address_label_county">Lääni</string>
+    <string name="stripe_address_label_county_optional">Lääni (valinnainen)</string>
+    <string name="stripe_address_label_department">Osasto</string>
+    <string name="stripe_address_label_district">Piirikunta</string>
+    <string name="stripe_address_label_full_name">Koko nimi</string>
+    <string name="stripe_address_label_hk_area">Alue</string>
+    <string name="stripe_address_label_ie_eircode">EIR-koodi</string>
+    <string name="stripe_address_label_ie_townland">Kaupunkikunta</string>
+    <string name="stripe_address_label_in_pin">Pin</string>
+    <string name="stripe_address_label_island">Saari</string>
+    <string name="stripe_address_label_jp_prefecture">Prefektuuri</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Nimi</string>
+    <string name="stripe_address_label_neighborhood">Naapurusto</string>
+    <string name="stripe_address_label_oblast">Oblasti</string>
+    <string name="stripe_address_label_phone_number">Puhelinnumero</string>
+    <string name="stripe_address_label_phone_number_optional">Puhelinnumero (valinnainen)</string>
+    <string name="stripe_address_label_post_town">Toimipaikka tai kylä</string>
+    <string name="stripe_address_label_postal_code">Postinumero</string>
+    <string name="stripe_address_label_postal_code_optional">Postinumero (valinnainen)</string>
+    <string name="stripe_address_label_postcode">Postinumero</string>
+    <string name="stripe_address_label_postcode_optional">Postinumero (valinnainen)</string>
+    <string name="stripe_address_label_province">Provinssi</string>
+    <string name="stripe_address_label_province_optional">Maakunta (valinnainen)</string>
+    <string name="stripe_address_label_region_generic">Osavaltio/maakunta/alue</string>
+    <string name="stripe_address_label_region_generic_optional">Osavaltio/maakunta/alue (valinnainen)</string>
+    <string name="stripe_address_label_state">Osavaltio</string>
+    <string name="stripe_address_label_state_optional">Osavaltio (valinnainen)</string>
+    <string name="stripe_address_label_suburb">Esikaupunki</string>
+    <string name="stripe_address_label_village_township">Kylä tai kaupunkikunta</string>
+    <string name="stripe_address_label_zip_code">Postinumero</string>
+    <string name="stripe_address_label_zip_code_optional">Postinumero (valinnainen)</string>
+    <string name="stripe_address_label_zip_postal_code">Postinumero</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Postinumero (valinnainen)</string>
+    <string name="stripe_address_name_required">Kirjoita nimesi</string>
+    <string name="stripe_address_phone_number_required">Kirjoita puhelinnumerosi</string>
+    <string name="stripe_address_postal_code_invalid">Postinumeroon virheellinen.</string>
+    <string name="stripe_address_postcode_invalid">Postinumerosi ei kelpaa</string>
+    <string name="stripe_address_province_required">Kirjoita maakunta</string>
+    <string name="stripe_address_region_generic_required">Kirjoita osavaltio/maakunta/alue</string>
+    <string name="stripe_address_required">Kirjoita osoite</string>
+    <string name="stripe_address_search_content_description">Etsi</string>
+    <string name="stripe_address_state_required">Kirjoita osavaltio</string>
+    <string name="stripe_address_zip_invalid">Postinumero ei kelpaa.</string>
+    <string name="stripe_address_zip_postal_invalid">Postinumero ei kelpaa</string>
+    <string name="stripe_affirm_buy_now_pay_later">Maksa aikanaan kohteella &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Maksa aikanaan Affirmilla.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Osta nyt tai maksa myöhemmin kohteella.<img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Maksu <num_installments/> korottomassa <installment_price/> osassa maksutavalla <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d korotonta %2$s maksua</string>
+    <string name="stripe_afterpay_subtitle">Osta nyt tai maksa myöhemmin Afterpaylla</string>
+    <string name="stripe_amazon_pay_mandate">Kun vahvistat maksusi Amazon Paylla, %s valtuutetaan veloittamaan tulevia maksuja Amazon Pay -tililtäsi omien ehtojensa mukaisesti.</string>
+    <string name="stripe_au_becs_account_name">Tilin nimi</string>
+    <string name="stripe_au_becs_bsb_number">BSB-numero</string>
+    <string name="stripe_au_becs_mandate">Antamalla pankkitilisi tiedot ja vahvistamalla tämän maksun hyväksyt suoraveloituspyynnön ja &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">suoraveloituspyynnön palvelusopimuksen&lt;/a> ja valtuutat Stripe Payments Australia Pty Ltd:n ACN, 160 180 343 suoraveloituksen käyttäjätunnus 507156 (\"Stripe\"), veloittamaan tililtäsi BECS:n kautta kohteen %s (\"Merchant\") puolesta kaikista kauppiaan erikseen ilmoittamista summista. Vakuutat, että olet joko tilinhaltija tai valtuutettu allekirjoittaja yllä mainitulla tilillä.</string>
+    <string name="stripe_back">Takaisin</string>
+    <string name="stripe_bacs_account_number">Tilinumero</string>
+    <string name="stripe_bacs_account_number_incomplete">Tilinumerosi on puutteellinen.</string>
+    <string name="stripe_bacs_bank_account_title">Pankkitili</string>
+    <string name="stripe_bacs_confirm_mandate_label">Ymmärrän, että Stripe kerää suoraveloituksia yrityksen %s puolesta sekä vahvistan, että olen tilinhaltija ja ainoa henkilö, jota tarvitaan tämän tilin veloitusten varmentamiseen.</string>
+    <string name="stripe_bacs_sort_code">Pankin tunnusnumero</string>
+    <string name="stripe_bacs_sort_code_incomplete">Pankin tunnusnumero on puutteellinen.</string>
+    <string name="stripe_bank_account_ending_in">Pankkitili, joka päättyy numeroihin %s</string>
+    <string name="stripe_bank_account_plus_last_4">Pankkitili ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Pankkitili ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Antamalla pankkitilisi tiedot ja vahvistamalla tämän maksun hyväksyt tämän\n    suoraveloituspyynnön ja suoraveloituspyyntöpalvelusopimuksen ja valtuutat\n    Stripe Payments Australia Pty Ltd:n ACN, 160 180 343 suoraveloituksen käyttäjätunnus 507156,\n     veloittamaan tililtäsi BECS:n kautta (\"Kauppias\")\n     kohteen %1$s puolesta kaikista kauppiaan erikseen ilmoittamista summista.\n     Vakuutat, että olet joko tilinomistaja tai valtuutettu allekirjoittaja\n     yllä mainitulla tilillä.\n    </string>
+    <string name="stripe_becs_widget_account_number">Tilinumero</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Antamasi tilinumero on puutteellinen.</string>
+    <string name="stripe_becs_widget_account_number_required">Tilinumerosi vaaditaan.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">Antamasi BSB-numero on puutteellinen.</string>
+    <string name="stripe_becs_widget_bsb_invalid">Antamasi BSB-numero on virheellinen.</string>
+    <string name="stripe_becs_widget_email">Sähköpostiosoite</string>
+    <string name="stripe_becs_widget_email_invalid">Sähköpostiosoitteesi on virheellinen.</string>
+    <string name="stripe_becs_widget_email_required">Sähköpostiosoitteesi vaaditaan.</string>
+    <string name="stripe_becs_widget_name">Nimi</string>
+    <string name="stripe_becs_widget_name_required">Nimesi vaaditaan.</string>
+    <string name="stripe_billing_details">Laskutusosoite</string>
+    <string name="stripe_billing_same_as_shipping">Laskutusosoite on sama kuin toimitusosoite</string>
+    <string name="stripe_blank_and_required">Tämä kenttä ei voi olla tyhjä</string>
+    <string name="stripe_blik_code">BLIK-koodi</string>
+    <string name="stripe_blik_confirm_payment">Suorita osto vahvistamalla maksu pankkisi sovelluksessa %s.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Peruuta</string>
+    <string name="stripe_card_brand_choice_no_selection">Ei valintaa</string>
+    <string name="stripe_card_brand_choice_selection_header">Valitse korttimerkki (valinnainen)</string>
+    <string name="stripe_card_declined">Korttiasi ei hyväksytty</string>
+    <string name="stripe_card_ending_in">%1$s päättyy numeroihin %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Jatkamalla valtuutat kauppiaan %1$s veloittamaan Cash App -tiliäsi tälle ja tuleville maksuille kauppiaan %2$s ehtojen mukaisesti, kunnes tämä todennus peruutetaan. Voit muuttaa tätä milloin tahansa Cash App -asetuksista.</string>
+    <string name="stripe_change">Vaihda</string>
+    <string name="stripe_clearpay_subtitle">Osta nyt tai maksa myöhemmin Clearpaylla</string>
+    <string name="stripe_close">Sulje</string>
+    <string name="stripe_confirm_close_form_body">Maksutietojasi ei tallenneta.</string>
+    <string name="stripe_confirm_close_form_title">Haluatko sulkea tämän lomakkeen?</string>
+    <string name="stripe_contact_information">Yhteystiedot</string>
+    <string name="stripe_continue_button_label">Jatka</string>
+    <string name="stripe_delete_payment_method">Poista maksutapa</string>
+    <string name="stripe_delete_payment_method_prompt_title">Poista maksutapa?</string>
+    <string name="stripe_done">Valmis</string>
+    <string name="stripe_edit">Muokkaa</string>
+    <string name="stripe_email">Sähköposti</string>
+    <string name="stripe_email_is_invalid">Sähköposti on virheellinen.</string>
+    <string name="stripe_eps_bank">EPS-pankki</string>
+    <string name="stripe_expiration_date_hint">KK/VV</string>
+    <string name="stripe_expired_card">Korttisi on vanhentunut</string>
+    <string name="stripe_expiry_date_hint">KK/VV</string>
+    <string name="stripe_expiry_label_short">Vanheneminen</string>
+    <string name="stripe_failure_connection_error">Yhteydessä maksun käsittelijään esiintyi ongelmia. Tarkista Internet-yhteys ja yritä uudelleen.</string>
+    <string name="stripe_failure_reason_authentication">Emme pystyneet todentamaan maksutapaasi. Valitse toinen maksutapa ja yritä uudelleen.</string>
+    <string name="stripe_failure_reason_timed_out">Maksutapasi todennus aikakatkaistiin – yritä uudelleen.</string>
+    <string name="stripe_field_required">Tämä on pakollinen</string>
+    <string name="stripe_form_label_optional">%s (valinnainen)</string>
+    <string name="stripe_fpx_bank">FPX-pankki</string>
+    <string name="stripe_fpx_bank_offline">%s - Offline-tilassa</string>
+    <string name="stripe_generic_decline">Maksutapasi on hylätty.</string>
+    <string name="stripe_hcaptcha_loading_text">Todentaminen, että olet ihminen</string>
+    <string name="stripe_iban_incomplete">IBAN on puutteellinen.</string>
+    <string name="stripe_iban_invalid_country">Antamasi IBAN on virheellinen, \"%s\" ei ole tuettu maakoodi.</string>
+    <string name="stripe_iban_invalid_start">IBAN-tilinumero alkaa kaksikirjaimisella maakoodilla.</string>
+    <string name="stripe_ideal_bank">iDEAL-pankki</string>
+    <string name="stripe_incomplete_blik_code">BLIK-koodisi on puutteellinen.</string>
+    <string name="stripe_incomplete_expiry_date">Kortin voimassaoloaika on puutteellinen.</string>
+    <string name="stripe_incomplete_phone_number">Puutteellinen puhelinnumero</string>
+    <string name="stripe_inline_sign_up_header">Tallenna tiedot turvalliselle yhden napsautuksen maksamiselle Link-palvelulla</string>
+    <string name="stripe_internal_error">Sisäinen virhe on tapahtunut.</string>
+    <string name="stripe_invalid_bank_account_iban">Antamasi IBAN on virheellinen.</string>
+    <string name="stripe_invalid_blik_code">BLIK-koodi ei kelpaa.</string>
+    <string name="stripe_invalid_card_number">Kortin numero ei kelpaa.</string>
+    <string name="stripe_invalid_cvc">Kortin turvakoodi on virheellinen.</string>
+    <string name="stripe_invalid_email_address">Virheellinen sähköpostiosoite: %s</string>
+    <string name="stripe_invalid_expiry_month">Kortin erääntymiskuukausi ei kelpaa.</string>
+    <string name="stripe_invalid_expiry_year">Kortin voimassaolovuosi ei kelpaa.</string>
+    <string name="stripe_invalid_owner_name">Nimi on virheellinen.</string>
+    <string name="stripe_invalid_shipping_information">Toimitusosoite ei kelpaa</string>
+    <string name="stripe_invalid_upi_id">Virheellinen UPI-tunnus</string>
+    <string name="stripe_invalid_zip">Postinumero on puutteellinen.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Osta nyt tai maksa myöhemmin Klarnalla.</string>
+    <string name="stripe_klarna_mandate">Jatkamalla Klarnaan valtuutat %1$s veloittamaan tulevia maksuja Klarna-tililtäsi heidän ehtojensa mukaisesti. Voit muuttaa tämän koska tahansa Klarna-sovelluksessa tai ottamalla yhteyttä kohteeseen %2$s.</string>
+    <string name="stripe_klarna_pay_later">Maksa myöhemmin Klarnalla.</string>
+    <string name="stripe_konbini_confirmation_number_label">Puhelin</string>
+    <string name="stripe_link_simple_secure_payments">Yksinkertaiset turvalliset kerran napsautettavat maksut</string>
+    <string name="stripe_log_out">Kirjaudu ulos Link-palvelusta</string>
+    <string name="stripe_name_on_card">Kortissa oleva nimi</string>
+    <string name="stripe_network_error_message">Tapahtui virhe. Tarkasta yhteys ja yritä uudelleen.</string>
+    <string name="stripe_p24_bank">Przelewy24 Bank</string>
+    <string name="stripe_pay_button_amount">Maksa %s</string>
+    <string name="stripe_pay_with_link">Maksa Link-palvelulla</string>
+    <string name="stripe_payment_method_add_new_card">Lisää uusi kortti...</string>
+    <string name="stripe_payment_method_add_new_fpx">Valitse pankkitili (FPX)...</string>
+    <string name="stripe_payment_method_bank">Pankki</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Jatkamalla hyväksyt maksujen valtuutuksen <terms>näiden ehtojen mukaisesti</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Tallentamalla pankkitilisi yritykselle %s, hyväksyt maksujen valtuutuksen <terms>näiden ehtojen mukaisesti</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Jokin meni pieleen tilisi linkityksen aikana.\nYritä myöhemmin uudelleen.</string>
+    <string name="stripe_paymentsheet_add_card">Lisää kortti</string>
+    <string name="stripe_paymentsheet_add_new_card">Lisää uusi kortti</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Lisää</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kortin tiedot</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Lisää maksutiedot</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Lisää yhdysvaltalainen pankkitili</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Tallenna osoite</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Lähetysosoite</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Sähköpostivahvistus lähetetään osoitteeseen %s kolmen arkipäivän kuluessa näiden veloitusohjeiden asetuksen vahvistamiseksi.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Vahvista suoraveloituksen tiedot</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Muokkaa tietoja</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Lisäksi saat kahden päivän ennakkoilmoituksen sähköpostitse kaikista tämän ohjeen mukaisesti veloitettavista summista. Maksut näkyvät tiliotteessa kohteena \'%s\'.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Maksujasi suojaa %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Osta käyttämällä UPI-tunnusta</string>
+    <string name="stripe_paymentsheet_card_mandate">Antamalla korttisi tiedot annat yrityksen %s veloittaa korttiasi tulevien maksujen osalta heidän ehtojensa mukaisesti.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Valitse maksutapa</string>
+    <string name="stripe_paymentsheet_close">Sulje</string>
+    <string name="stripe_paymentsheet_confirm">Vahvista</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Vahvista CVC</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Syötä osoite manuaalisesti</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Hallitse maksutapoja</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Hallitse maksutapojasi</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe tallettaa 0,01 dollaria tilillesi 1–2 arkipäivän kuluessa. Saat myös sähköpostiisi ohjeet maksun suorittamiseksi loppuun yritykselle %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Muokkaa %s</string>
+    <string name="stripe_paymentsheet_new_card">Uusi kortti</string>
+    <string name="stripe_paymentsheet_new_pm">Uusi maksutapa</string>
+    <string name="stripe_paymentsheet_or_pay_using">Tai käytä maksutapaa</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Tai maksa kortilla</string>
+    <string name="stripe_paymentsheet_or_use">Tai käytä</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Tai käytä korttia</string>
+    <string name="stripe_paymentsheet_pay_button_label">Maksa</string>
+    <string name="stripe_paymentsheet_pay_using">Käytä maksutapaa</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Maksa pankkitiliäsi käyttäen vain muutamassa vaiheessa.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">AU BECS -suoraveloitus</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Bacs-suoraveloitus</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kortti</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA Debit</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Käsitellään...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Poistetaanko pankkitili?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Poista pankkitili</string>
+    <string name="stripe_paymentsheet_remove_card">Poista kortti</string>
+    <string name="stripe_paymentsheet_remove_card_title">Poista kortti?</string>
+    <string name="stripe_paymentsheet_remove_pm">Poista %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Poista maksutapa</string>
+    <string name="stripe_paymentsheet_save">Tallenna</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Tallenna uusi maksutapa</string>
+    <string name="stripe_paymentsheet_save_bank_title">Tallenna pankkitilisi vain muutamassa vaiheessa.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Tallenna tulevia maksuja varten</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Tallenna tämä kortti tulevia maksuja (%s) varten</string>
+    <string name="stripe_paymentsheet_saved">Tallennettu</string>
+    <string name="stripe_paymentsheet_select_payment_method">Valitse maksutapa</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Valitse maksutapa</string>
+    <string name="stripe_paymentsheet_total_amount">Yhteensä: %s</string>
+    <string name="stripe_paypal_mandate">Vahvistamalla maksusi PayPalin kanssa valtuutat kohteen %s veloittamaan tulevia maksuja PayPal-tililtäsi heidän ehtojensa mukaisesti.</string>
+    <string name="stripe_pm_set_as_default">Aseta oletusarvoiseksi maksutavaksi</string>
+    <string name="stripe_price_free">Maksuton</string>
+    <string name="stripe_processing_error">Kortin käsittelyssä tapahtui virhe – kokeile uudelleen muutaman sekunnin kuluttua</string>
+    <string name="stripe_remove">Poista</string>
+    <string name="stripe_remove_bank_account_ending_in">Poista pankkitili, joka päättyy %s</string>
+    <string name="stripe_removed">Poistettu %s</string>
+    <string name="stripe_revolut_mandate">Vahvistamalla maksusi RevolutPayn kanssa, valtuutat yrityksen %s veloittamaan tulevia maksuja RevolutPay-tililtäsi heidän ehtojensa mukaisesti.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Tallenna tulevia maksuja (%s) varten</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Tallenna maksutiedot yritykselle %s tulevia ostoksia varten</string>
+    <string name="stripe_scan_card">Skannaa kortti</string>
+    <string name="stripe_secure_checkout">Turvallinen maksu</string>
+    <string name="stripe_sepa_mandate">Antamalla maksutiedot ja vahvistamalla tämän maksun, valtuutat (A) %s ja Stripen, maksupalvelun tarjoajamme, lähettämään ohjeita pankillesi tilisi veloittamiseksi ja (B) pankkisi veloittamaan tiliäsi annettujen ohjeiden mukaisesti. Oikeuksiesi mukaisesti olet oikeutettu maksun palautukseen pankiltasi heidän kanssaan tekemäsi sopimuksen mukaisesti. Maksun palautus on lunastettava kahdeksan viikon kuluessa tilisi veloituksesta. Oikeutesi kerrotaan lausunnossa, jonka voit hankkia pankiltasi. Hyväksyt vastaanottamaan ilmoituksia tulevista veloituksista kaksi päivää ennen niiden tapahtumista.</string>
+    <string name="stripe_setup_button_label">Määritä</string>
+    <string name="stripe_show_menu">Näytä valikko</string>
+    <string name="stripe_sign_up">Liity Link-palveluun</string>
+    <string name="stripe_sign_up_header">Turvallinen kerran napsautettava maksaminen</string>
+    <string name="stripe_sign_up_message">Maksa nopeammin palvelussa %s ja tuhansilla muilla kauppiailla.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Liittymällä Linkiin hyväksyt <terms>ehdot</terms> ja <privacy>tietosuojaselosteen</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Antamalla sähköpostisi hyväksyt Link-tilin luomisen ja tallennat maksutietosi Link-palveluun <terms>Link-ehtojen</terms> ja <privacy>tietosuojaselosteen</privacy> mukaisesti.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Antamalla puhelinnumerosi hyväksyt Link-tilin luomisen ja tallennat maksutietosi Link-palveluun <terms>Link-ehtojen</terms> ja <privacy>tietosuojaselosteen</privacy> mukaisesti.]]></string>
+    <string name="stripe_something_went_wrong">Jokin meni pieleen</string>
+    <string name="stripe_title_add_a_card">Lisää kortti</string>
+    <string name="stripe_title_add_an_address">Lisää osoite</string>
+    <string name="stripe_title_bank_account">Pankkitili</string>
+    <string name="stripe_title_payment_method">Maksutapa</string>
+    <string name="stripe_title_select_shipping_method">Valitse lähetysmenetelmä</string>
+    <string name="stripe_title_update_card">Päivitä todistus</string>
+    <string name="stripe_update">Päivitä</string>
+    <string name="stripe_upi_id_label">UPI-tunnus</string>
+    <string name="stripe_upi_polling_cancel">Peruuta ja maksa toisella tavalla</string>
+    <string name="stripe_upi_polling_header">Hyväksy maksu</string>
+    <string name="stripe_upi_polling_message">Avaa UPI-sovellus ja hyväksy maksu kohteessa %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Palaa takaisin ja valitse toinen maksutapa</string>
+    <string name="stripe_upi_polling_payment_failed_title">Maksu epäonnistui</string>
+    <string name="stripe_verification_change_email">Vaihda sähköposti</string>
+    <string name="stripe_verification_code_sent">Koodi lähetetty</string>
+    <string name="stripe_verification_header">Syötä vahvistuskoodi</string>
+    <string name="stripe_verification_header_inline">Kirjaudu sisään Link-tiliisi</string>
+    <string name="stripe_verification_header_prefilled">Käytä tallennettuja tietoja nopeampaan maksamiseen</string>
+    <string name="stripe_verification_message">Syötä numeroon %s lähetetty koodi käyttääksesi Link-maksua oletuksena.</string>
+    <string name="stripe_verification_not_email">Ei %s?</string>
+    <string name="stripe_verification_resend">Lähetä koodi uudelleen</string>
+    <string name="stripe_verify_your_payment">Vahvista maksu</string>
+    <string name="stripe_view_more">Näytä lisää</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Jatkamalla hyväksyt maksut näiden <terms>ehtojen</terms> mukaisesti.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Maksu</string>
+    <string name="stripe_wallet_default">Oletus</string>
+    <string name="stripe_wallet_expanded_title">Maksutavat</string>
+    <string name="stripe_wallet_pay_another_way">Maksa toisella tavalla</string>
+    <string name="stripe_wallet_recollect_cvc_error">Turvallisuussyistä sinun on annettava korttisi turvakoodi uudelleen.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Haluatko varmasti poistaa tämän linkitetyn tilin?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Haluatko varmasti poistaa tämän kortin?</string>
+    <string name="stripe_wallet_remove_linked_account">Poista linkitetty tili</string>
+    <string name="stripe_wallet_set_as_default">Aseta oletusarvoiseksi</string>
+    <string name="stripe_wallet_unavailable">Ei käytettävissä tälle ostolle</string>
+    <string name="stripe_wallet_update_card">Päivitä kortti</string>
+    <string name="stripe_wallet_update_expired_card_error">Tämä kortti on erääntynyt. Päivitä kortin tiedot tai valitse toinen maksutapa.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Vaihda"</string>
+    <string msgid="1672349317127674378" name="tab">"Välilehti"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> prosenttia"</string>
+    <string name="wallet_buy_button_place_holder">Maksa Googlen kautta</string>
+</resources>

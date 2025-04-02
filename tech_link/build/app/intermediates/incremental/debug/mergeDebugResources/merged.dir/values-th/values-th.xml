@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"กลับ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"เสร็จ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ปิด"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"เปิด"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ลบ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"เมนู+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ล้างคำค้นหา"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"คำค้นหา"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ส่งคำค้นหา"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"รหัสผ่าน"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"พาสคีย์"</string>
+    <string name="bottomsheet_action_collapse">ยุบ Bottom Sheet</string>
+    <string name="bottomsheet_action_expand">ขยาย Bottom Sheet</string>
+    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="bottomsheet_drag_handle_clicked">แตะแฮนเดิลการลากสองครั้ง</string>
+    <string name="bottomsheet_drag_handle_content_description">แฮนเดิลการลาก</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"รับสาย"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"วิดีโอ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ปฏิเสธ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"วางสาย"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"สายเรียกเข้า"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"สายที่สนทนาอยู่"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"กำลังสกรีนสายเรียกเข้า"</string>
+    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
+    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
+    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
+    <string msgid="406453423630273620" name="close_drawer">"ปิดเมนูการนำทาง"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"ปิดชีต"</string>
+    <string msgid="5389587048670450460" name="collapsed">"ยุบ"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">อัปเดต</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"อินพุตไม่ถูกต้อง"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"หน้าต่างป๊อปอัป"</string>
+    <string msgid="4057925834421392736" name="dialog">"กล่องโต้ตอบ"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"เมนูแบบเลื่อนลง"</string>
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string msgid="5974471714631304645" name="expanded">"ขยาย"</string>
+    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"คัดลอกลิงก์"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"เปิดในเบราว์เซอร์"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"แชร์ลิงก์"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
+    <string msgid="6827826412747255547" name="in_progress">"กำลังดำเนินการ"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"เลือกบางส่วน"</string>
+    <string name="item_view_role_description">แท็บ</string>
+    <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
+    <string name="material_hour_24h_suffix">%1$s ชั่วโมง</string>
+    <string name="material_hour_selection">เลือกชั่วโมง</string>
+    <string name="material_hour_suffix">%1$s นาฬิกา</string>
+    <string name="material_minute_selection">เลือกนาที</string>
+    <string name="material_minute_suffix">%1$s นาที</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">สลับไปโหมดนาฬิกาเพื่อป้อนเวลา</string>
+    <string name="material_timepicker_hour">ชั่วโมง</string>
+    <string name="material_timepicker_minute">นาที</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">เลือกเวลา</string>
+    <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
+    <string name="mtrl_badge_numberless_content_description">การแจ้งเตือนใหม่</string>
+    <string name="mtrl_chip_close_icon_content_description">นำ %1$s ออก</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">การแจ้งเตือนใหม่มากกว่า %1$d รายการ</string>
+    <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
+    <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
+    <string name="mtrl_picker_announce_current_range_selection">การเลือกวันที่เริ่มต้น: %1$s – การเลือกวันที่สิ้นสุด: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ไม่มี</string>
+    <string name="mtrl_picker_cancel">ยกเลิก</string>
+    <string name="mtrl_picker_confirm">ตกลง</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
+    <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
+    <string name="mtrl_picker_day_of_week_column_header">คอลัมน์ของวัน: %1$s</string>
+    <string name="mtrl_picker_end_date_description">วันที่สิ้นสุด %1$s</string>
+    <string name="mtrl_picker_invalid_format">รูปแบบไม่ถูกต้อง</string>
+    <string name="mtrl_picker_invalid_format_example">ตัวอย่าง: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">ใช้: %1$s</string>
+    <string name="mtrl_picker_invalid_range">ช่วงไม่ถูกต้อง</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">ไปยังปีปัจจุบัน %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">ไปที่ปี %1$d</string>
+    <string name="mtrl_picker_out_of_range">วันที่ไม่อยู่ในช่วงที่อนุญาต: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">วันที่เริ่มต้น – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">เลือกช่วง</string>
+    <string name="mtrl_picker_range_header_unselected">วันที่เริ่มต้น – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_save">บันทึก</string>
+    <string name="mtrl_picker_start_date_description">วันที่เริ่มต้น %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">วันที่</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">วันที่เริ่มต้น</string>
+    <string name="mtrl_picker_text_input_day_abbr">ว</string>
+    <string name="mtrl_picker_text_input_month_abbr">ด</string>
+    <string name="mtrl_picker_text_input_year_abbr">ป</string>
+    <string name="mtrl_picker_today_description">วันนี้ %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">สลับไปใช้โหมดป้อนข้อมูลปฏิทิน</string>
+    <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อเปลี่ยนเป็นมุมมองปฏิทิน</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
+    <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อเปลี่ยนเป็นมุมมองปี</string>
+    <string name="mtrl_timepicker_cancel">ยกเลิก</string>
+    <string name="mtrl_timepicker_confirm">ตกลง</string>
+    <string msgid="542007171693138492" name="navigation_menu">"เมนูการนำทาง"</string>
+    <string msgid="6610465462668679431" name="not_selected">"ไม่ได้เลือก"</string>
+    <string msgid="875452955155264703" name="off">"ปิด"</string>
+    <string msgid="8655164131929253426" name="on">"เปิด"</string>
+    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
+    <string msgid="5941395253238309765" name="range_end">"จุดสิ้นสุดของช่วง"</string>
+    <string msgid="7097486360902471446" name="range_start">"จุดเริ่มต้นของช่วง"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ค้นหา"</string>
+    <string msgid="6043586758067023" name="selected">"เลือกไว้"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_acc_label_card_number">หมายเลขบัตร</string>
+    <string name="stripe_acc_label_card_number_node">%s, หมายเลขบัตร</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">วันหมดอายุ</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, วันหมดอายุ</string>
+    <string name="stripe_acc_label_zip">รหัสไปรษณีย์</string>
+    <string name="stripe_acc_label_zip_short">รหัสไปรษณีย์</string>
+    <string name="stripe_add_bank_account">เพิ่มบัญชีธนาคาร</string>
+    <string name="stripe_add_new_payment_method">เพิ่มวิธีการชำระเงินใหม่</string>
+    <string name="stripe_add_payment_method">เพิ่มวิธีการชำระเงิน</string>
+    <string name="stripe_added">เพิ่ม %s แล้ว</string>
+    <string name="stripe_address_city_required">โปรดป้อนชื่อเมือง</string>
+    <string name="stripe_address_country_invalid">ประเทศไม่ถูกต้อง</string>
+    <string name="stripe_address_county_required">โปรดป้อนชื่อเคาน์ตี</string>
+    <string name="stripe_address_label_address">ที่อยู่</string>
+    <string name="stripe_address_label_address_line1">ที่อยู่บรรทัดที่ 1</string>
+    <string name="stripe_address_label_address_line1_optional">ที่อยู่บรรทัดที่ 1 (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_address_line2">ที่อยู่บรรทัดที่ 2</string>
+    <string name="stripe_address_label_address_line2_optional">ที่อยู่บรรทัดที่ 2 (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_address_optional">ที่อยู่ (ระบุหรือไม่ก็ได้) </string>
+    <string name="stripe_address_label_ae_emirate">เอมิเรต</string>
+    <string name="stripe_address_label_apt_optional">อพาร์ตเมนต์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_au_suburb_or_city">ชานเมืองหรือเมือง</string>
+    <string name="stripe_address_label_bb_jm_parish">ตำบล</string>
+    <string name="stripe_address_label_cedex">CEDEX</string>
+    <string name="stripe_address_label_city">เมือง</string>
+    <string name="stripe_address_label_city_optional">เมือง (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_country">ประเทศ</string>
+    <string name="stripe_address_label_country_or_region">ประเทศหรือภูมิภาค</string>
+    <string name="stripe_address_label_county">เคาน์ตี</string>
+    <string name="stripe_address_label_county_optional">เคาน์ตี (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_department">แผนก</string>
+    <string name="stripe_address_label_district">เขต</string>
+    <string name="stripe_address_label_full_name">ชื่อ-นามสกุล</string>
+    <string name="stripe_address_label_hk_area">พื้นที่</string>
+    <string name="stripe_address_label_ie_eircode">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_ie_townland">ทาวน์แลนด์</string>
+    <string name="stripe_address_label_in_pin">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_island">เกาะ</string>
+    <string name="stripe_address_label_jp_prefecture">อำเภอ</string>
+    <string name="stripe_address_label_kr_do_si">เมือง</string>
+    <string name="stripe_address_label_name">ชื่อ</string>
+    <string name="stripe_address_label_neighborhood">ย่าน</string>
+    <string name="stripe_address_label_oblast">ภูมิภาค</string>
+    <string name="stripe_address_label_phone_number">หมายเลขโทรศัพท์</string>
+    <string name="stripe_address_label_phone_number_optional">หมายเลขโทรศัพท์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_post_town">ท้องที่ของรหัสไปรษณีย์หรือเมือง</string>
+    <string name="stripe_address_label_postal_code">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_postal_code_optional">รหัสไปรษณีย์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_postcode">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_postcode_optional">รหัสไปรษณีย์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_province">จังหวัด</string>
+    <string name="stripe_address_label_province_optional">จังหวัด (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_region_generic">รัฐ / จังหวัด / ภูมิภาค</string>
+    <string name="stripe_address_label_region_generic_optional">รัฐ / จังหวัด / ภูมิภาค (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_state">รัฐ</string>
+    <string name="stripe_address_label_state_optional">รัฐ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_suburb">ชานเมือง</string>
+    <string name="stripe_address_label_village_township">หมู่บ้านหรือเขตการปกครองท้องถิ่น</string>
+    <string name="stripe_address_label_zip_code">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_zip_code_optional">รหัสไปรษณีย์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_label_zip_postal_code">รหัสไปรษณีย์</string>
+    <string name="stripe_address_label_zip_postal_code_optional">รหัสไปรษณีย์ (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_address_name_required">โปรดป้อนชื่อ</string>
+    <string name="stripe_address_phone_number_required">โปรดป้อนหมายเลขโทรศัพท์</string>
+    <string name="stripe_address_postal_code_invalid">รหัสไปรษณีย์ไม่ถูกต้อง</string>
+    <string name="stripe_address_postcode_invalid">รหัสไปรษณีย์ไม่ถูกต้อง</string>
+    <string name="stripe_address_province_required">โปรดป้อนชื่อจังหวัด</string>
+    <string name="stripe_address_region_generic_required">โปรดป้อนชื่อรัฐ/จังหวัด/ภูมิภาค</string>
+    <string name="stripe_address_required">โปรดป้อนที่อยู่</string>
+    <string name="stripe_address_search_content_description">ค้นหา</string>
+    <string name="stripe_address_state_required">โปรดป้อนชื่อรัฐ</string>
+    <string name="stripe_address_zip_invalid">รหัสไปรษณีย์ไม่ถูกต้อง</string>
+    <string name="stripe_address_zip_postal_invalid">รหัสไปรษณีย์ไม่ถูกต้อง</string>
+    <string name="stripe_affirm_buy_now_pay_later">ทยอยชำระเงินด้วย &lt;img src=\"affirm\"></string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">ทยอยชำระเงินด้วย Affirm</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[ซื้อตอนนี้หรือจ่ายทีหลังด้วย <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[ผ่อนชำระ <num_installments/> งวดแบบปลอดดอกเบี้ย งวดละ <installment_price/> ด้วย <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">ผ่อน %1$d งวดแบบปลอดดอกเบี้ย งวดละ %2$s</string>
+    <string name="stripe_afterpay_subtitle">ซื้อตอนนี้หรือจ่ายทีหลังด้วย Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">การยืนยันการการชำระเงินด้วย Amazon Pay หมายความว่าคุณอนุญาตให้ %s เรียกเก็บเงินจากบัญชี Amazon Pay ของคุณสำหรับการชำระเงินในอนาคตตามเงื่อนไขของผู้ค้ารายดังกล่าว</string>
+    <string name="stripe_au_becs_account_name">ชื่อในบัญชี</string>
+    <string name="stripe_au_becs_bsb_number">หมายเลข BSB</string>
+    <string name="stripe_au_becs_mandate">การระบุรายละเอียดบัญชีธนาคารและการยืนยันการชำระเงินนี้หมายความว่าคุณยอมรับ&lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">ข้อตกลงในการให้บริการการขอหักบัญชีอัตโนมัติ&lt;/a> และอนุญาตให้ Stripe Payments Australia Pty Ltd ACN 160 180 343 Direct Debit User ID หมายเลข 507156 (“Stripe”) หักเงินจากบัญชีของคุณผ่าน Bulk Electronic Clearing System (BECS) ในนามของ %s (\"ผู้ค้า\") สำหรับจำนวนเงินใดก็ตามที่ผู้ค้าได้แจ้งคุณไว้ต่างหาก และคุณรับรองว่าตนเองเป็นเจ้าของบัญชีหรือผู้มีอำนาจลงนามในบัญชีที่ระบุข้างต้น</string>
+    <string name="stripe_back">ย้อนกลับ</string>
+    <string name="stripe_bacs_account_number">หมายเลขบัญชี</string>
+    <string name="stripe_bacs_account_number_incomplete">หมายเลขบัญชีไม่ครบถ้วน</string>
+    <string name="stripe_bacs_bank_account_title">บัญชีธนาคาร</string>
+    <string name="stripe_bacs_confirm_mandate_label">ฉันเข้าใจว่า Stripe จะดำเนินการหักบัญชีอัตโนมัติในนามของ %s และยืนยันว่าฉันเป็นเจ้าของบัญชีและเป็นบุคคลเดียวเท่านั้นที่อนุญาตให้หักเงินจากบัญชีนี้ได้</string>
+    <string name="stripe_bacs_sort_code">Sort Code</string>
+    <string name="stripe_bacs_sort_code_incomplete">Sort Code ของคุณไม่ครบถ้วน</string>
+    <string name="stripe_bank_account_ending_in">บัญชีธนาคารที่มีหมายเลขลงท้ายด้วย %s</string>
+    <string name="stripe_bank_account_plus_last_4">บัญชีธนาคาร ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">บัญชีธนาคาร ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    การระบุรายละเอียดบัญชีธนาคารและการยืนยันการชำระเงินนี้หมายความว่าคุณยอมรับ\n    ข้อตกลงในการให้บริการการขอหักบัญชีอัตโนมัติ และอนุญาตให้\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 Direct Debit User ID\n    หมายเลข 507156 (“Stripe”) หักเงินจากบัญชีของคุณผ่าน\n    Bulk Electronic Clearing System (BECS) ในนามของ %1$s (\"ผู้ค้า\") สำหรับจำนวนเงิน\n    ใดก็ตามที่ผู้ค้าได้แจ้งคุณไว้ต่างหาก และคุณรับรองว่า\n    ตนเองเป็นเจ้าของบัญชีหรือผู้มีอำนาจลงนามในบัญชีที่ระบุข้างต้น\n    </string>
+    <string name="stripe_becs_widget_account_number">หมายเลขบัญชี</string>
+    <string name="stripe_becs_widget_account_number_incomplete">หมายเลขบัญชีที่คุณป้อนไม่ครบถ้วน</string>
+    <string name="stripe_becs_widget_account_number_required">หมายเลขบัญชีไม่ถูกต้อง</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">BSB ที่คุณป้อนไม่ครบถ้วน</string>
+    <string name="stripe_becs_widget_bsb_invalid">BSB ที่คุณป้อนไม่ถูกต้อง</string>
+    <string name="stripe_becs_widget_email">ที่อยู่อีเมล</string>
+    <string name="stripe_becs_widget_email_invalid">ที่อยู่อีเมลไม่ถูกต้อง</string>
+    <string name="stripe_becs_widget_email_required">ต้องระบุที่อยู่อีเมล</string>
+    <string name="stripe_becs_widget_name">ชื่อ</string>
+    <string name="stripe_becs_widget_name_required">ต้องระบุชื่อ</string>
+    <string name="stripe_billing_details">ที่อยู่ในการเรียกเก็บเงิน</string>
+    <string name="stripe_billing_same_as_shipping">ที่อยู่ในการเรียกเก็บเงินเหมือนกันกับที่อยู่ในการจัดส่ง</string>
+    <string name="stripe_blank_and_required">ต้องกรอกช่องนี้</string>
+    <string name="stripe_blik_code">รหัส BLIK</string>
+    <string name="stripe_blik_confirm_payment">ยืนยันการชำระเงินในแอปของธนาคารภายใน %s เพื่อชำระเงินให้เสร็จสิ้น</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">ยกเลิก</string>
+    <string name="stripe_card_brand_choice_no_selection">ไม่เลือกรายการใด</string>
+    <string name="stripe_card_brand_choice_selection_header">เลือกแบรนด์บัตร (ไม่บังคับ)</string>
+    <string name="stripe_card_declined">บัตรของคุณถูกปฏิเสธ</string>
+    <string name="stripe_card_ending_in">%1$s ลงท้ายด้วย %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">การดำเนินการต่อ หมายความว่าคุณอนุญาตให้ %1$s ฝากเงินเข้าบัญชี Cash App ของคุณสำหรับการชำระเงินรายการนี้ และการชำระเงินในอนาคตโดยสอดคล้องกับข้อกำหนดของ %2$s จนกว่าจะมีการเพิกถอนการอนุญาต คุณสามารถเปลี่ยนแปลงการตั้งค่านี้ได้ทุกเมื่อในการตั้งค่า Cash App</string>
+    <string name="stripe_change">เปลี่ยน</string>
+    <string name="stripe_clearpay_subtitle">ซื้อตอนนี้หรือจ่ายทีหลังด้วย Clearpay</string>
+    <string name="stripe_close">ปิด</string>
+    <string name="stripe_confirm_close_form_body">ข้อมูลการชำระเงินของคุณจะไม่ได้รับการบันทึก</string>
+    <string name="stripe_confirm_close_form_title">แน่ใจไหมว่าต้องการปิดแบบฟอร์มนี้</string>
+    <string name="stripe_contact_information">ข้อมูลติดต่อ</string>
+    <string name="stripe_continue_button_label">ดำเนินการต่อ</string>
+    <string name="stripe_delete_payment_method">ลบวิธีการชำระเงิน</string>
+    <string name="stripe_delete_payment_method_prompt_title">ลบวิธีการชำระเงินใช่ไหม</string>
+    <string name="stripe_done">เสร็จสิ้น</string>
+    <string name="stripe_edit">แก้ไข</string>
+    <string name="stripe_email">อีเมล</string>
+    <string name="stripe_email_is_invalid">อีเมลไม่ถูกต้อง</string>
+    <string name="stripe_eps_bank">EPS Bank</string>
+    <string name="stripe_expiration_date_hint">ดด / ปป</string>
+    <string name="stripe_expired_card">บัตรของคุณหมดอายุแล้ว</string>
+    <string name="stripe_expiry_date_hint">ดด/ปป</string>
+    <string name="stripe_expiry_label_short">วันหมดอายุ</string>
+    <string name="stripe_failure_connection_error">เรากำลังประสบปัญหาในการเชื่อมต่อกับผู้ให้บริการชำระเงิน โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตแล้วลองอีกครั้ง</string>
+    <string name="stripe_failure_reason_authentication">เราตรวจสอบสิทธิ์วิธีการชำระเงินของคุณไม่ได้ โปรดเลือกวิธีการชำระเงินอื่นแล้วลองอีกครั้ง</string>
+    <string name="stripe_failure_reason_timed_out">หมดเวลาตรวจสอบสิทธิ์วิธีการชำระเงินแล้ว โปรดลองอีกครั้ง</string>
+    <string name="stripe_field_required">ต้องระบุ</string>
+    <string name="stripe_form_label_optional">%s (ระบุหรือไม่ก็ได้)</string>
+    <string name="stripe_fpx_bank">FPX Bank</string>
+    <string name="stripe_fpx_bank_offline">%s - ออฟไลน์</string>
+    <string name="stripe_generic_decline">การชำระเงินของคุณถูกปฏิเสธ</string>
+    <string name="stripe_hcaptcha_loading_text">ยืนยันว่าคุณเป็นมนุษย์</string>
+    <string name="stripe_iban_incomplete">IBAN ที่คุณป้อนไม่ครบถ้วน</string>
+    <string name="stripe_iban_invalid_country">IBAN ที่คุณป้อนไม่ถูกต้อง \"%s\" ไม่ใช่รหัสประเทศที่รองรับ</string>
+    <string name="stripe_iban_invalid_start">IBAN ควรเริ่มต้นด้วยรหัสประเทศ 2 ตัวอักษร</string>
+    <string name="stripe_ideal_bank">ธนาคารที่รองรับ iDEAL</string>
+    <string name="stripe_incomplete_blik_code">รหัส BLIK ไม่ครบถ้วน</string>
+    <string name="stripe_incomplete_expiry_date">วันที่หมดอายุของบัตรไม่ครบถ้วน</string>
+    <string name="stripe_incomplete_phone_number">หมายเลขโทรศัพท์ไม่ครบถ้วน</string>
+    <string name="stripe_inline_sign_up_header">บันทึกข้อมูลของคุณไว้เพื่อการชำระเงินที่ปลอดภัยในคลิกเดียวด้วย Link</string>
+    <string name="stripe_internal_error">เกิดข้อผิดพลาดภายใน</string>
+    <string name="stripe_invalid_bank_account_iban">IBAN ที่คุณป้อนไม่ถูกต้อง</string>
+    <string name="stripe_invalid_blik_code">รหัส BLIK ไม่ถูกต้อง</string>
+    <string name="stripe_invalid_card_number">หมายเลขบัตรไม่ถูกต้อง</string>
+    <string name="stripe_invalid_cvc">รหัสความปลอดภัยของบัตรไม่ถูกต้อง</string>
+    <string name="stripe_invalid_email_address">ที่อยู่อีเมลไม่ถูกต้อง: %s</string>
+    <string name="stripe_invalid_expiry_month">เดือนที่หมดอายุของบัตรไม่ถูกต้อง</string>
+    <string name="stripe_invalid_expiry_year">ปีที่หมดอายุของบัตรไม่ถูกต้อง</string>
+    <string name="stripe_invalid_owner_name">ชื่อไม่ถูกต้อง</string>
+    <string name="stripe_invalid_shipping_information">ที่อยู่สำหรับจัดส่งไม่ถูกต้อง</string>
+    <string name="stripe_invalid_upi_id">UPI ID ไม่ถูกต้อง</string>
+    <string name="stripe_invalid_zip">รหัสไปรษณีย์ไม่ครบถ้วน</string>
+    <string name="stripe_klarna_buy_now_pay_later">ซื้อตอนนี้หรือจ่ายทีหลังด้วย Klarna</string>
+    <string name="stripe_klarna_mandate">การดำเนินการต่อที่ Klana หมายความว่าคุณอนุญาตให้ %1$s เรียกเก็บเงินจากบัญชี Klana ของคุณสำหรับการชำระเงินในอนาคตตามเงื่อนไขของผู้ค้ารายดังกล่าว คุณสามารถเปลี่ยนการอนุญาตนี้ได้ทุกเมื่อในแอป Klana หรือติดต่อที่ %2$s</string>
+    <string name="stripe_klarna_pay_later">จ่ายทีหลังด้วย Klarna</string>
+    <string name="stripe_konbini_confirmation_number_label">โทรศัพท์</string>
+    <string name="stripe_link_simple_secure_payments">การชำระเงินด้วยคลิกเดียวที่ปลอดภัยและใช้ง่าย</string>
+    <string name="stripe_log_out">ออกจากระบบ Link</string>
+    <string name="stripe_name_on_card">ชื่อบนบัตร</string>
+    <string name="stripe_network_error_message">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ ตรวจสอบการเชื่อมต่อของคุณแล้วลองอีกครั้ง</string>
+    <string name="stripe_p24_bank">ธนาคาร Przelewy24</string>
+    <string name="stripe_pay_button_amount">ชำระ %s</string>
+    <string name="stripe_pay_with_link">ชำระเงินด้วย Link</string>
+    <string name="stripe_payment_method_add_new_card">เพิ่มบัตรใหม่...</string>
+    <string name="stripe_payment_method_add_new_fpx">เลือกบัญชีธนาคาร (FPX)…</string>
+    <string name="stripe_payment_method_bank">ธนาคาร</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[การดำเนินการต่อหมายความว่าคุณตกลงที่จะอนุมัติการชำระเงินซึ่งดำเนินการตาม<terms>ข้อกำหนดเหล่านี้</terms>]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[การบันทึกบัญชีธนาคารของ %s หมายความว่าคุณตกลงที่จะอนุมัติการชำระเงินซึ่งดำเนินการตาม<terms>ข้อกำหนดเหล่านี้</terms>]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">เกิดข้อผิดพลาดบางอย่างขณะเชื่อมโยงกับบัญชีของคุณ \nโปรดลองอีกครั้งในภายหลัง</string>
+    <string name="stripe_paymentsheet_add_card">เพิ่มบัตร</string>
+    <string name="stripe_paymentsheet_add_new_card">เพิ่มบัตรใหม่</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ เพิ่ม</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">ข้อมูลบัตร</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">เพิ่มข้อมูลการชำระเงิน</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">เพิ่มบัญชีธนาคารในสหรัฐอเมริกา</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">บันทึกที่อยู่</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">ที่อยู่สำหรับจัดส่ง</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">ระบบจะส่งอีเมลถึง %s ภายใน 3 วันทำการเพื่อยืนยันการตั้งค่าขั้นตอนการหักเงินนี้</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">ยืนยันรายละเอียดการหักบัญชีอัตโนมัติ</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">แก้ไขรายละเอียด</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">นอกจากนี้ ระบบจะส่งอีเมลเพื่อแจ้งจำนวนเงินที่จะหักจากบัญชีภายใต้วิธีการนี้ให้คุณทราบล่วงหน้า 2 วันอีกด้วย การชำระเงินจะแสดงเป็น \"%s\" ในรายการเดินบัญชีธนาคารของคุณ</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">การชำระเงินของคุณจะได้รับการคุ้มครองโดย %s</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">ซื้อโดยใช้ UPI ID</string>
+    <string name="stripe_paymentsheet_card_mandate">การให้ข้อมูลบัตร หมายความว่าคุณอนุญาตให้ %s เรียกเก็บเงินจากบัตรสำหรับการชำระเงินในอนาคตตามเงื่อนไขของผู้ค้ารายดังกล่าว</string>
+    <string name="stripe_paymentsheet_choose_payment_method">เลือกวิธีการชำระเงิน</string>
+    <string name="stripe_paymentsheet_close">ปิด</string>
+    <string name="stripe_paymentsheet_confirm">ยืนยัน</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">ยืนยัน CVC ของคุณ</string>
+    <string name="stripe_paymentsheet_enter_address_manually">ป้อนที่อยู่ด้วยตนเอง</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">จัดการวิธีการชำระเงิน</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">จัดการวิธีการชำระเงินของคุณ</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe จะฝากเงินจำนวน $0.01 ในบัญชีของคุณภายใน 1-2 วันทำการ จากนั้นคุณก็จะได้รับอีเมลแจ้งวิธีชำระเงินแก่ %s ให้เสร็จสิ้น</string>
+    <string name="stripe_paymentsheet_modify_pm">แก้ไข %s</string>
+    <string name="stripe_paymentsheet_new_card">บัตรใหม่</string>
+    <string name="stripe_paymentsheet_new_pm">วิธีการชำระเงินใหม่</string>
+    <string name="stripe_paymentsheet_or_pay_using">หรือชำระเงินด้วย</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">หรือชำระเงินด้วยบัตร</string>
+    <string name="stripe_paymentsheet_or_use">หรือใช้</string>
+    <string name="stripe_paymentsheet_or_use_a_card">หรือใช้บัตร</string>
+    <string name="stripe_paymentsheet_pay_button_label">ชำระเงิน</string>
+    <string name="stripe_paymentsheet_pay_using">ชำระโดยใช้</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">ชำระเงินด้วยบัญชีธนาคารภายในไม่กี่ขั้นตอน</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">การหักบัญชีอัตโนมัติแบบ BECS ในออสเตรเลีย</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">การหักบัญชีอัตโนมัติแบบ Bacs</string>
+    <string name="stripe_paymentsheet_payment_method_card">บัตร</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">การหักบัญชีอัตโนมัติแบบ SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">กำลังประมวลผล...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">นำบัญชีธนาคารออกหรือไม่</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">นำบัญชีธนาคารออก</string>
+    <string name="stripe_paymentsheet_remove_card">นำบัตรออก</string>
+    <string name="stripe_paymentsheet_remove_card_title">นำบัตรออกไหม</string>
+    <string name="stripe_paymentsheet_remove_pm">นำ %s ออก</string>
+    <string name="stripe_paymentsheet_remove_pm_title">นำวิธีการชำระเงินออก</string>
+    <string name="stripe_paymentsheet_save">บันทึก</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">บันทึกวิธีการชำระเงินใหม่</string>
+    <string name="stripe_paymentsheet_save_bank_title">บันทึกข้อมูลบัญชีธนาคารภายในไม่กี่ขั้นตอน</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">บันทึกไว้เพื่อชำระเงินในอนาคต</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">บันทึกบัตรนี้เพื่อชำระเงินให้ %s ในอนาคต</string>
+    <string name="stripe_paymentsheet_saved">บันทึกแล้ว</string>
+    <string name="stripe_paymentsheet_select_payment_method">เลือกวิธีการชำระเงิน</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">เลือกวิธีการชำระเงิน</string>
+    <string name="stripe_paymentsheet_total_amount">รวม: %s</string>
+    <string name="stripe_paypal_mandate">การยืนยันการการชำระเงินด้วย PayPal หมายความว่าคุณอนุญาตให้ %s เรียกเก็บเงินจากบัญชี PayPal ของคุณสำหรับการชำระเงินในอนาคตตามเงื่อนไขของผู้ค้ารายดังกล่าว</string>
+    <string name="stripe_pm_set_as_default">ตั้งเป็นวิธีการชำระเงินเริ่มต้น</string>
+    <string name="stripe_price_free">ฟรี</string>
+    <string name="stripe_processing_error">เกิดข้อผิดพลาดขณะประมวลผลบัตร โปรดลองอีกครั้งในอีกสักครู่</string>
+    <string name="stripe_remove">นำออก</string>
+    <string name="stripe_remove_bank_account_ending_in">ลบบัญชีธนาคารที่ลงท้ายด้วย %s</string>
+    <string name="stripe_removed">นำ %s ออกแล้ว</string>
+    <string name="stripe_revolut_mandate">การยืนยันการการชำระเงินด้วย RevolutPay หมายความว่าคุณอนุญาตให้ %s เรียกเก็บเงินจากบัญชี RevolutPay ของคุณสำหรับการชำระเงินในอนาคตตามเงื่อนไขของผู้ค้ารายดังกล่าว</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">บันทึกไว้เพื่อชำระเงินด้วย %s ในอนาคต</string>
+    <string name="stripe_save_payment_details_to_merchant_name">บันทึกรายละเอียดการชำระเงินไปยัง %s เพื่อการซื้อในอนาคต</string>
+    <string name="stripe_scan_card">สแกนบัตร</string>
+    <string name="stripe_secure_checkout">การชำระเงินที่ปลอดภัย</string>
+    <string name="stripe_sepa_mandate">เมื่อให้ข้อมูลการชำระเงินและยืนยันการชำระเงินนี้ หมายความว่าคุณ (ก) อนุญาตให้ %s และ Stripe ซึ่งเป็นผู้ให้บริการชำระเงินส่งคำสั่งให้ธนาคารหักเงินจากบัญชีของคุณ และ (ข) อนุญาตให้ธนาคารหักเงินจากบัญชีตามคำสั่งดังกล่าว คุณมีสิทธิ์รับเงินคืนจากธนาคารภายใต้เงื่อนไขและข้อกำหนดซึ่งระบุไว้ในข้อตกลงที่คุณทำไว้กับธนาคาร โดยจะต้องทำการขอเงินคืนภายใน 8 สัปดาห์นับจากวันที่มีการหักเงินจากบัญชี คุณสามารถดูสิทธิ์ของตัวเองได้ในใบแจ้งยอดบัญชีที่ขอได้จากธนาคาร คุณตกลงที่จะรับการแจ้งเตือนเกี่ยวกับการหักเงินในบัญชีในอนาคตสูงสุดไม่เกิน 2 วันก่อนที่จะถึงวันหักจริง</string>
+    <string name="stripe_setup_button_label">ตั้งค่า</string>
+    <string name="stripe_show_menu">แสดงเมนู</string>
+    <string name="stripe_sign_up">สมัครใช้ Link</string>
+    <string name="stripe_sign_up_header">การชำระเงินที่ปลอดภัยในคลิกเดียว</string>
+    <string name="stripe_sign_up_message">ชำระเงินที่ %s และผู้ค้าอีกนับพันแห่งได้เร็วขึ้น</string>
+    <string name="stripe_sign_up_terms"><![CDATA[การเข้าร่วม Link หมายถึงคุณยอมรับ<terms>ข้อกำหนด</terms>และ<privacy>นโยบายความเป็นส่วนตัว</privacy>]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[การให้อีเมลหมายความว่าคุณยินยอมที่จะสร้างบัญชี Link และบันทึกข้อมูลการชำระเงินไปยัง Link ตาม<terms>ข้อกำหนดของ Link</terms> และ<privacy>นโยบายความเป็นส่วนตัว</privacy>]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[การให้หมายเลขโทรศัพท์หมายความว่าคุณยินยอมที่จะสร้างบัญชี Link และบันทึกข้อมูลการชำระเงินไปยัง Link ตาม<terms>ข้อกำหนด</terms> และ<privacy>เงื่อนไข</privacy>ของ Link]]></string>
+    <string name="stripe_something_went_wrong">มีข้อผิดพลาดเกิดขึ้น</string>
+    <string name="stripe_title_add_a_card">เพิ่มบัตร</string>
+    <string name="stripe_title_add_an_address">ระบุที่อยู่</string>
+    <string name="stripe_title_bank_account">บัญชีธนาคาร</string>
+    <string name="stripe_title_payment_method">วิธีการชำระเงิน</string>
+    <string name="stripe_title_select_shipping_method">เลือกวิธีการจัดส่ง</string>
+    <string name="stripe_title_update_card">อัปเดตบัตร</string>
+    <string name="stripe_update">อัปเดต</string>
+    <string name="stripe_upi_id_label">UPI ID</string>
+    <string name="stripe_upi_polling_cancel">ยกเลิกและชำระเงินด้วยวิธีอื่น</string>
+    <string name="stripe_upi_polling_header">อนุมัติการชำระเงิน</string>
+    <string name="stripe_upi_polling_message">เปิดแอป UPI เพื่ออนุมัติการชำระเงินของคุณภายใน %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">โปรดย้อนกลับและเลือกวิธีการชำระเงินอื่น</string>
+    <string name="stripe_upi_polling_payment_failed_title">ชำระเงินไม่สำเร็จ</string>
+    <string name="stripe_verification_change_email">เปลี่ยนอีเมล</string>
+    <string name="stripe_verification_code_sent">ส่งรหัสแล้ว</string>
+    <string name="stripe_verification_header">ป้อนรหัสยืนยัน</string>
+    <string name="stripe_verification_header_inline">เข้าสู่ระบบบัญชี Link ของคุณ</string>
+    <string name="stripe_verification_header_prefilled">ใช้ข้อมูลที่บันทึกไว้เพื่อให้ชำระเงินได้รวดเร็วขึ้น</string>
+    <string name="stripe_verification_message">ป้อนรหัสที่เราส่งให้ที่ %s เพื่อใช้ Link ในการชำระเงินตามค่าเริ่มต้น</string>
+    <string name="stripe_verification_not_email">หากไม่ใช่ %s</string>
+    <string name="stripe_verification_resend">ส่งรหัสอีกครั้ง</string>
+    <string name="stripe_verify_your_payment">ยืนยันการชำระเงินของคุณ</string>
+    <string name="stripe_view_more">ดูเพิ่มเติม</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[การดำเนินการต่อหมายความว่าคุณตกลงที่จะอนุมัติการชำระเงินซึ่งดำเนินการตาม<terms>ข้อกำหนด</terms>เหล่านี้]]></string>
+    <string name="stripe_wallet_collapsed_payment">การชำระเงิน</string>
+    <string name="stripe_wallet_default">ค่าเริ่มต้น</string>
+    <string name="stripe_wallet_expanded_title">วิธีการชำระเงิน</string>
+    <string name="stripe_wallet_pay_another_way">ชำระด้วยวิธีอื่น</string>
+    <string name="stripe_wallet_recollect_cvc_error">โปรดป้อนรหัสรักษาความปลอดภัยของบัตรอีกครั้งเพื่อความปลอดภัย</string>
+    <string name="stripe_wallet_remove_account_confirmation">แน่ใจไหมว่าต้องการนำบัญชีที่ลิงก์นี้ออก</string>
+    <string name="stripe_wallet_remove_card_confirmation">แน่ใจไหมว่าต้องการนำบัตรใบนี้ออก</string>
+    <string name="stripe_wallet_remove_linked_account">นำบัญชีที่ลิงก์ไว้ออก</string>
+    <string name="stripe_wallet_set_as_default">ตั้งเป็นค่าเริ่มต้น</string>
+    <string name="stripe_wallet_unavailable">ใช้กับการซื้อรายการนี้ไม่ได้</string>
+    <string name="stripe_wallet_update_card">อัปเดตบัตร</string>
+    <string name="stripe_wallet_update_expired_card_error">บัตรใบนี้หมดอายุแล้ว โปรดอัปเดตข้อมูลบัตรหรือเลือกวิธีการชำระเงินอื่น</string>
+    <string msgid="2561197295334830845" name="switch_role">"เปลี่ยน"</string>
+    <string msgid="1672349317127674378" name="tab">"แท็บ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> เปอร์เซ็นต์"</string>
+    <string name="wallet_buy_button_place_holder">ซื้อด้วย Google</string>
+</resources>

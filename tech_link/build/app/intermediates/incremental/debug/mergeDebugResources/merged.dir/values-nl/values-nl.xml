@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nieuwe melding</item>
+    <item quantity="other">%d nieuwe meldingen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klaar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles tonen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Wachtwoord"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Toegangssleutel"</string>
+    <string name="bottomsheet_action_collapse">Het blad onderaan samenvouwen</string>
+    <string name="bottomsheet_action_expand">Het blad onderaan uitvouwen</string>
+    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
+    <string name="bottomsheet_drag_handle_clicked">Dubbelgetikt op handgreep voor slepen</string>
+    <string name="bottomsheet_drag_handle_content_description">Handgreep voor slepen</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Beantwoorden"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Weigeren"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Ophangen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkomend gesprek"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Actief gesprek"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Een inkomend gesprek screenen"</string>
+    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
+    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
+    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigatiemenu sluiten"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Blad sluiten"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Samengevouwen"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aanzetten</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services aanzet.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Updaten</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link naar klembord gekopieerd"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ongeldige invoer"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-upvenster"</string>
+    <string msgid="4057925834421392736" name="dialog">"Dialoogvenster"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Dropdownmenu"</string>
+    <string name="error_icon_content_description">Fout</string>
+    <string msgid="5974471714631304645" name="expanded">"Uitgevouwen"</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdownmenu tonen</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Link kopiëren"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Openen in browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Link delen"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Icoon voor dialoogvenster</string>
+    <string msgid="6827826412747255547" name="in_progress">"Bezig"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Gedeeltelijk aangevinkt"</string>
+    <string name="item_view_role_description">Tabblad</string>
+    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
+    <string name="material_hour_24h_suffix">%1$s uur</string>
+    <string name="material_hour_selection">Selecteer uur</string>
+    <string name="material_hour_suffix">%1$s uur</string>
+    <string name="material_minute_selection">Minuten selecteren</string>
+    <string name="material_minute_suffix">%1$s minuten</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
+    <string name="material_timepicker_hour">Uur</string>
+    <string name="material_timepicker_minute">Minuut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Tijd selecteren</string>
+    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
+    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Meer dan %1$d nieuwe meldingen</string>
+    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
+    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
+    <string name="mtrl_picker_announce_current_range_selection">Startdatumselectie: %1$s – Einddatumselectie: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">geen</string>
+    <string name="mtrl_picker_cancel">Annuleren</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
+    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Einddatum %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
+    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Naar het huidige jaar %1$d gaan</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$d navigeren</string>
+    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
+    <string name="mtrl_picker_save">Opslaan</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">j</string>
+    <string name="mtrl_picker_today_description">Vandaag %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tik om over te schakelen naar de agendaweergave</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tik om over te schakelen naar de jaarweergave</string>
+    <string name="mtrl_timepicker_cancel">Annuleren</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigatiemenu"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Niet geselecteerd"</string>
+    <string msgid="875452955155264703" name="off">"Uit"</string>
+    <string msgid="8655164131929253426" name="on">"Aan"</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
+    <string msgid="5941395253238309765" name="range_end">"Einde bereik"</string>
+    <string msgid="7097486360902471446" name="range_start">"Start bereik"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string msgid="6043586758067023" name="selected">"Geselecteerd"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Afbeelding uitgever</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Afbeelding betaalsysteem</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Nee</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Ja</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Annuleren</string>
+    <string name="stripe_3ds2_hzv_header_label">Beveiligde Checkout</string>
+    <string name="stripe_3ds2_processing">Bezig met verwerken\u2026</string>
+    <string name="stripe_acc_label_card_number">Kaartnummer</string>
+    <string name="stripe_acc_label_card_number_node">%s, kaartnummer</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">Vervaldatum</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, vervaldatum</string>
+    <string name="stripe_acc_label_zip">Postcode</string>
+    <string name="stripe_acc_label_zip_short">Postcode</string>
+    <string name="stripe_add_bank_account">Bankrekening toevoegen</string>
+    <string name="stripe_add_new_payment_method">Een nieuwe betaalmethode toevoegen</string>
+    <string name="stripe_add_payment_method">Een betaalmethode toevoegen</string>
+    <string name="stripe_added">%s toegevoegd</string>
+    <string name="stripe_address_city_required">Geef je plaats op</string>
+    <string name="stripe_address_country_invalid">Het land is ongeldig</string>
+    <string name="stripe_address_county_required">Geef je graafschap op</string>
+    <string name="stripe_address_label_address">Adres</string>
+    <string name="stripe_address_label_address_line1">Adresregel 1</string>
+    <string name="stripe_address_label_address_line1_optional">Adresregel 1 (optioneel)</string>
+    <string name="stripe_address_label_address_line2">Adresregel 2</string>
+    <string name="stripe_address_label_address_line2_optional">Adresregel 2 (optioneel)</string>
+    <string name="stripe_address_label_address_optional">Adres (optioneel) </string>
+    <string name="stripe_address_label_ae_emirate">Emiraat</string>
+    <string name="stripe_address_label_apt_optional">App. (optioneel)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Stad of voorstad</string>
+    <string name="stripe_address_label_bb_jm_parish">Parochie</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Plaats</string>
+    <string name="stripe_address_label_city_optional">Plaats (optioneel)</string>
+    <string name="stripe_address_label_country">Land</string>
+    <string name="stripe_address_label_country_or_region">Land of regio</string>
+    <string name="stripe_address_label_county">Graafschap</string>
+    <string name="stripe_address_label_county_optional">Graafschap (optioneel)</string>
+    <string name="stripe_address_label_department">Departement</string>
+    <string name="stripe_address_label_district">District</string>
+    <string name="stripe_address_label_full_name">Volledige naam</string>
+    <string name="stripe_address_label_hk_area">Regio</string>
+    <string name="stripe_address_label_ie_eircode">Eircode</string>
+    <string name="stripe_address_label_ie_townland">Townland</string>
+    <string name="stripe_address_label_in_pin">Postcode</string>
+    <string name="stripe_address_label_island">Eiland</string>
+    <string name="stripe_address_label_jp_prefecture">Prefectuur</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Naam</string>
+    <string name="stripe_address_label_neighborhood">Wijk</string>
+    <string name="stripe_address_label_oblast">Oblast</string>
+    <string name="stripe_address_label_phone_number">Telefoonnummer</string>
+    <string name="stripe_address_label_phone_number_optional">Telefoonnummer (optioneel)</string>
+    <string name="stripe_address_label_post_town">Postcode of stad</string>
+    <string name="stripe_address_label_postal_code">Postcode</string>
+    <string name="stripe_address_label_postal_code_optional">Postcode (optioneel)</string>
+    <string name="stripe_address_label_postcode">Postcode</string>
+    <string name="stripe_address_label_postcode_optional">Postcode (optioneel)</string>
+    <string name="stripe_address_label_province">Provincie</string>
+    <string name="stripe_address_label_province_optional">Provincie (optioneel)</string>
+    <string name="stripe_address_label_region_generic">Staat/provincie/regio</string>
+    <string name="stripe_address_label_region_generic_optional">Staat/provincie/regio (optioneel)</string>
+    <string name="stripe_address_label_state">Staat</string>
+    <string name="stripe_address_label_state_optional">Staat (optioneel)</string>
+    <string name="stripe_address_label_suburb">Voorstad</string>
+    <string name="stripe_address_label_village_township">Dorp of kleine stad</string>
+    <string name="stripe_address_label_zip_code">Postcode</string>
+    <string name="stripe_address_label_zip_code_optional">Postcode (optioneel)</string>
+    <string name="stripe_address_label_zip_postal_code">Postcode</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Postcode (optioneel)</string>
+    <string name="stripe_address_name_required">Geef je naam op</string>
+    <string name="stripe_address_phone_number_required">Geef je telefoonnummer op</string>
+    <string name="stripe_address_postal_code_invalid">Je postcode is ongeldig.</string>
+    <string name="stripe_address_postcode_invalid">Je postcode is ongeldig</string>
+    <string name="stripe_address_province_required">Geef je provincie op</string>
+    <string name="stripe_address_region_generic_required">Geef je staat/provincie/regio op</string>
+    <string name="stripe_address_required">Geef je adres op</string>
+    <string name="stripe_address_search_content_description">Zoeken</string>
+    <string name="stripe_address_state_required">Geef je staat op</string>
+    <string name="stripe_address_zip_invalid">Je postcode is ongeldig.</string>
+    <string name="stripe_address_zip_postal_invalid">Je postcode is ongeldig</string>
+    <string name="stripe_affirm_buy_now_pay_later">Betalen in termijnen met &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Betaal in termijnen met Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Koop nu of betaal later met <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Betaal in <num_installments/> rentevrije termijnen van <installment_price/> met <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d rentevrije betalingen van %2$s</string>
+    <string name="stripe_afterpay_subtitle">Koop nu of betaal later met Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Als je je betaling op Amazon Pay bevestigt, geef je %s toestemming om toekomstige betalingen in rekening te brengen op je Amazon Pay-account in overeenstemming met hun voorwaarden.</string>
+    <string name="stripe_au_becs_account_name">Naam op account</string>
+    <string name="stripe_au_becs_bsb_number">BSB-nummer</string>
+    <string name="stripe_au_becs_mandate">Door je bankrekeninggegevens te verstrekken en deze betaling te bevestigen ga je akkoord met deze aanvraag voor automatische incasso en de &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">Direct Debit Request-serviceovereenkomst&lt;/a>, en autoriseer je Stripe Payments Australia Pty Ltd ACN 160 180 343 met gebruikers-ID voor automatische incasso\'s 507156 (“Stripe”) om bedragen van je rekening af te schrijven via het BECS-systeem (Bulk Electronic Clearing System) namens %s (de \"Handelaar\") voor bedragen die afzonderlijk door de handelaar aan je kenbaar worden gemaakt. Je verklaart dat je de rekeninghouder bent van of bevoegd bent om te tekenen voor de hierboven vermelde rekening.</string>
+    <string name="stripe_back">Terug</string>
+    <string name="stripe_bacs_account_number">Rekeningnummer</string>
+    <string name="stripe_bacs_account_number_incomplete">Je rekeningnummer is onvolledig.</string>
+    <string name="stripe_bacs_bank_account_title">Bankrekening</string>
+    <string name="stripe_bacs_confirm_mandate_label">Ik begrijp dat Stripe namens %s bedragen via automatische incasso gaat afschrijven en ik bevestig dat ik als rekeninghouder de enige vereiste persoon ben om afschrijvingen van deze rekening te autoriseren.</string>
+    <string name="stripe_bacs_sort_code">Sort-code</string>
+    <string name="stripe_bacs_sort_code_incomplete">De sort-code is onvolledig.</string>
+    <string name="stripe_bank_account_ending_in">Bankrekening eindigend op %s</string>
+    <string name="stripe_bank_account_plus_last_4">Bankrekening ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Bankrekening ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Door je bankrekeninggegevens te verstrekken en deze betaling te bevestigen ga je akkoord met deze\n    aanvraag voor automatische incasso en de Direct Debit Request-serviceovereenkomst, en autoriseer je\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 met gebruikers-ID voor automatische incasso\'s 507156\n    (“Stripe”) om bedragen van je rekening af te schrijven via het BECS-systeem (Bulk Electronic Clearing System)\n    namens %1$s (de \"Handelaar\") voor bedragen die afzonderlijk door de handelaar\n    aan je kenbaar worden gemaakt. Je verklaart dat je de rekeninghouder bent van of bevoegd bent\n    om te tekenen voor de hierboven vermelde rekening.\n    </string>
+    <string name="stripe_becs_widget_account_number">Rekeningnummer</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Het opgegeven rekeningnummer is onvolledig.</string>
+    <string name="stripe_becs_widget_account_number_required">Je rekeningnummer is vereist.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">Het ingevoerde BSB-nummer is onvolledig.</string>
+    <string name="stripe_becs_widget_bsb_invalid">Het ingevoerde BSB-nummer is ongeldig.</string>
+    <string name="stripe_becs_widget_email">E-mailadres</string>
+    <string name="stripe_becs_widget_email_invalid">Je e-mailadres is ongeldig.</string>
+    <string name="stripe_becs_widget_email_required">Je e-mailadres is vereist.</string>
+    <string name="stripe_becs_widget_name">Naam</string>
+    <string name="stripe_becs_widget_name_required">Je naam is vereist.</string>
+    <string name="stripe_billing_details">Factuuradres</string>
+    <string name="stripe_billing_same_as_shipping">Factuuradres is hetzelfde als het verzendadres</string>
+    <string name="stripe_blank_and_required">Dit veld mag niet leeg zijn.</string>
+    <string name="stripe_blik_code">BLIK-code</string>
+    <string name="stripe_blik_confirm_payment">Bevestig de betaling in de app van je bank binnen %s om de aankoop af te ronden.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Annuleren</string>
+    <string name="stripe_card_brand_choice_no_selection">Geen selectie</string>
+    <string name="stripe_card_brand_choice_selection_header">Merk van betaalkaart selecteren (optioneel)</string>
+    <string name="stripe_card_declined">Je kaart is geweigerd</string>
+    <string name="stripe_card_ending_in">%1$s eindigend op %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Als je doorgaat, geef je %1$s toestemming om deze betaling en toekomstige betalingen in rekening te brengen op je Cash App-account, in overeenstemming met de voorwaarden van %2$s, totdat je deze toestemming intrekt. Je kunt dit op elk moment wijzigen via je Cash App-instellingen.</string>
+    <string name="stripe_change">Wijzigen</string>
+    <string name="stripe_clearpay_subtitle">Koop nu of betaal later met Clearpay</string>
+    <string name="stripe_close">Sluiten</string>
+    <string name="stripe_confirm_close_form_body">Je betaalgegevens worden niet opgeslagen.</string>
+    <string name="stripe_confirm_close_form_title">Wil je dit formulier sluiten?</string>
+    <string name="stripe_contact_information">Contactgegevens</string>
+    <string name="stripe_continue_button_label">Doorgaan</string>
+    <string name="stripe_delete_payment_method">Betaalmethode verwijderen</string>
+    <string name="stripe_delete_payment_method_prompt_title">Betaalmethode verwijderen?</string>
+    <string name="stripe_done">Gereed</string>
+    <string name="stripe_edit">Bewerken</string>
+    <string name="stripe_email">E-mailadres</string>
+    <string name="stripe_email_is_invalid">Je e-mailadres is ongeldig.</string>
+    <string name="stripe_eps_bank">EPS Bank</string>
+    <string name="stripe_expiration_date_hint">MM / JJ</string>
+    <string name="stripe_expired_card">Je kaart is vervallen</string>
+    <string name="stripe_expiry_date_hint">MM/JJ</string>
+    <string name="stripe_expiry_label_short">Vervaldatum</string>
+    <string name="stripe_failure_connection_error">Er zijn momenteel problemen met de verbinding naar onze betalingsprovider. Controleer je internetverbinding en probeer het opnieuw.</string>
+    <string name="stripe_failure_reason_authentication">We kunnen de betaalmethode niet authenticeren. Kies een andere betaalmethode en probeer het nogmaals.</string>
+    <string name="stripe_failure_reason_timed_out">Time-out bij authenticatie van de betaalmethode. Probeer het nogmaals</string>
+    <string name="stripe_field_required">Dit is vereist</string>
+    <string name="stripe_form_label_optional">%s (optioneel)</string>
+    <string name="stripe_fpx_bank">FPX Bank</string>
+    <string name="stripe_fpx_bank_offline">%s - offline</string>
+    <string name="stripe_generic_decline">Je betaalmethode is geweigerd.</string>
+    <string name="stripe_hcaptcha_loading_text">Verifiëren dat u een mens bent</string>
+    <string name="stripe_iban_incomplete">Het opgegeven IBAN-nummer is onvolledig.</string>
+    <string name="stripe_iban_invalid_country">Het opgegeven IBAN-nummer is ongeldig: \"%s\" is geen ondersteunde landcode.</string>
+    <string name="stripe_iban_invalid_start">Het IBAN-nummer moet beginnen met een landcode van twee letters.</string>
+    <string name="stripe_ideal_bank">iDEAL-bank</string>
+    <string name="stripe_incomplete_blik_code">Je BLIK-code is onvolledig.</string>
+    <string name="stripe_incomplete_expiry_date">De vervaldatum van je kaart is onvolledig.</string>
+    <string name="stripe_incomplete_phone_number">Onvolledig telefoonnummer</string>
+    <string name="stripe_inline_sign_up_header">Bewaar je gegevens zodat je veilig met één klik kunt afrekenen met Link</string>
+    <string name="stripe_internal_error">Er is een interne fout opgetreden.</string>
+    <string name="stripe_invalid_bank_account_iban">Het opgegeven IBAN-nummer is ongeldig.</string>
+    <string name="stripe_invalid_blik_code">Je BLIK-code is ongeldig.</string>
+    <string name="stripe_invalid_card_number">Het kaartnummer is ongeldig.</string>
+    <string name="stripe_invalid_cvc">De beveiligingscode van je kaart is ongeldig.</string>
+    <string name="stripe_invalid_email_address">Ongeldig e-mailadres: %s</string>
+    <string name="stripe_invalid_expiry_month">De vervalmaand van de kaart is ongeldig.</string>
+    <string name="stripe_invalid_expiry_year">Het vervaljaar van de kaart is ongeldig.</string>
+    <string name="stripe_invalid_owner_name">Je naam is ongeldig.</string>
+    <string name="stripe_invalid_shipping_information">Ongeldig verzendadres</string>
+    <string name="stripe_invalid_upi_id">Ongeldige UPI-ID</string>
+    <string name="stripe_invalid_zip">Je postcode is onvolledig.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Koop nu of betaal later met Klarna.</string>
+    <string name="stripe_klarna_mandate">Als je doorgaat naar Klarna, geef je %1$s toestemming om toekomstige betalingen in rekening te brengen op je Klarna-account in overeenstemming met hun voorwaarden en de voorwaarden van Klarna. Je kunt dit altijd wijzigen in je Klarna-app of door contact op te nemen met %2$s.</string>
+    <string name="stripe_klarna_pay_later">Betaal later met Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Telefoon</string>
+    <string name="stripe_link_simple_secure_payments">Betaal eenvoudig en veilig met één klik</string>
+    <string name="stripe_log_out">Afmelden bij Link</string>
+    <string name="stripe_name_on_card">Naam op betaalkaart</string>
+    <string name="stripe_network_error_message">Er is iets misgegaan. Controleer je verbinding en probeer het opnieuw.</string>
+    <string name="stripe_p24_bank">Przelewy24 Bank</string>
+    <string name="stripe_pay_button_amount">%s betalen</string>
+    <string name="stripe_pay_with_link">Betalen met Link</string>
+    <string name="stripe_payment_method_add_new_card">Nieuwe kaart toevoegen…</string>
+    <string name="stripe_payment_method_add_new_fpx">Bankrekening selecteren (FPX)...</string>
+    <string name="stripe_payment_method_bank">Bank</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Als je doorgaat, ga je ermee akkoord betalingen in overeenstemming met <terms>deze voorwaarden</terms> te autoriseren.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Als je je bankrekening voor %s opslaat, ga je ermee akkoord betalingen in overeenstemming met <terms>deze voorwaarden</terms> te autoriseren.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Er is iets misgegaan bij het koppelen van je account.\nProbeer het later nog eens.</string>
+    <string name="stripe_paymentsheet_add_card">Kaart toevoegen</string>
+    <string name="stripe_paymentsheet_add_new_card">Nieuwe betaalkaart toevoegen</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Toevoegen</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kaartgegevens</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Je betaalgegevens toevoegen</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Amerikaanse bankrekening toevoegen</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Adres opslaan</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Verzendadres</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Binnen drie werkdagen wordt een e-mail gestuurd naar %s om de instelling van deze incasso-opdracht te bevestigen.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Je incassogegevens bevestigen</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Gegevens wijzigen</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Daarnaast ontvang je twee dagen vooraf via e-mail een melding van elk bedrag dat vanwege deze opdracht wordt afgeschreven. Betalingen worden op je bankafschrift weergegeven als \'%s\'.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Je betalingen worden beschermd door %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Kopen met een UPI-ID</string>
+    <string name="stripe_paymentsheet_card_mandate">Door je kaartgegevens te verstrekken geef je %s toestemming om toekomstige betalingen af te schrijven van je betaalkaart in overeenstemming met hun voorwaarden.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Een betaalmethode kiezen</string>
+    <string name="stripe_paymentsheet_close">Sluiten</string>
+    <string name="stripe_paymentsheet_confirm">Bevestigen</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Je CVC bevestigen</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Adres handmatig invoeren</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Betaalmethoden beheren</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Uw betaalmethoden beheren</string>
+    <string name="stripe_paymentsheet_microdeposit">Binnen 1-2 werkdagen stort Stripe $ 0,01 op je rekening. Daarna krijg je een e-mail met instructies over hoe je de betaling aan %s kunt voltooien.</string>
+    <string name="stripe_paymentsheet_modify_pm">%s bewerken</string>
+    <string name="stripe_paymentsheet_new_card">Nieuwe betaalkaart</string>
+    <string name="stripe_paymentsheet_new_pm">Nieuwe betaalmethode</string>
+    <string name="stripe_paymentsheet_or_pay_using">Of betalen met</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Of met een kaart betalen</string>
+    <string name="stripe_paymentsheet_or_use">Of gebruik</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Of gebruik een betaalkaart</string>
+    <string name="stripe_paymentsheet_pay_button_label">Betaal</string>
+    <string name="stripe_paymentsheet_pay_using">Betalen met</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Betaal in een paar stappen met je bankrekening.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">AU BECS Direct Debit</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Automatische BACS-incasso</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kaart</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA-incasso</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Verwerken...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Bankrekening verwijderen?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Bankrekening verwijderen</string>
+    <string name="stripe_paymentsheet_remove_card">Betaalkaart verwijderen</string>
+    <string name="stripe_paymentsheet_remove_card_title">Betaalkaart verwijderen?</string>
+    <string name="stripe_paymentsheet_remove_pm">%s verwijderen</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Betaalmethode verwijderen</string>
+    <string name="stripe_paymentsheet_save">Opslaan</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Een nieuwe betaalmethode opslaan</string>
+    <string name="stripe_paymentsheet_save_bank_title">Sla je bankrekening in een paar stappen op.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Opslaan voor toekomstige betalingen</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Deze kaart opslaan voor toekomstige aankopen bij %s</string>
+    <string name="stripe_paymentsheet_saved">Opgeslagen</string>
+    <string name="stripe_paymentsheet_select_payment_method">Betaalmethode selecteren</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Betaalmethode selecteren</string>
+    <string name="stripe_paymentsheet_total_amount">Totaal: %s</string>
+    <string name="stripe_paypal_mandate">Als je je betaling met PayPal bevestigt, geef je %s toestemming om toekomstige betalingen af te schrijven van je PayPal-rekening in overeenstemming met hun voorwaarden.</string>
+    <string name="stripe_pm_set_as_default">Instellen als standaardbetaalmethode</string>
+    <string name="stripe_price_free">Gratis</string>
+    <string name="stripe_processing_error">Er is een fout met de verwerking van je kaart. Probeer het over enkele seconden opnieuw</string>
+    <string name="stripe_remove">Verwijderen</string>
+    <string name="stripe_remove_bank_account_ending_in">Bankrekening verwijderen die eindigt op %s</string>
+    <string name="stripe_removed">%s verwijderd</string>
+    <string name="stripe_revolut_mandate">Als je je betaling op RevolutPay bevestigt, geef je %s toestemming om toekomstige betalingen in rekening te brengen op je RevolutPay-account in overeenstemming met hun voorwaarden.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Opslaan voor toekomstige %s-betalingen</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Betaalgegevens opslaan naar %s voor toekomstige aankopen</string>
+    <string name="stripe_scan_card">Betaalkaart scannen</string>
+    <string name="stripe_secure_checkout">Beveiligd afrekenproces</string>
+    <string name="stripe_sepa_mandate">Door je betaalgegevens op te geven en deze betaling te bevestigen geef je toestemming aan (A) %s en Stripe, onze betaaldienstverlener, een opdracht te sturen aan je bank om je rekening te debiteren en aan (B) je bank om je rekening te debiteren conform deze opdracht. Je hebt het recht op terugbetaling door je bank conform de met je bank overeengekomen voorwaarden. Een verzoek tot terugbetaling moet worden ingediend binnen 8 weken vanaf de datum waarop je rekening is gedebiteerd. Je rechten worden uitgelegd in een verklaring die je kunt opvragen bij je bank. Je stemt ermee in dat je minstens 2 dagen voor de uitvoering van toekomstige debiteringen hierover op de hoogte wordt gesteld.</string>
+    <string name="stripe_setup_button_label">Instellen</string>
+    <string name="stripe_show_menu">Menu weergeven</string>
+    <string name="stripe_sign_up">Aanmelden bij Link</string>
+    <string name="stripe_sign_up_header">Veilig afrekenen in één klik</string>
+    <string name="stripe_sign_up_message">Reken sneller af bij %s en duizenden andere handelaren.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Door Link te gebruiken ga je akkoord met de <terms>voorwaarden</terms> en het <privacy>privacybeleid</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Door je e-mailadres te verstrekken, ga je ermee akkoord dat er een Link-account wordt gemaakt en dat je betaalgegevens worden opgeslagen naar Link, volgens de <terms>voorwaarden</terms> en het <privacy>privacybeleid van Link</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Door je telefoonnummer te verstrekken, ga je ermee akkoord dat er een Link-account wordt gemaakt en dat je betaalgegevens worden opgeslagen naar Link, volgens de <terms>voorwaarden</terms> en het <privacy>privacybeleid van Link</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Er is iets misgegaan</string>
+    <string name="stripe_title_add_a_card">Een kaart toevoegen</string>
+    <string name="stripe_title_add_an_address">Voeg een adres toe</string>
+    <string name="stripe_title_bank_account">Bankrekening</string>
+    <string name="stripe_title_payment_method">Betaalmethode</string>
+    <string name="stripe_title_select_shipping_method">Selecteer een verzendmethode</string>
+    <string name="stripe_title_update_card">Betaalkaart bijwerken</string>
+    <string name="stripe_update">Bijwerken</string>
+    <string name="stripe_upi_id_label">UPI-ID</string>
+    <string name="stripe_upi_polling_cancel">Annuleren en op een andere manier betalen</string>
+    <string name="stripe_upi_polling_header">Betaling goedkeuren</string>
+    <string name="stripe_upi_polling_message">Open de UPI-app om je betaling goed te keuren binnen %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Ga terug en selecteer een andere betaalmethode.</string>
+    <string name="stripe_upi_polling_payment_failed_title">Betaling is mislukt</string>
+    <string name="stripe_verification_change_email">E-mailadres wijzigen</string>
+    <string name="stripe_verification_code_sent">Code verstuurd</string>
+    <string name="stripe_verification_header">Voer je verificatiecode in.</string>
+    <string name="stripe_verification_header_inline">Aanmelden bij je Link-account</string>
+    <string name="stripe_verification_header_prefilled">Gebruik je opgeslagen gegevens om sneller af te rekenen</string>
+    <string name="stripe_verification_message">Voer de code in die is verstuurd naar %s om standaard met Link te betalen.</string>
+    <string name="stripe_verification_not_email">Niet %s?</string>
+    <string name="stripe_verification_resend">Code opnieuw versturen</string>
+    <string name="stripe_verify_your_payment">Je betaling verifiëren</string>
+    <string name="stripe_view_more">Meer weergeven</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Als je doorgaat, stem je in dat betalingen worden geautoriseerd in overeenstemming met deze <terms>voorwaarden</terms>.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Betaling</string>
+    <string name="stripe_wallet_default">Standaard</string>
+    <string name="stripe_wallet_expanded_title">Betaalmethoden</string>
+    <string name="stripe_wallet_pay_another_way">Betalen op een andere manier</string>
+    <string name="stripe_wallet_recollect_cvc_error">Voer uit veiligheidsoverwegingen de beveiligingscode van je betaalkaart opnieuw in.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Weet je zeker dat je dit gekoppelde account wilt verwijderen?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Weet je zeker dat je deze betaalkaart wilt verwijderen?</string>
+    <string name="stripe_wallet_remove_linked_account">Gekoppeld account verwijderen</string>
+    <string name="stripe_wallet_set_as_default">Instellen als standaard</string>
+    <string name="stripe_wallet_unavailable">Niet beschikbaar voor deze aankoop</string>
+    <string name="stripe_wallet_update_card">Betaalkaart bijwerken</string>
+    <string name="stripe_wallet_update_expired_card_error">Deze betaalkaart is verlopen. Werk de kaartgegevens bij of kies een andere betaalmethode.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Overschakelen"</string>
+    <string msgid="1672349317127674378" name="tab">"Tabblad"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string name="wallet_buy_button_place_holder">Kopen met Google</string>
+</resources>

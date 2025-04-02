@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny notifikation</item>
+    <item quantity="other">%d nye notifikationer</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"FRA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"TIL"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Adgangskode"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Adgangsnøgle"</string>
+    <string name="bottomsheet_action_collapse">Skjul feltet i bunden</string>
+    <string name="bottomsheet_action_expand">Udvid feltet i bunden</string>
+    <string name="bottomsheet_action_expand_halfway">Udvid halvdelen</string>
+    <string name="bottomsheet_drag_handle_clicked">Du har trykket to gange på håndtaget</string>
+    <string name="bottomsheet_drag_handle_content_description">Håndtag</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Besvar"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Afvis"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Læg på"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Indgående opkald"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Igangværende opkald"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Et indgående opkald screenes"</string>
+    <string name="character_counter_content_description">Du har brugt %1$d ud af %2$d tegn</string>
+    <string name="character_counter_overflowed_content_description">Du har brugt %1$d tegn og dermed overskredet tegnbegrænsningen på %2$d.</string>
+    <string name="clear_text_end_icon_content_description">Ryd tekst</string>
+    <string msgid="406453423630273620" name="close_drawer">"Luk navigationsmenuen"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Luk arket"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Skjult"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivér</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Opdater</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Linket er kopieret til udklipsholderen"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ugyldigt input"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop op-vindue"</string>
+    <string msgid="4057925834421392736" name="dialog">"Dialogboks"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Rullemenu"</string>
+    <string name="error_icon_content_description">Fejl</string>
+    <string msgid="5974471714631304645" name="expanded">"Udvidet"</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullemenuen</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiér link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Åbn i browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Del link"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Ikon for dialogboks</string>
+    <string msgid="6827826412747255547" name="in_progress">"I gang"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Delvist markeret"</string>
+    <string name="item_view_role_description">Fane</string>
+    <string name="material_clock_toggle_content_description">Vælg AM eller PM</string>
+    <string name="material_hour_24h_suffix">%1$s timer</string>
+    <string name="material_hour_selection">Vælg time</string>
+    <string name="material_hour_suffix">klokken %1$s</string>
+    <string name="material_minute_selection">Vælg minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_timepicker_am">f.m.</string>
+    <string name="material_timepicker_clock_mode_description">Skift til urtilstand for at angive klokkeslæt.</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">e.m.</string>
+    <string name="material_timepicker_select_time">Vælg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Skift til teksttilstand for at angive klokkeslæt.</string>
+    <string name="mtrl_badge_numberless_content_description">Ny notifikation</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Flere end %1$d nye notifikationer</string>
+    <string name="mtrl_picker_a11y_next_month">Skift til næste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Skift til forrige måned</string>
+    <string name="mtrl_picker_announce_current_range_selection">Valg af startdato: %1$s – Valg af slutdato: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelt valg: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ingen</string>
+    <string name="mtrl_picker_cancel">Annuller</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vælg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolonne med dage: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Slutdato %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Brug: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldigt interval.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Gå til indeværende år %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Gå til år %1$d</string>
+    <string name="mtrl_picker_out_of_range">Uden for interval: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – slutdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vælg interval</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato – slutdato</string>
+    <string name="mtrl_picker_save">Gem</string>
+    <string name="mtrl_picker_start_date_description">Startdato %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_today_description">I dag %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Skift til input-tilstand for kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tryk for at skifte til kalendervisning</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Skift til input-tilstand for tekst</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tryk for at skifte til årsvisning</string>
+    <string name="mtrl_timepicker_cancel">Annuller</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigationsmenu"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ikke valgt"</string>
+    <string msgid="875452955155264703" name="off">"Fra"</string>
+    <string msgid="8655164131929253426" name="on">"Til"</string>
+    <string name="password_toggle_content_description">Vis adgangskode</string>
+    <string msgid="5941395253238309765" name="range_end">"Slutinterval"</string>
+    <string msgid="7097486360902471446" name="range_start">"Startinterval"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søg"</string>
+    <string msgid="6043586758067023" name="selected">"Valgt"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Billede af udsteder</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Billede af betalingssystem</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Nej</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Ja</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Annullér</string>
+    <string name="stripe_3ds2_hzv_header_label">Sikker Checkout</string>
+    <string name="stripe_3ds2_processing">Behandler\u2026</string>
+    <string name="stripe_acc_label_card_number">Kortnummer</string>
+    <string name="stripe_acc_label_card_number_node">%s, Kortnummer</string>
+    <string name="stripe_acc_label_cvc_node">%sCVC</string>
+    <string name="stripe_acc_label_expiry_date">Udløbsdato</string>
+    <string name="stripe_acc_label_expiry_date_node">%sUdløbsdato</string>
+    <string name="stripe_acc_label_zip">Postnummer</string>
+    <string name="stripe_acc_label_zip_short">ZIP</string>
+    <string name="stripe_add_bank_account">Tilføj bankkonto</string>
+    <string name="stripe_add_new_payment_method">Tilføj en ny betalingsmetode</string>
+    <string name="stripe_add_payment_method">Tilføj en betalingsmetode</string>
+    <string name="stripe_added">Tilføjet %s</string>
+    <string name="stripe_address_city_required">Indtast din by</string>
+    <string name="stripe_address_country_invalid">Dit land er ugyldigt</string>
+    <string name="stripe_address_county_required">Indtast dit county</string>
+    <string name="stripe_address_label_address">Adresse</string>
+    <string name="stripe_address_label_address_line1">Adresselinje 1</string>
+    <string name="stripe_address_label_address_line1_optional">Adresselinje 1 (valgfrit)</string>
+    <string name="stripe_address_label_address_line2">Adresselinje 2</string>
+    <string name="stripe_address_label_address_line2_optional">Adresselinje 2 (valgfrit)</string>
+    <string name="stripe_address_label_address_optional">Adresse (valgfrit) </string>
+    <string name="stripe_address_label_ae_emirate">Emirat</string>
+    <string name="stripe_address_label_apt_optional">Lejl. (valgfrit)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Forstad eller storby</string>
+    <string name="stripe_address_label_bb_jm_parish">Sogn</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">By</string>
+    <string name="stripe_address_label_city_optional">By (valgfrit)</string>
+    <string name="stripe_address_label_country">Land</string>
+    <string name="stripe_address_label_country_or_region">Land eller region</string>
+    <string name="stripe_address_label_county">Amt</string>
+    <string name="stripe_address_label_county_optional">County (valgfrit)</string>
+    <string name="stripe_address_label_department">Afdeling</string>
+    <string name="stripe_address_label_district">Distrikt</string>
+    <string name="stripe_address_label_full_name">Fulde navn</string>
+    <string name="stripe_address_label_hk_area">Område</string>
+    <string name="stripe_address_label_ie_eircode">Eircode</string>
+    <string name="stripe_address_label_ie_townland">Opland</string>
+    <string name="stripe_address_label_in_pin">Pin</string>
+    <string name="stripe_address_label_island">Ø</string>
+    <string name="stripe_address_label_jp_prefecture">Præfektur</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Navn</string>
+    <string name="stripe_address_label_neighborhood">Kvarter</string>
+    <string name="stripe_address_label_oblast">Oblast</string>
+    <string name="stripe_address_label_phone_number">Telefonnr.</string>
+    <string name="stripe_address_label_phone_number_optional">Telefonnr. (valgfrit)</string>
+    <string name="stripe_address_label_post_town">Post eller by</string>
+    <string name="stripe_address_label_postal_code">Postnummer</string>
+    <string name="stripe_address_label_postal_code_optional">Postnr. (valgfrit)</string>
+    <string name="stripe_address_label_postcode">Postnr.</string>
+    <string name="stripe_address_label_postcode_optional">Postnr. (valgfrit)</string>
+    <string name="stripe_address_label_province">Provins</string>
+    <string name="stripe_address_label_province_optional">Provins (valgfrit)</string>
+    <string name="stripe_address_label_region_generic">Stat/provins/region</string>
+    <string name="stripe_address_label_region_generic_optional">Stat/provins/region (valgfrit)</string>
+    <string name="stripe_address_label_state">Stat</string>
+    <string name="stripe_address_label_state_optional">Stat (valgfrit)</string>
+    <string name="stripe_address_label_suburb">Forstad</string>
+    <string name="stripe_address_label_village_township">Landsby eller byområde</string>
+    <string name="stripe_address_label_zip_code">ZIP-kode</string>
+    <string name="stripe_address_label_zip_code_optional">ZIP-kode (valgfrit)</string>
+    <string name="stripe_address_label_zip_postal_code">ZIP-kode/Postnr.</string>
+    <string name="stripe_address_label_zip_postal_code_optional">ZIP-kode/Postnr. (valgfrit)</string>
+    <string name="stripe_address_name_required">Indtast dit navn</string>
+    <string name="stripe_address_phone_number_required">Indtast dit telefonnr.</string>
+    <string name="stripe_address_postal_code_invalid">Dit postnummer er ikke fuldendt.</string>
+    <string name="stripe_address_postcode_invalid">Postnummeret er ugyldigt.</string>
+    <string name="stripe_address_province_required">Indtast din provins</string>
+    <string name="stripe_address_region_generic_required">Indtast din stat/provins/region</string>
+    <string name="stripe_address_required">Indtast din adresse</string>
+    <string name="stripe_address_search_content_description">Søg</string>
+    <string name="stripe_address_state_required">Indtast din stat</string>
+    <string name="stripe_address_zip_invalid">ZIP-koden er ugyldig.</string>
+    <string name="stripe_address_zip_postal_invalid">ZIP-kode/Postnr. er ugyldigt</string>
+    <string name="stripe_affirm_buy_now_pay_later">Betal over tid med &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Betal over tid med Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Køb nu eller betal senere med <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Betal i <num_installments/> rentefri afdrag på <installment_price/> hver med <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d rentefri betalinger på %2$s</string>
+    <string name="stripe_afterpay_subtitle">Køb nu eller betal senere med Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Ved at bekræfte din betaling med Amazon Pay tillader du %s at debitere din Amazon Pay-konto for fremtidige betalinger i overensstemmelse med deres vilkår.</string>
+    <string name="stripe_au_becs_account_name">Navn på konto</string>
+    <string name="stripe_au_becs_bsb_number">BSB-nummer</string>
+    <string name="stripe_au_becs_mandate">Ved at angive dine bankoplysninger og bekræfte denne betaling accepterer du denne direkte debiteringsanmodning samt &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">debiteringsanmodningens serviceaftale&lt;/a>, og autoriserer Stripe Payments Australia Pty Ltd ACN 160 180 343, direkte debiterings-bruger-ID 507156 (“Stripe”) til at debitere din konto via Bulk Electronic Clearing System (BECS) på vegne af %s (\"Forhandleren\") for eventuelle beløb, der separat meddeles dig af Forhandleren. Du bekræfter, at du enten er kontoindehaver eller autoriseret underskriver på den konto, der er anført ovenfor.</string>
+    <string name="stripe_back">Tilbage</string>
+    <string name="stripe_bacs_account_number">Kontonummer</string>
+    <string name="stripe_bacs_account_number_incomplete">Dit kontonummer er ikke komplet.</string>
+    <string name="stripe_bacs_bank_account_title">Bankkonto</string>
+    <string name="stripe_bacs_confirm_mandate_label">Jeg er indforstået med, at Stripe vil opkræve direkte debiteringer på vegne af %s og bekræfter, at jeg er kontoindehaveren og den eneste person, der skal godkende debiteringer fra denne konto.</string>
+    <string name="stripe_bacs_sort_code">Sort code</string>
+    <string name="stripe_bacs_sort_code_incomplete">Din sort code er ufuldstændig.</string>
+    <string name="stripe_bank_account_ending_in">Bankkonto, der slutter på %s</string>
+    <string name="stripe_bank_account_plus_last_4">Bankkonto ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Bankkonto ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Ved at angive dine bankoplysninger og bekræfte denne betaling accepterer du denne\n    direkte debiteringsanmodning og debiteringsanmodningens serviceaftale og autoriserer \n    Stripe Payments Australia Pty Ltd ACN 160 180 343 Direkte debiterings-bruger-ID 507156\n    (“Stripe”) til at debitere din konto via Bulk Electronic Clearing System (BECS) på \n    vegne af %1$s (“forhandler”) for eventuelle beløb, der separat meddeles dig af\n    forhandleren. Du bekræfter, at du enten er en kontoindehaver eller en\n    autoriseret underskriver på den konto, der er anført ovenfor.\n    </string>
+    <string name="stripe_becs_widget_account_number">Kontonummer</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Det indtastede kontonummer er ikke komplet.</string>
+    <string name="stripe_becs_widget_account_number_required">Dit kontonummer er påkrævet.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">Den BSB, du angav, er ufuldstændig.</string>
+    <string name="stripe_becs_widget_bsb_invalid">Den BSB, du angav, er ugyldig.</string>
+    <string name="stripe_becs_widget_email">E-mailadresse.</string>
+    <string name="stripe_becs_widget_email_invalid">Din e-mailadresse er ugyldig.</string>
+    <string name="stripe_becs_widget_email_required">Din e-mail er påkrævet.</string>
+    <string name="stripe_becs_widget_name">Navn</string>
+    <string name="stripe_becs_widget_name_required">Dit navn er påkrævet.</string>
+    <string name="stripe_billing_details">Faktureringsadresse</string>
+    <string name="stripe_billing_same_as_shipping">Faktureringsadresse er den samme som forsendelse</string>
+    <string name="stripe_blank_and_required">Dette felt kan ikke være tomt.</string>
+    <string name="stripe_blik_code">BLIK-kode</string>
+    <string name="stripe_blik_confirm_payment">Bekræft betalingen i din banks app  indenfor %s for at gennemføre købet.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Annuller</string>
+    <string name="stripe_card_brand_choice_no_selection">Intet valg</string>
+    <string name="stripe_card_brand_choice_selection_header">Vælg kortbrand (valgfrit)</string>
+    <string name="stripe_card_declined">Dit kort blev afvist</string>
+    <string name="stripe_card_ending_in">%1$s slutter på %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Ved at fortsætte giver du %1$s tilladelse til at debitere din Cash App-konto for denne betaling og fremtidige betalinger i overensstemmelse med %2$ss vilkår, indtil denne tilladelse tilbagekaldes. Du kan til enhver tid ændre dette i dine Cash App-indstillinger.</string>
+    <string name="stripe_change">Skift</string>
+    <string name="stripe_clearpay_subtitle">Køb nu eller betal senere med Clearpay</string>
+    <string name="stripe_close">Luk</string>
+    <string name="stripe_confirm_close_form_body">Dine betalingsoplysninger gemmes ikke.</string>
+    <string name="stripe_confirm_close_form_title">Vil du lukke denne formular?</string>
+    <string name="stripe_contact_information">Kontaktoplysninger</string>
+    <string name="stripe_continue_button_label">Fortsæt</string>
+    <string name="stripe_delete_payment_method">Slet betalingsmetode</string>
+    <string name="stripe_delete_payment_method_prompt_title">Slet betalingsmetode?</string>
+    <string name="stripe_done">Færdig</string>
+    <string name="stripe_edit">Rediger</string>
+    <string name="stripe_email">E-mailadresse</string>
+    <string name="stripe_email_is_invalid">Din e-mail er ugyldig.</string>
+    <string name="stripe_eps_bank">EPS Bank</string>
+    <string name="stripe_expiration_date_hint">MM/ÅÅ</string>
+    <string name="stripe_expired_card">Dit kort er udløbet</string>
+    <string name="stripe_expiry_date_hint">MM/ÅÅ</string>
+    <string name="stripe_expiry_label_short">Udløbsdato</string>
+    <string name="stripe_failure_connection_error">Vi har problemer med at oprette forbindelse til vores betalingsudbyder. Kontroller din internetforbindelse, og prøv igen.</string>
+    <string name="stripe_failure_reason_authentication">Vi kunne ikke bekræfte din betalingsmetode. Vælg venligst en anden betalingsmetode, og prøv igen.</string>
+    <string name="stripe_failure_reason_timed_out">Bekræftelsen af din betalingsmetode udløb -- prøv igen.</string>
+    <string name="stripe_field_required">Dette er påkrævet.</string>
+    <string name="stripe_form_label_optional">%s (valgfrit)</string>
+    <string name="stripe_fpx_bank">FPX Bank</string>
+    <string name="stripe_fpx_bank_offline">%s -Offline</string>
+    <string name="stripe_generic_decline">Din betalingsmetode blev afvist.</string>
+    <string name="stripe_hcaptcha_loading_text">Bekræfter du er menneske</string>
+    <string name="stripe_iban_incomplete">Det indtastede IBAN-nummer er ufuldstændigt.</string>
+    <string name="stripe_iban_invalid_country">Den indtastede IBAN er ugyldig, \"%s\" er ikke en gyldig landekode.</string>
+    <string name="stripe_iban_invalid_start">Dit IBAN-nummer skal starte med en landekode på to bogstaver.</string>
+    <string name="stripe_ideal_bank">iDEAL Bank</string>
+    <string name="stripe_incomplete_blik_code">Din BLIK-kode er ufuldstændig.</string>
+    <string name="stripe_incomplete_expiry_date">Dit korts udløbsdato er ikke fuldendt.</string>
+    <string name="stripe_incomplete_phone_number">Ufuldstændigt telefonnummer</string>
+    <string name="stripe_inline_sign_up_header">Gem dine oplysninger om sikker betaling med 1 klik med Link</string>
+    <string name="stripe_internal_error">Der opstod en intern fejl.</string>
+    <string name="stripe_invalid_bank_account_iban">Det indtastede IBAN-nummer er ugyldigt.</string>
+    <string name="stripe_invalid_blik_code">Din BLIK-kode er ugyldig.</string>
+    <string name="stripe_invalid_card_number">Nummeret på dit kort er ugyldigt.</string>
+    <string name="stripe_invalid_cvc">Dit korts sikkerhedskode er ugyldig.</string>
+    <string name="stripe_invalid_email_address">Ugyldig e-mailadresse: %s</string>
+    <string name="stripe_invalid_expiry_month">Kortets udløbsmåned er ugyldig.</string>
+    <string name="stripe_invalid_expiry_year">Dit korts udløbsår er ugyldigt.</string>
+    <string name="stripe_invalid_owner_name">Dit navn er ugyldigt.</string>
+    <string name="stripe_invalid_shipping_information">Ugyldig forsendelsesadresse</string>
+    <string name="stripe_invalid_upi_id">Ugyldigt UPI ID</string>
+    <string name="stripe_invalid_zip">Dit postnummer er ikke fuldendt.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Køb nu, eller betal senere med Klarna.</string>
+    <string name="stripe_klarna_mandate">Når du fortsætter til Klarna, giver du %1$s tilladelse til at debitere din Klarna-konto for fremtidige betalinger i overensstemmelse med deres vilkår og Klarnas vilkår. Du kan til enhver tid ændre dette i din Klarna-app eller ved at kontakte %2$s.</string>
+    <string name="stripe_klarna_pay_later">Betal senere med Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Telefon</string>
+    <string name="stripe_link_simple_secure_payments">Enkle og trygge betalinger med ét klik</string>
+    <string name="stripe_log_out">Log ud af Link</string>
+    <string name="stripe_name_on_card">Kortholderens navn</string>
+    <string name="stripe_network_error_message">Der opstod en fejl. Kontrollér din forbindelse, og prøv igen.</string>
+    <string name="stripe_p24_bank">Przelewy24 Bank</string>
+    <string name="stripe_pay_button_amount">Betal %s</string>
+    <string name="stripe_pay_with_link">Betal med Link</string>
+    <string name="stripe_payment_method_add_new_card">Tilføj nyt kort...</string>
+    <string name="stripe_payment_method_add_new_fpx">Vælg bankkonto (FPX)...</string>
+    <string name="stripe_payment_method_bank">Bank</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Ved at fortsætte accepterer du at godkende betalinger i henhold til <terms>disse vilkår</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Ved at gemme din bankkonto for %s accepterer du at godkende betalinger i henhold til <terms>disse vilkår</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Noget gik galt ved tilknytningen af din bank.\nPrøv igen senere.</string>
+    <string name="stripe_paymentsheet_add_card">Tilføj kort</string>
+    <string name="stripe_paymentsheet_add_new_card">Tilføj nyt kort</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Tilføj</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kortoplysninger</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Tilføj dine betalingsoplysninger</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Tilføj amerikansk bankkonto</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Gem adresse</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Forsendelsesadresse</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">En e-mail vil blive sendt til %s inden for tre arbejdsdage for at bekræfte opsætningen af denne debitinstruktion.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Bekræft dine oplysninger om direkte debitering</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Rediger detaljer</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Derudover vil du modtage to dages forhåndsvarsel via e-mail om ethvert beløb, der skal debiteres i henhold til denne instruktion. Betalinger vises som \'\'%s\'\' på dit kontoudtog.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Dine betalinger er beskyttet af %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Køb ved hjælp af et UPI ID</string>
+    <string name="stripe_paymentsheet_card_mandate">Ved at angive dine kortoplysninger tillader du %s at opkræve dit kort for denne betaling i overensstemmelse med dennes vilkår.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Vælg en betalingsmetode</string>
+    <string name="stripe_paymentsheet_close">Luk</string>
+    <string name="stripe_paymentsheet_confirm">Bekræft</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Bekræft dit CVC</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Indtast adresse manuelt</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Administrer betalingsmetoder</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Administrer dine betalingsmetoder</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe vil sætte 0,01 USD ind på din konto i løbet af 1-2 hverdage. Derefter modtager du en e-mail med instruktioner til at fuldføre betalingen til %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Rediger %s</string>
+    <string name="stripe_paymentsheet_new_card">Nyt kort</string>
+    <string name="stripe_paymentsheet_new_pm">Ny betalingsmetode</string>
+    <string name="stripe_paymentsheet_or_pay_using">Eller betal med</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Eller betal med et kort</string>
+    <string name="stripe_paymentsheet_or_use">Eller brug</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Eller brug et kort</string>
+    <string name="stripe_paymentsheet_pay_button_label">Betal</string>
+    <string name="stripe_paymentsheet_pay_using">Betal med</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Betal med din bankkonto i blot få trin.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">AU BECS direkte debitering</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Bacs Direct Debit</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kort</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA Debit</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Behandler...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Vil du fjerne bankkontoen?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Fjern bankkonto</string>
+    <string name="stripe_paymentsheet_remove_card">Fjern kort</string>
+    <string name="stripe_paymentsheet_remove_card_title">Vil du fjerne kortet?</string>
+    <string name="stripe_paymentsheet_remove_pm">Fjern %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Fjern betalingsmetode</string>
+    <string name="stripe_paymentsheet_save">Gem</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Gem en ny betalingsmetode</string>
+    <string name="stripe_paymentsheet_save_bank_title">Gem din bankkonto med blot nogle få trin.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Gem til fremtidige betalinger</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Gem dette kort til fremtidige %s betalinger</string>
+    <string name="stripe_paymentsheet_saved">Gemt</string>
+    <string name="stripe_paymentsheet_select_payment_method">Vælg betalingsmetode</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Vælg din betalingsmetode</string>
+    <string name="stripe_paymentsheet_total_amount">I alt: %s</string>
+    <string name="stripe_paypal_mandate">Ved at bekræfte din betaling med PayPal, tillader du %s at debitere din PayPal-konto for fremtidige betalinger i overensstemmelse med deres vilkår.</string>
+    <string name="stripe_pm_set_as_default">Angiv som standardbetalingsmetode</string>
+    <string name="stripe_price_free">Gratis</string>
+    <string name="stripe_processing_error">Der opstod en fejl under behandling af dit kort – prøv igen om et par sekunder</string>
+    <string name="stripe_remove">Fjern</string>
+    <string name="stripe_remove_bank_account_ending_in">Fjern bankkonto, der ender på %s</string>
+    <string name="stripe_removed">Slettet %s</string>
+    <string name="stripe_revolut_mandate">Ved at bekræfte din betaling med RevolutPay, tillader du %s at debitere din RevolutPay-konto for fremtidige betalinger i overensstemmelse med deres vilkår.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Gem til fremtidige %s-betalinger</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Gem betalingsoplysninger for %s til senere køb</string>
+    <string name="stripe_scan_card">Scan kort</string>
+    <string name="stripe_secure_checkout">Sikker Checkout</string>
+    <string name="stripe_sepa_mandate">Ved at give dine betalingsoplysninger og bekræfte denne betaling giver du (A) %s og Stripe, vores betalingstjenesteudbyder, tilladelse til at sende instruktioner til din bank om at debitere din konto og (B) din bank til at debitere din konto i overensstemmelse med disse instruktioner. Som en del af dine rettigheder har du ret til en refusion fra din bank under vilkårene og betingelserne i din aftale med din bank. Der skal kræves refusion inden for 8 uger fra den dato, hvor din konto blev debiteret. Dine rettigheder forklares i en erklæring, som du kan få fra din bank. Du accepterer at modtage underretninger om fremtidig debitering op til to dage før de opstår.</string>
+    <string name="stripe_setup_button_label">Opsætning</string>
+    <string name="stripe_show_menu">Vis menu</string>
+    <string name="stripe_sign_up">Tilmeld Link</string>
+    <string name="stripe_sign_up_header">Sikker 1-kliks-betaling</string>
+    <string name="stripe_sign_up_message">Betal hurtigere hos %s og tusinder af forhandlere.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Ved at tilmelde dig Link accepterer du <terms>vilkårene</terms> og <privacy>privatlivspolitikken</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Når du angiver din e-mail, accepterer du at oprette en Link-konto og gemme dine betalingsoplysninger på Link i henhold til <terms>Links Vilkår</terms> og <privacy>Privatlivspolitik</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Når du angiver dit telefonnummer, accepterer du at oprette en Link-konto og gemme dine betalingsoplysninger på Link i henhold til <terms>Links Vilkår</terms> og <privacy>Privatlivspolitik</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Noget gik galt</string>
+    <string name="stripe_title_add_a_card">Tilføj et kort</string>
+    <string name="stripe_title_add_an_address">Tilføj en adresse</string>
+    <string name="stripe_title_bank_account">Bankkonto</string>
+    <string name="stripe_title_payment_method">Betalingsmetode</string>
+    <string name="stripe_title_select_shipping_method">Vælg forsendelsesmetode</string>
+    <string name="stripe_title_update_card">Opdater kort</string>
+    <string name="stripe_update">Opdater</string>
+    <string name="stripe_upi_id_label">UPI ID</string>
+    <string name="stripe_upi_polling_cancel">Annuller, og betal på en anden måde</string>
+    <string name="stripe_upi_polling_header">Godkend betaling</string>
+    <string name="stripe_upi_polling_message">Åbn din UPI-app for at godkende din betaling i %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Gå tilbage, og vælg en anden betalingsmetode</string>
+    <string name="stripe_upi_polling_payment_failed_title">Betalingen mislykkedes</string>
+    <string name="stripe_verification_change_email">Skift e-mail</string>
+    <string name="stripe_verification_code_sent">Kode sendt</string>
+    <string name="stripe_verification_header">Indtast din bekræftelseskode</string>
+    <string name="stripe_verification_header_inline">Log ind på din Link-konto</string>
+    <string name="stripe_verification_header_prefilled">Brug dine gemte oplysninger til hurtigere betaling</string>
+    <string name="stripe_verification_message">Indtast koden, der blev sendt til %s, for at bruge Link som standardbetaling.</string>
+    <string name="stripe_verification_not_email">Ikke %s?</string>
+    <string name="stripe_verification_resend">Send kode igen</string>
+    <string name="stripe_verify_your_payment">Bekræft din betaling</string>
+    <string name="stripe_view_more">Vis mere</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Ved at fortsætte accepterer du at godkende betalinger i henhold til disse <terms>vilkår</terms>.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Betaling</string>
+    <string name="stripe_wallet_default">Standard</string>
+    <string name="stripe_wallet_expanded_title">Betalingsmetoder</string>
+    <string name="stripe_wallet_pay_another_way">Betal på en anden måde</string>
+    <string name="stripe_wallet_recollect_cvc_error">Af hensyn til sikkerheden skal du indtaste dit korts sikkerhedskode igen.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Er du sikker på, at du vil fjerne denne linket konto?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Er du sikker på, at du vil fjerne dette kort?</string>
+    <string name="stripe_wallet_remove_linked_account">Fjern linket konto</string>
+    <string name="stripe_wallet_set_as_default">Brug som standard</string>
+    <string name="stripe_wallet_unavailable">Ikke tilgængelig for dette køb</string>
+    <string name="stripe_wallet_update_card">Opdater kort</string>
+    <string name="stripe_wallet_update_expired_card_error">Dette kort er udløbet. Opdater dine kortoplysninger eller vælg en anden betalingsmetode.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Kontakt"</string>
+    <string msgid="1672349317127674378" name="tab">"Fane"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> procent."</string>
+    <string name="wallet_buy_button_place_holder">Køb med Google</string>
+</resources>

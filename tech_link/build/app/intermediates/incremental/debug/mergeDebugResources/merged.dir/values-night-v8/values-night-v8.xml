@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="stripe_3ds2_accent">#5a5a5a</color>
+    <color name="stripe_3ds2_background">#303030</color>
+    <color name="stripe_3ds2_chevron">#80ffffff</color>
+    <color name="stripe_3ds2_control_activated">#c1c1c1</color>
+    <color name="stripe_3ds2_divider">#a5a5a5</color>
+    <color name="stripe_3ds2_primary">#1f1f1f</color>
+    <color name="stripe_3ds2_primary_dark">#000000</color>
+    <color name="stripe_3ds2_text_color">#e1e1e1</color>
+    <color name="stripe_3ds2_text_color_primary">@android:color/white</color>
+    <color name="stripe_3ds2_text_edit">@color/stripe_3ds2_text_color</color>
+    <color name="stripe_3ds2_text_info_toggled">#a1a1a1</color>
+    <color name="stripe_3ds2_text_input_fill">#353535</color>
+    <color name="stripe_3ds2_text_input_hint">#7a7a7a</color>
+    <color name="stripe_card_form_view_background_default">#1fffffff</color>
+    <color name="stripe_card_form_view_background_disabled">#1fffffff</color>
+    <color name="stripe_card_form_view_form_border">#3dffffff</color>
+    <color name="stripe_card_form_view_textinput_color">#deffffff</color>
+    <color name="stripe_card_form_view_textinput_disabled_color">#61ffffff</color>
+    <color name="stripe_card_multiline_textinput_hint_color">#61FFFFFF</color>
+    <color name="stripe_clear_icon_tint">#F7FAFC</color>
+    <color name="stripe_color_text_secondary_default">#e1e1e1</color>
+    <color name="stripe_color_text_unselected_primary_default">#e1e1e1</color>
+    <color name="stripe_color_text_unselected_secondary_default">#a5a5a5</color>
+    <color name="stripe_control_normal_color_default">#e1e1e1</color>
+    <color name="stripe_divider_text_color">#99FFFFFF</color>
+    <color name="stripe_link_window_background">#1C1C1E</color>
+    <color name="stripe_paymentsheet_add_payment_method_form_stroke">#3Dffffff</color>
+    <color name="stripe_paymentsheet_add_pm_card_selected_stroke">#DEFFFFFF</color>
+    <color name="stripe_paymentsheet_add_pm_card_unselected_stroke">#1FFFFFFF</color>
+    <color name="stripe_paymentsheet_background">#2e2e2e</color>
+    <color name="stripe_paymentsheet_country_chevron_color">#ffffff</color>
+    <color name="stripe_paymentsheet_elements_background_default">#474747</color>
+    <color name="stripe_paymentsheet_elements_background_disabled">#474747</color>
+    <color name="stripe_paymentsheet_form_border">#3Dffffff</color>
+    <color name="stripe_paymentsheet_googlepay_divider_background">
+        @color/stripe_paymentsheet_background
+    </color>
+    <color name="stripe_paymentsheet_googlepay_divider_line">#38383A</color>
+    <color name="stripe_paymentsheet_googlepay_divider_text">#99FFFFFF</color>
+    <color name="stripe_paymentsheet_googlepay_primary_button_background_color">#FFFFFF</color>
+    <color name="stripe_paymentsheet_googlepay_primary_button_tint_color">#1F1F1F</color>
+    <color name="stripe_paymentsheet_header_text">#99FFFFFF</color>
+    <color name="stripe_paymentsheet_link_mark">#FFFFFF</color>
+    <color name="stripe_paymentsheet_payment_method_label_text">#DEFFFFFF</color>
+    <color name="stripe_paymentsheet_payment_method_label_text_disabled">#61FFFFFF</color>
+    <color name="stripe_paymentsheet_payment_option_unselected_stroke">#1FFFFFFF</color>
+    <color name="stripe_paymentsheet_textinput_color">#DEFFFFFF</color>
+    <color name="stripe_paymentsheet_textinputlayout_hint">#61FFFFFF</color>
+    <color name="stripe_paymentsheet_title_text">#DEFFFFFF</color>
+    <color name="stripe_paymentsheet_toolbar_items_color">#FFFFFF</color>
+    <color name="stripe_text_color_secondary">@android:color/secondary_text_dark</color>
+    <color name="stripe_toolbar_color_default">#1f1f1f</color>
+    <color name="stripe_toolbar_color_default_dark">#000000</color>
+    <style name="BaseStripe3DS2Theme" parent="Theme.MaterialComponents">
+        <item name="actionBarTheme">@style/Stripe3DS2Theme</item>
+        <item name="actionBarStyle">@style/Stripe3DS2ActionBar</item>
+        <item name="android:colorBackground">@color/stripe_3ds2_background</item>
+        <item name="colorPrimary">@color/stripe_3ds2_primary</item>
+        <item name="colorPrimaryDark">@color/stripe_3ds2_primary_dark</item>
+        <item name="colorAccent">@color/stripe_3ds2_accent</item>
+        <item name="colorControlActivated">@color/stripe_3ds2_control_activated</item>
+        <item name="android:textColor">@color/stripe_3ds2_text_color</item>
+        <item name="android:textColorPrimary">@color/stripe_3ds2_text_color_primary</item>
+        <item name="android:editTextColor">@color/stripe_3ds2_text_edit</item>
+        <item name="textInputStyle">@style/Stripe3DS2TextInputLayout</item>
+    </style>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="Theme.MaterialComponents">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.Material3.DayNight" parent="Theme.Material3.Dark"/>
+    <style name="Theme.Material3.DayNight.BottomSheetDialog" parent="Theme.Material3.Dark.BottomSheetDialog"/>
+    <style name="Theme.Material3.DayNight.Dialog" parent="Theme.Material3.Dark.Dialog"/>
+    <style name="Theme.Material3.DayNight.Dialog.Alert" parent="Theme.Material3.Dark.Dialog.Alert"/>
+    <style name="Theme.Material3.DayNight.Dialog.MinWidth" parent="Theme.Material3.Dark.Dialog.MinWidth"/>
+    <style name="Theme.Material3.DayNight.DialogWhenLarge" parent="Theme.Material3.Dark.DialogWhenLarge"/>
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="Theme.Material3.Dark.NoActionBar"/>
+    <style name="Theme.Material3.DayNight.SideSheetDialog" parent="Theme.Material3.Dark.SideSheetDialog"/>
+    <style name="Theme.Material3.DynamicColors.DayNight" parent="Theme.Material3.DynamicColors.Dark"/>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.Material3.DynamicColors.DayNight" parent="ThemeOverlay.Material3.DynamicColors.Dark"/>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="Widget.MaterialComponents.NavigationRailView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+</resources>

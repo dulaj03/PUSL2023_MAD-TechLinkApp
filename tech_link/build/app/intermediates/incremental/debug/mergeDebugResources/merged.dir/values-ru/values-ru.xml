@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Пароль"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Ключ доступа"</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Свернуто"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string msgid="4057925834421392736" name="dialog">"Диалоговое окно"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string msgid="5974471714631304645" name="expanded">"Развернуто"</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к Календарю</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string msgid="875452955155264703" name="off">"Отключено"</string>
+    <string msgid="8655164131929253426" name="on">"Включено"</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Логотип эмитента</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Логотип платежной системы</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Нет</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Да</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Отмена</string>
+    <string name="stripe_3ds2_hzv_header_label">Безопасное оформление платежа</string>
+    <string name="stripe_3ds2_processing">Идет обработка\u2026</string>
+    <string name="stripe_acc_label_card_number">Номер карты</string>
+    <string name="stripe_acc_label_card_number_node">%s, номер карты</string>
+    <string name="stripe_acc_label_cvc_node">%s, код CVV/CVC</string>
+    <string name="stripe_acc_label_expiry_date">Окончание срока действия</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, дата истечения срока действия</string>
+    <string name="stripe_acc_label_zip">Почтовый индекс</string>
+    <string name="stripe_acc_label_zip_short">Почтовый индекс</string>
+    <string name="stripe_add_bank_account">Добавить банковский счет</string>
+    <string name="stripe_add_new_payment_method">Добавление нового метода оплаты</string>
+    <string name="stripe_add_payment_method">Добавьте способ оплаты</string>
+    <string name="stripe_added">Добавлено: %s</string>
+    <string name="stripe_address_city_required">Введите город</string>
+    <string name="stripe_address_country_invalid">Недопустимое название страны.</string>
+    <string name="stripe_address_county_required">Введите страну</string>
+    <string name="stripe_address_label_address">Адрес</string>
+    <string name="stripe_address_label_address_line1">Адрес (строка 1)</string>
+    <string name="stripe_address_label_address_line1_optional">Адрес (строка 1) (необязательно)</string>
+    <string name="stripe_address_label_address_line2">Адрес (строка 2)</string>
+    <string name="stripe_address_label_address_line2_optional">Адрес (строка 2) (необязательно)</string>
+    <string name="stripe_address_label_address_optional">Адрес (необязательно)</string>
+    <string name="stripe_address_label_ae_emirate">Эмират</string>
+    <string name="stripe_address_label_apt_optional">Кв. (необязательно)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Населенный пункт</string>
+    <string name="stripe_address_label_bb_jm_parish">Приход</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Город</string>
+    <string name="stripe_address_label_city_optional">Город (необязательно)</string>
+    <string name="stripe_address_label_country">Страна</string>
+    <string name="stripe_address_label_country_or_region">Страна или регион</string>
+    <string name="stripe_address_label_county">Графство</string>
+    <string name="stripe_address_label_county_optional">Графство (необязательно)</string>
+    <string name="stripe_address_label_department">Департамент</string>
+    <string name="stripe_address_label_district">Район</string>
+    <string name="stripe_address_label_full_name">Имя, фамилия</string>
+    <string name="stripe_address_label_hk_area">Область</string>
+    <string name="stripe_address_label_ie_eircode">Почтовый индекс (Eircode)</string>
+    <string name="stripe_address_label_ie_townland">Таунленд</string>
+    <string name="stripe_address_label_in_pin">Почтовый индекс</string>
+    <string name="stripe_address_label_island">Остров</string>
+    <string name="stripe_address_label_jp_prefecture">Префектура</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Имя</string>
+    <string name="stripe_address_label_neighborhood">Микрорайон</string>
+    <string name="stripe_address_label_oblast">Область</string>
+    <string name="stripe_address_label_phone_number">Номер телефона</string>
+    <string name="stripe_address_label_phone_number_optional">Номер телефона (необязательно)</string>
+    <string name="stripe_address_label_post_town">Почтовое отделение или город</string>
+    <string name="stripe_address_label_postal_code">Почтовый индекс</string>
+    <string name="stripe_address_label_postal_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="stripe_address_label_postcode">Почтовый индекс</string>
+    <string name="stripe_address_label_postcode_optional">Почтовый индекс (необязательно)</string>
+    <string name="stripe_address_label_province">Провинция</string>
+    <string name="stripe_address_label_province_optional">Провинция (необязательно)</string>
+    <string name="stripe_address_label_region_generic">Штат / провинция / регион</string>
+    <string name="stripe_address_label_region_generic_optional">Штат / провинция / регион (необязательно)</string>
+    <string name="stripe_address_label_state">Штат</string>
+    <string name="stripe_address_label_state_optional">Штат (необязательно)</string>
+    <string name="stripe_address_label_suburb">Пригород</string>
+    <string name="stripe_address_label_village_township">Деревня или поселок</string>
+    <string name="stripe_address_label_zip_code">Почтовый индекс</string>
+    <string name="stripe_address_label_zip_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="stripe_address_label_zip_postal_code">Почтовый индекс</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="stripe_address_name_required">Введите свое имя</string>
+    <string name="stripe_address_phone_number_required">Введите свой номер телефона</string>
+    <string name="stripe_address_postal_code_invalid">Введенный почтовый индекс недействителен.</string>
+    <string name="stripe_address_postcode_invalid">Введенный почтовый индекс неверен</string>
+    <string name="stripe_address_province_required">Введите название своей провинции</string>
+    <string name="stripe_address_region_generic_required">Введите штат / провинцию / регион</string>
+    <string name="stripe_address_required">Введите адрес</string>
+    <string name="stripe_address_search_content_description">Поиск</string>
+    <string name="stripe_address_state_required">Введите штат</string>
+    <string name="stripe_address_zip_invalid">Введенный почтовый индекс неверен.</string>
+    <string name="stripe_address_zip_postal_invalid">Введенный почтовый индекс неверен</string>
+    <string name="stripe_affirm_buy_now_pay_later">Оплатить в рассрочку с помощью &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Оплатите в рассрочку с помощью Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Купить сейчас или оплатить позже через систему <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Оплатить в беспроцентную рассрочку <num_installments/> выплатами по <installment_price/> через <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d беспроцентных платежа(-ей) по %2$s</string>
+    <string name="stripe_afterpay_subtitle">Купите сейчас или оплатите позже через систему Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Подтверждая платеж через AmazonPay, вы тем самым разрешаете компании %s списывать с вашего счета AmazonPay суммы будущих платежей согласно условиям компании.</string>
+    <string name="stripe_au_becs_account_name">Владелец счета</string>
+    <string name="stripe_au_becs_bsb_number">Номер BSB</string>
+    <string name="stripe_au_becs_mandate">Указывая свои банковские реквизиты и подтверждая платеж, вы принимаете данный запрос прямого списания средств и &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">Сервисное соглашение о запросе прямого списания средств&lt;/a>, а также уполномочиваете компанию Stripe Payments Australia Pty Ltd ACN 160 180 343, идентификационный номер пользователя системы прямого списания средств 507156, (“Stripe”), снимать средства с вашего счета через систему Bulk Electronic Clearing System (BECS) от имени %s (далее \"Продавец\") на суммы, отдельно указанные вам Продавцом. Вы подтверждаете, что являетесь либо владельцем указанного выше счета, либо его уполномоченным представителем.</string>
+    <string name="stripe_back">Назад</string>
+    <string name="stripe_bacs_account_number">Номер счета</string>
+    <string name="stripe_bacs_account_number_incomplete">Номер счета введен не полностью.</string>
+    <string name="stripe_bacs_bank_account_title">Банковский счет</string>
+    <string name="stripe_bacs_confirm_mandate_label">Я понимаю, что Stripe будет принимать прямые дебетования от имени %s, и подтверждаю, что являюсь владельцем счета и единственным лицом, согласие которого требуется для проведения дебетований с этого счета.</string>
+    <string name="stripe_bacs_sort_code">Код банка</string>
+    <string name="stripe_bacs_sort_code_incomplete">Код банка введен не полностью.</string>
+    <string name="stripe_bank_account_ending_in">Банковский счет с номером, оканчивающимся на %s</string>
+    <string name="stripe_bank_account_plus_last_4">Банковский счет···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Банковский счет···· %s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Предоставляя данные банковского счета и подтверждая платеж, вы принимаете данный запрос прямого списания средств и сервисное\n    соглашение на запрос прямого списания средств, а также уполномочиваете компанию\n    Stripe Payments Australia Pty Ltd, ACN 160 180 343, идентификационный номер пользователя службы прямого списания средств: 507156,\n    (“Stripe”) на списание средств с вашего счета через систему BECS от\n    имени %1$s (\"Продавец\") на суммы, отдельно указанные вам Продавцом.\n    Вы подтверждаете, что являетесь владельцем указанного ниже счета или\n    его уполномоченным представителем\n    </string>
+    <string name="stripe_becs_widget_account_number">Номер счета</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Номер счета введен не полностью.</string>
+    <string name="stripe_becs_widget_account_number_required">Необходимо указать ваш номер счета.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">Введенный код BSB неполон.</string>
+    <string name="stripe_becs_widget_bsb_invalid">Введенный код BSB неверен.</string>
+    <string name="stripe_becs_widget_email">Адрес эл. почты</string>
+    <string name="stripe_becs_widget_email_invalid">Неверный адрес эл. почты.</string>
+    <string name="stripe_becs_widget_email_required">Необходимо указать ваш адрес эл. почты.</string>
+    <string name="stripe_becs_widget_name">Имя</string>
+    <string name="stripe_becs_widget_name_required">Необходимо указать ваше имя.</string>
+    <string name="stripe_billing_details">Адрес для выставления счета</string>
+    <string name="stripe_billing_same_as_shipping">Адрес выставления счетов такой же, как адрес доставки</string>
+    <string name="stripe_blank_and_required">Введите данные в это поле.</string>
+    <string name="stripe_blik_code">Код BLIK</string>
+    <string name="stripe_blik_confirm_payment">Подтвердите платеж в вашем банковском приложении в течение %s для оформления покупки.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Отмена</string>
+    <string name="stripe_card_brand_choice_no_selection">Не выбрано</string>
+    <string name="stripe_card_brand_choice_selection_header">Выберите бренд карты (необязательно)</string>
+    <string name="stripe_card_declined">Карта отклонена</string>
+    <string name="stripe_card_ending_in">%1$s, оканч. на %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Продолжая, вы уполномочиваете компанию %1$s списывать с вашего счета Cash App суммы в соответствии с этим, а также будущими платежами согласно условиям компании %2$s, пока это разрешение не будет отозвано. Отозвать разрешение можно в любой момент в настройках приложения Cash App.</string>
+    <string name="stripe_change">Изменить</string>
+    <string name="stripe_clearpay_subtitle">Купите сейчас или оплатите позже через систему Clearpay</string>
+    <string name="stripe_close">Закрыть</string>
+    <string name="stripe_confirm_close_form_body">Ваши платежные реквизиты не будут сохранены.</string>
+    <string name="stripe_confirm_close_form_title">Закрыть форму?</string>
+    <string name="stripe_contact_information">Контактные данные</string>
+    <string name="stripe_continue_button_label">Продолжить</string>
+    <string name="stripe_delete_payment_method">Удалить способ оплаты?</string>
+    <string name="stripe_delete_payment_method_prompt_title">Удалить метод оплаты?</string>
+    <string name="stripe_done">Готово</string>
+    <string name="stripe_edit">Редактировать</string>
+    <string name="stripe_email">Эл. почта</string>
+    <string name="stripe_email_is_invalid">Недействительный адрес эл. почты.</string>
+    <string name="stripe_eps_bank">Банк EPS</string>
+    <string name="stripe_expiration_date_hint">ММ / ГГ</string>
+    <string name="stripe_expired_card">Срок действия карты истек</string>
+    <string name="stripe_expiry_date_hint">ММ/ГГ</string>
+    <string name="stripe_expiry_label_short">Истечение срока действия</string>
+    <string name="stripe_failure_connection_error">Возникли проблемы с подключением к системе обработки платежей. Проверьте подключение к Интернету и попробуйте еще раз.</string>
+    <string name="stripe_failure_reason_authentication">Не удалось верифицировать метод оплаты. Выберите другой метод оплаты и повторите попытку.</string>
+    <string name="stripe_failure_reason_timed_out">Лимит времени для аутентификации метода оплаты истек. Попробуйте еще раз</string>
+    <string name="stripe_field_required">Это обязательное поле</string>
+    <string name="stripe_form_label_optional">%s (необязательно)</string>
+    <string name="stripe_fpx_bank">Банк FPX</string>
+    <string name="stripe_fpx_bank_offline">%s - не в сети</string>
+    <string name="stripe_generic_decline">Не удалось выполнить оплату этим способом.</string>
+    <string name="stripe_hcaptcha_loading_text">Подтверждение того, что вы человек</string>
+    <string name="stripe_iban_incomplete">Введенный код IBAN неполон.</string>
+    <string name="stripe_iban_invalid_country">Введенный код IBAN ошибочен, \"%s\" – неверный код страны.</string>
+    <string name="stripe_iban_invalid_start">Код IBAN должен начинаться с двухбуквенного кода страны.</string>
+    <string name="stripe_ideal_bank">Банк в системе iDEAL</string>
+    <string name="stripe_incomplete_blik_code">Ваш код BLIK неполный.</string>
+    <string name="stripe_incomplete_expiry_date">Дата истечения срока действия карты введена не полностью.</string>
+    <string name="stripe_incomplete_phone_number">Номер телефона введен не полностью</string>
+    <string name="stripe_inline_sign_up_header">Сохраните свои данные в Link для безопасного оформления покупок нажатием одной кнопки</string>
+    <string name="stripe_internal_error">Произошла внутренняя ошибка.</string>
+    <string name="stripe_invalid_bank_account_iban">Введенный код IBAN содержит ошибку.</string>
+    <string name="stripe_invalid_blik_code">Ваш код BLIK недействителен.</string>
+    <string name="stripe_invalid_card_number">Номер карты недействителен.</string>
+    <string name="stripe_invalid_cvc">Код CVV/CVC карты недействителен.</string>
+    <string name="stripe_invalid_email_address">Недопустимый эл. адрес: %s</string>
+    <string name="stripe_invalid_expiry_month">Недопустимый месяц окончания действия карты.</string>
+    <string name="stripe_invalid_expiry_year">Недопустимый год окончания действия карты.</string>
+    <string name="stripe_invalid_owner_name">Недействительное имя.</string>
+    <string name="stripe_invalid_shipping_information">Ошибочный адрес доставки</string>
+    <string name="stripe_invalid_upi_id">Недействительный идентификатор UPI</string>
+    <string name="stripe_invalid_zip">Введенный почтовый индекс неполон.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Купить немедленно или оплатить позже через систему Klarna.</string>
+    <string name="stripe_klarna_mandate">Перейдя к Klarna, вы тем самым разрешаете компании %1$s списывать с вашего счета в Klarna суммы будущих платежей согласно условиям компании и Klarna. Это разрешение можно отозвать в любой момент в вашем приложении Klarna или связавшись с %2$s.</string>
+    <string name="stripe_klarna_pay_later">Оплатить позже через систему Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Телефон</string>
+    <string name="stripe_link_simple_secure_payments">Защищенные безопасные платежи одним нажатием</string>
+    <string name="stripe_log_out">Выйти из Link</string>
+    <string name="stripe_name_on_card">Имя и фамилия, указанные на карте</string>
+    <string name="stripe_network_error_message">Произошла ошибка. Проверьте подключение и попробуйте еще раз.</string>
+    <string name="stripe_p24_bank">Банк Przelewy24</string>
+    <string name="stripe_pay_button_amount">Оплатить %s</string>
+    <string name="stripe_pay_with_link">Оплатить с помощью Link</string>
+    <string name="stripe_payment_method_add_new_card">Добавить новую карту...</string>
+    <string name="stripe_payment_method_add_new_fpx">Выберите банковский счет (FPX)…</string>
+    <string name="stripe_payment_method_bank">Банк</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Продолжая, вы соглашаетесь авторизовать платежи в соответствии с <terms>этими условиями</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Сохраняя реквизиты своего банковского счета у %s, вы соглашаетесь авторизовать платежи в соответствии с <terms>этими условиями</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">При попытке подключить ваш счет произошла ошибка.\nПопробуйте еще раз позже.</string>
+    <string name="stripe_paymentsheet_add_card">Добавить карту</string>
+    <string name="stripe_paymentsheet_add_new_card">Добавить новую карту</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Добавить</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Данные платежной карты</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Укажите платежные данные</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Добавить банковский счет в США</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Сохранить адрес</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Адрес доставки</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">В течение трех рабочих дней на электронный адрес %s будет отправлено письмо для подтверждения настройки этой инструкции по дебетованию.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Подтвердите реквизиты для прямого дебетования</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Изменить детали</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Кроме этого, вас предупредят по электронной почте за два дня до списания любой суммы по этой инструкции. Эти платежи будут указаны в выписке операций по вашему счету как \'\'%s\'\'.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Ваши платежи защищает %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Купить с помощью идентификатора UPI</string>
+    <string name="stripe_paymentsheet_card_mandate">Указывая реквизиты карты, вы разрешаете компании %s списывать средства с карты в рамках будущих платежей в соответствии с условиями компании.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Выберите метод оплаты</string>
+    <string name="stripe_paymentsheet_close">Закрыть</string>
+    <string name="stripe_paymentsheet_confirm">Подтвердить</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Подтвердить код CVV карты</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Введите адрес вручную</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Управление способами оплаты</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Управление способами оплаты</string>
+    <string name="stripe_paymentsheet_microdeposit">Через 1-2 рабочих дня Stripe положит вам на счет сумму $0,01. После этого вы получите электронное письмо с инструкциями по завершению платежа в адрес %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Редактировать%s</string>
+    <string name="stripe_paymentsheet_new_card">Новая карта</string>
+    <string name="stripe_paymentsheet_new_pm">Новый способ оплаты</string>
+    <string name="stripe_paymentsheet_or_pay_using">Или оплатить с помощью</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Или оплатить картой</string>
+    <string name="stripe_paymentsheet_or_use">Или используйте</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Или используйте карту</string>
+    <string name="stripe_paymentsheet_pay_button_label">Оплатить</string>
+    <string name="stripe_paymentsheet_pay_using">Оплатить с помощью</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Платите с использованием своего банковского счета в несколько простых действий.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">Австралийская система прямого списания средств BECS</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Прямое дебетование Bacs</string>
+    <string name="stripe_paymentsheet_payment_method_card">Карта</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">Списание средств SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Идет обработка...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Удалить банковский счет?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Удалить банковский счет</string>
+    <string name="stripe_paymentsheet_remove_card">Удалить карту</string>
+    <string name="stripe_paymentsheet_remove_card_title">Удалить карту?</string>
+    <string name="stripe_paymentsheet_remove_pm">Удалить %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Удалить способ оплаты</string>
+    <string name="stripe_paymentsheet_save">Сохранить</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Сохраните новый способ оплаты</string>
+    <string name="stripe_paymentsheet_save_bank_title">Сохраните реквизиты своего банковского счета всего за несколько шагов.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Сохранить данные для будущих платежей</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Сохранить данные этой карты для будущих платежей %s</string>
+    <string name="stripe_paymentsheet_saved">Сохранено</string>
+    <string name="stripe_paymentsheet_select_payment_method">Выберите способ оплаты</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Выберите способ оплаты</string>
+    <string name="stripe_paymentsheet_total_amount">Всего: %s</string>
+    <string name="stripe_paypal_mandate">Подтверждая оплату через PayPal, вы разрешаете компании %s списывать с вашего счета PayPal суммы будущих платежей согласно ее условиями.</string>
+    <string name="stripe_pm_set_as_default">Назначить способом оплаты по умолчанию</string>
+    <string name="stripe_price_free">Бесплатно</string>
+    <string name="stripe_processing_error">При обработке карты произошла ошибка. Подождите несколько секунд и повторите попытку</string>
+    <string name="stripe_remove">Удалить</string>
+    <string name="stripe_remove_bank_account_ending_in">Удалить банковский счет, оканчивающийся на %s</string>
+    <string name="stripe_removed">Удалено: %s</string>
+    <string name="stripe_revolut_mandate">Подтверждая платеж через RevolutPay, вы тем самым разрешаете компании %s списывать с вашего счета RevolutPay суммы будущих платежей согласно условиям компании.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Сохранить данные для будущих платежей поставщику %s</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Сохранить реквизиты платежа в адрес %s для будущих покупок</string>
+    <string name="stripe_scan_card">Сканировать карту</string>
+    <string name="stripe_secure_checkout">Безопасное оформление и оплата заказа</string>
+    <string name="stripe_sepa_mandate">Указав свои платежные данные и подтвердив платеж, вы уполномочиваете (A) %s и Stripe, нашего поставщика платежных услуг, на отправку вашему банку инструкций на списание средств с вашего счета и (B) ваш банк на списание средств с вашего счета согласно данным инструкциям. Вы имеете право на возврат средств от вашего банка согласно положениям и условиям Вашего соглашения с банком. Подать заявку на возврат средств следует в течение 8 недель с даты списания средств с вашего счета. Ваши права объясняются в выписке, которую вы можете получить в своем банке. Вы даете согласие на получение уведомлений о будущих дебетованиях в срок до 2 дней до их поступления.</string>
+    <string name="stripe_setup_button_label">Настроить</string>
+    <string name="stripe_show_menu">Показать меню</string>
+    <string name="stripe_sign_up">Подключиться к Link</string>
+    <string name="stripe_sign_up_header">Безопасное оформление и оплата заказа одним щелчком</string>
+    <string name="stripe_sign_up_message">Ускоренная оплата на сайте %s и тысячах других вебсайтов</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Регистрируясь в Link, вы принимаете соответствующие <terms>Условия</terms> и <privacy>Политику конфиденциальности</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Предоставляя свой электронный адрес, вы соглашаетесь создать учетную запись Link и сохранить свои платежные реквизиты в Link в соответствии с <terms>Условиями</terms> и <privacy>Политикой конфиденциальности</privacy> Link.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Предоставляя свой номер телефона, вы соглашаетесь создать учетную запись Link и сохранить свои платежные реквизиты в Link в соответствии с <terms>Условиями</terms> и <privacy>Политикой конфиденциальности</privacy> Link.]]></string>
+    <string name="stripe_something_went_wrong">Произошла ошибка</string>
+    <string name="stripe_title_add_a_card">Добавить карту</string>
+    <string name="stripe_title_add_an_address">Задать адрес</string>
+    <string name="stripe_title_bank_account">Банковский счет</string>
+    <string name="stripe_title_payment_method">Метод оплаты</string>
+    <string name="stripe_title_select_shipping_method">Выберите метод доставки</string>
+    <string name="stripe_title_update_card">Обновить карточку</string>
+    <string name="stripe_update">Обновить</string>
+    <string name="stripe_upi_id_label">Идентификатор UPI</string>
+    <string name="stripe_upi_polling_cancel">Отменить платеж и оплатить другим способом</string>
+    <string name="stripe_upi_polling_header">Подтвердить платеж</string>
+    <string name="stripe_upi_polling_message">Откройте приложение UPI, чтобы подтвердить платеж, не позднее чем через %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Вернитесь назад и выберите другой способ оплаты</string>
+    <string name="stripe_upi_polling_payment_failed_title">Выполнить платеж не удалось</string>
+    <string name="stripe_verification_change_email">Изменить адрес электронной почты</string>
+    <string name="stripe_verification_code_sent">Код отправлен</string>
+    <string name="stripe_verification_header">Введите проверочный код</string>
+    <string name="stripe_verification_header_inline">Войти в учетную запись Link</string>
+    <string name="stripe_verification_header_prefilled">Используйте сохраненные данные для ускоренного оформления покупок</string>
+    <string name="stripe_verification_message">Введите код, отправленный на адрес %s, для оплаты с помощью Link по умолчанию.</string>
+    <string name="stripe_verification_not_email">Не %s?</string>
+    <string name="stripe_verification_resend">Послать код вторично</string>
+    <string name="stripe_verify_your_payment">Подтвердите платеж</string>
+    <string name="stripe_view_more">Показать ещё</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Продолжая использование, вы тем самым соглашаетесь авторизовать платежи согласно данным <terms>условиям</terms>.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Платеж</string>
+    <string name="stripe_wallet_default">По умолчанию</string>
+    <string name="stripe_wallet_expanded_title">Способы оплаты</string>
+    <string name="stripe_wallet_pay_another_way">Оплатить другим способом</string>
+    <string name="stripe_wallet_recollect_cvc_error">В целях безопасности введите заново код CVV/CVC карты.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Вы уверены, что хотите удалить этот привязанный счет?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Вы уверены, что хотите удалить эту карту?</string>
+    <string name="stripe_wallet_remove_linked_account">Удалить привязанный счет</string>
+    <string name="stripe_wallet_set_as_default">Назначить способом по умолчанию</string>
+    <string name="stripe_wallet_unavailable">Не предусмотрено для этой покупки</string>
+    <string name="stripe_wallet_update_card">Обновить реквизиты карты</string>
+    <string name="stripe_wallet_update_expired_card_error">Срок действия этой карты истек. Обновите данные карты или выберите другой способ оплаты.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Переключатель"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="wallet_buy_button_place_holder">Купить через Google</string>
+</resources>

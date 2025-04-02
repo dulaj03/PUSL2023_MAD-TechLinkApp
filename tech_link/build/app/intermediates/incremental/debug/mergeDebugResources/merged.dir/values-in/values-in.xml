@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notifikasi baru</item>
+    <item quantity="other">%d notifikasi baru</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Sandi"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Kunci sandi"</string>
+    <string name="bottomsheet_action_collapse">Menciutkan sheet bawah</string>
+    <string name="bottomsheet_action_expand">Meluaskan sheet bawah</string>
+    <string name="bottomsheet_action_expand_halfway">Luaskan setengah</string>
+    <string name="bottomsheet_drag_handle_clicked">Handel geser diketuk dua kali</string>
+    <string name="bottomsheet_drag_handle_content_description">Handel geser</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Jawab"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Tolak"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Tutup"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Panggilan masuk"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Panggilan sedang berlangsung"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Menyaring panggilan masuk"</string>
+    <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi batas karakter %1$d dari %2$d</string>
+    <string name="clear_text_end_icon_content_description">Menghapus teks</string>
+    <string msgid="406453423630273620" name="close_drawer">"Tutup menu navigasi"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tutup sheet"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Diciutkan"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktifkan</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instal</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan layanan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_wear_update_text">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Login dengan Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link disalin ke papan klip"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Input tidak valid"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Jendela Pop-Up"</string>
+    <string msgid="4057925834421392736" name="dialog">"Dialog"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu dropdown"</string>
+    <string name="error_icon_content_description">Error</string>
+    <string msgid="5974471714631304645" name="expanded">"Diluaskan"</string>
+    <string name="exposed_dropdown_menu_content_description">Tampilkan menu dropdown</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Salin link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Buka di browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bagikan link"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string msgid="6827826412747255547" name="in_progress">"Dalam proses"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Diperiksa sebagian"</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_24h_suffix">%1$s jam</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih menit</string>
+    <string name="material_minute_suffix">%1$s menit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mode jam untuk masukan waktu.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Menit</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pilih waktu</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mode masukan teks untuk masukan waktu.</string>
+    <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
+    <string name="mtrl_chip_close_icon_content_description">Menghapus %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Lebih dari %1$d notifikasi baru</string>
+    <string name="mtrl_picker_a11y_next_month">Ubah ke bulan berikutnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Ubah ke bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_range_selection">Pemilihan tanggal mulai: %1$s – Pemilihan tanggal akhir: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">tidak ada</string>
+    <string name="mtrl_picker_cancel">Batal</string>
+    <string name="mtrl_picker_confirm">Oke</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tanggal</string>
+    <string name="mtrl_picker_date_header_unselected">Tanggal yang dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom hari: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Tanggal akhir %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak valid.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Rentang tidak valid.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Pilih tahun ini %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Buka tahun %1$d</string>
+    <string name="mtrl_picker_out_of_range">Di luar rentang: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tanggal mulai – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
+    <string name="mtrl_picker_range_header_unselected">Tanggal mulai – Tanggal akhir</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_start_date_description">Tanggal mulai %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal mulai</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_today_description">Hari ini %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketuk untuk beralih ke tampilan Kalender</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketuk untuk beralih ke tampilan tahun</string>
+    <string name="mtrl_timepicker_cancel">Batal</string>
+    <string name="mtrl_timepicker_confirm">Oke</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu navigasi"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Tidak dipilih"</string>
+    <string msgid="875452955155264703" name="off">"Nonaktif"</string>
+    <string msgid="8655164131929253426" name="on">"Aktif"</string>
+    <string name="password_toggle_content_description">Tampilkan sandi</string>
+    <string msgid="5941395253238309765" name="range_end">"Rentang akhir"</string>
+    <string msgid="7097486360902471446" name="range_start">"Rentang awal"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string msgid="6043586758067023" name="selected">"Dipilih"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_acc_label_card_number">Nomor kartu</string>
+    <string name="stripe_acc_label_card_number_node">%s, Nomor kartu</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">Tanggal kedaluwarsa</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, Tanggal kedaluwarsa</string>
+    <string name="stripe_acc_label_zip">Kode ZIP</string>
+    <string name="stripe_acc_label_zip_short">ZIP</string>
+    <string name="stripe_add_bank_account">Tambahkan rekening bank</string>
+    <string name="stripe_add_new_payment_method">Tambahkan metode pembayaran baru</string>
+    <string name="stripe_add_payment_method">Tambahkan metode pembayaran</string>
+    <string name="stripe_added">%s Ditambahkan</string>
+    <string name="stripe_address_city_required">Masukkan kota Anda</string>
+    <string name="stripe_address_country_invalid">Negara Anda tidak valid</string>
+    <string name="stripe_address_county_required">Masukkan county Anda</string>
+    <string name="stripe_address_label_address">Alamat</string>
+    <string name="stripe_address_label_address_line1">Baris alamat ke-1</string>
+    <string name="stripe_address_label_address_line1_optional">Baris alamat ke-1 (opsional)</string>
+    <string name="stripe_address_label_address_line2">Baris alamat ke-2</string>
+    <string name="stripe_address_label_address_line2_optional">Baris alamat ke-2 (opsional)</string>
+    <string name="stripe_address_label_address_optional">Alamat (opsional)</string>
+    <string name="stripe_address_label_ae_emirate">Emirat</string>
+    <string name="stripe_address_label_apt_optional">Apt. (opsional)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Suburb atau kota</string>
+    <string name="stripe_address_label_bb_jm_parish">Parish</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Kota</string>
+    <string name="stripe_address_label_city_optional">Kota (opsional)</string>
+    <string name="stripe_address_label_country">Negara</string>
+    <string name="stripe_address_label_country_or_region">Negara atau wilayah</string>
+    <string name="stripe_address_label_county">County</string>
+    <string name="stripe_address_label_county_optional">County (opsional)</string>
+    <string name="stripe_address_label_department">Departemen</string>
+    <string name="stripe_address_label_district">Distrik</string>
+    <string name="stripe_address_label_full_name">Nama lengkap</string>
+    <string name="stripe_address_label_hk_area">Area</string>
+    <string name="stripe_address_label_ie_eircode">Eircode</string>
+    <string name="stripe_address_label_ie_townland">Townland</string>
+    <string name="stripe_address_label_in_pin">Pin</string>
+    <string name="stripe_address_label_island">Pulau</string>
+    <string name="stripe_address_label_jp_prefecture">Prefektur</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Nama</string>
+    <string name="stripe_address_label_neighborhood">Rukun tetangga</string>
+    <string name="stripe_address_label_oblast">Oblast</string>
+    <string name="stripe_address_label_phone_number">Nomor telepon</string>
+    <string name="stripe_address_label_phone_number_optional">Nomor telepon (opsional)</string>
+    <string name="stripe_address_label_post_town">Pos atau Kota</string>
+    <string name="stripe_address_label_postal_code">Kode pos</string>
+    <string name="stripe_address_label_postal_code_optional">Kode pos (opsional)</string>
+    <string name="stripe_address_label_postcode">Kode pos</string>
+    <string name="stripe_address_label_postcode_optional">Kode Pos (opsional)</string>
+    <string name="stripe_address_label_province">Provinsi</string>
+    <string name="stripe_address_label_province_optional">Provinsi (opsional)</string>
+    <string name="stripe_address_label_region_generic">Negara Bagian / Provinsi / Wilayah</string>
+    <string name="stripe_address_label_region_generic_optional">Negara Bagian / Provinsi / Wilayah (opsional)</string>
+    <string name="stripe_address_label_state">Negara Bagian</string>
+    <string name="stripe_address_label_state_optional">Negara Bagian (opsional)</string>
+    <string name="stripe_address_label_suburb">Suburb</string>
+    <string name="stripe_address_label_village_township">Kelurahan atau Kecamatan</string>
+    <string name="stripe_address_label_zip_code">Kode ZIP</string>
+    <string name="stripe_address_label_zip_code_optional">Kode ZIP (opsional)</string>
+    <string name="stripe_address_label_zip_postal_code">Kode Pos/ZIP</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Kode Pos / ZIP (opsional)</string>
+    <string name="stripe_address_name_required">Masukkan nama Anda</string>
+    <string name="stripe_address_phone_number_required">Masukkan nomor telepon Anda</string>
+    <string name="stripe_address_postal_code_invalid">Kode pos Anda tidak valid.</string>
+    <string name="stripe_address_postcode_invalid">Kode pos Anda tidak valid</string>
+    <string name="stripe_address_province_required">Masukkan provinsi Anda</string>
+    <string name="stripe_address_region_generic_required">Masukkan Negara Bagian/Provinsi/Wilayah Anda</string>
+    <string name="stripe_address_required">Masukkan alamat Anda</string>
+    <string name="stripe_address_search_content_description">Cari</string>
+    <string name="stripe_address_state_required">Masukkan negara bagian Anda</string>
+    <string name="stripe_address_zip_invalid">Kode ZIP Anda tidak valid.</string>
+    <string name="stripe_address_zip_postal_invalid">Kode Pos/ZIP Anda tidak valid</string>
+    <string name="stripe_affirm_buy_now_pay_later">Bayar dengan jangka waktu dengan &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Bayar dengan jangka waktu dengan Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Beli sekarang atau bayar nanti dengan <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Bayar dalam <num_installments/> angsuran bebas bunga sebesar <installment_price/> dengan <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d pembayaran bebas bunga sebesar %2$s</string>
+    <string name="stripe_afterpay_subtitle">Beli sekarang atau bayar nanti dengan Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Dengan mengonfirmasi pembayaran menggunakan Amazon Pay, berarti Anda mengizinkan %s mengenakan charge untuk pembayaran mendatang pada akun Amazon Pay Anda sesuai dengan ketentuan mereka.</string>
+    <string name="stripe_au_becs_account_name">Nama pada rekening</string>
+    <string name="stripe_au_becs_bsb_number">Nomor BSB</string>
+    <string name="stripe_au_becs_mandate">Dengan memberikan detail rekening bank Anda dan mengonfirmasi pembayaran ini, berarti Anda setuju dengan Permintaan Debit Langsung ini dan &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">perjanjian layanan Permintaan Debit Langsung&lt;/a>, serta mengotorisasi Stripe Payments Australia Pty Ltd ACN 160 180 343 dengan nomor Identifikasi Pengguna Debit Langsung 507156 (“Stripe”) untuk mendebit rekening Anda melalui Bulk Electronic Clearing System (BECS) atas nama %s (\"Merchant\") sejumlah yang dikomunikasikan secara terpisah kepada Anda oleh Merchant. Anda menyatakan diri sebagai pemilik akun atau penandatangan yang diotorisasi atas akun yang tercantum di atas.</string>
+    <string name="stripe_back">Kembali</string>
+    <string name="stripe_bacs_account_number">Nomor rekening</string>
+    <string name="stripe_bacs_account_number_incomplete">Nomor rekening Anda tidak lengkap.</string>
+    <string name="stripe_bacs_bank_account_title">Rekening bank</string>
+    <string name="stripe_bacs_confirm_mandate_label">Saya memahami bahwa Stripe akan menagih Debit Langsung atas nama %s serta mengonfirmasikan bahwa sayalah pemilik akun dan satu-satunya orang yang diperlukan untuk mengotorisasi debit dari akun ini.</string>
+    <string name="stripe_bacs_sort_code">Kode sort</string>
+    <string name="stripe_bacs_sort_code_incomplete">Kode sort Anda tidak lengkap.</string>
+    <string name="stripe_bank_account_ending_in">Rekening bank yang berakhiran %s</string>
+    <string name="stripe_bank_account_plus_last_4">Rekening bank ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Rekening bank ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Dengan memberikan detail rekening bank Anda dan mengonfirmasi pembayaran ini, berarti Anda setuju dengan\n    Permintaan Debit Langsung ini dan perjanjian layanan Permintaan Debit Langsung, serta mengotorisasi\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 dengan nomor Identifikasi Pengguna Debit Langsung 507156\n    (“Stripe”) untuk mendebit rekening Anda melalui Bulk Electronic Clearing System (BECS) atas nama\n    %1$s (\"Merchant\") sejumlah yang dikomunikasikan secara terpisah kepada Anda\n    oleh Merchant. Anda menyatakan diri sebagai pemilik akun atau\n    penandatangan yang diotorisasi atas akun yang tercantum di atas.\n    </string>
+    <string name="stripe_becs_widget_account_number">Nomor rekening</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Nomor rekening yang Anda masukkan tidak lengkap.</string>
+    <string name="stripe_becs_widget_account_number_required">Nomor rekening Anda harus diisi.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">BSB yang Anda masukkan tidak lengkap.</string>
+    <string name="stripe_becs_widget_bsb_invalid">BSB yang Anda masukkan tidak valid.</string>
+    <string name="stripe_becs_widget_email">Alamat Email</string>
+    <string name="stripe_becs_widget_email_invalid">Alamat email Anda tidak valid.</string>
+    <string name="stripe_becs_widget_email_required">Alamat email Anda harus diisi.</string>
+    <string name="stripe_becs_widget_name">Nama</string>
+    <string name="stripe_becs_widget_name_required">Nama Anda harus diisi.</string>
+    <string name="stripe_billing_details">Alamat tagihan</string>
+    <string name="stripe_billing_same_as_shipping">Alamat tagihan sama dengan pengiriman</string>
+    <string name="stripe_blank_and_required">Bidang ini tidak boleh kosong.</string>
+    <string name="stripe_blik_code">Kode BLIK</string>
+    <string name="stripe_blik_confirm_payment">Konfirmasikan pembayaran di aplikasi bank Anda dalam %s untuk menyelesaikan pembelian.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Batalkan</string>
+    <string name="stripe_card_brand_choice_no_selection">Tidak ada pilihan</string>
+    <string name="stripe_card_brand_choice_selection_header">Pilih brand kartu (opsional)</string>
+    <string name="stripe_card_declined">Kartu Anda ditolak</string>
+    <string name="stripe_card_ending_in">%1$s berakhiran %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Dengan melanjutkan, berarti Anda memberi %1$s otorisasi untuk mendebit akun Cash App Anda bagi pembayaran ini dan pembayaran mendatang sesuai dengan ketentuan %2$s, hingga otorisasi ini dicabut. Anda dapat mengubahnya kapan saja di Pengaturan Cash App.</string>
+    <string name="stripe_change">Ubah</string>
+    <string name="stripe_clearpay_subtitle">Beli sekarang atau bayar nanti dengan Clearpay</string>
+    <string name="stripe_close">Tutup</string>
+    <string name="stripe_confirm_close_form_body">Informasi pembayaran Anda tidak akan disimpan.</string>
+    <string name="stripe_confirm_close_form_title">Anda ingin menutup formulir ini?</string>
+    <string name="stripe_contact_information">Informasi kontak</string>
+    <string name="stripe_continue_button_label">Lanjutkan</string>
+    <string name="stripe_delete_payment_method">Hapus Metode Pembayaran</string>
+    <string name="stripe_delete_payment_method_prompt_title">Hapus metode pembayaran?</string>
+    <string name="stripe_done">Selesai</string>
+    <string name="stripe_edit">Edit</string>
+    <string name="stripe_email">Email</string>
+    <string name="stripe_email_is_invalid">Email Anda tidak valid.</string>
+    <string name="stripe_eps_bank">Bank EPS</string>
+    <string name="stripe_expiration_date_hint">BB / TT</string>
+    <string name="stripe_expired_card">Kartu Anda telah kedaluwarsa</string>
+    <string name="stripe_expiry_date_hint">BB/TT</string>
+    <string name="stripe_expiry_label_short">Kedaluwarsa</string>
+    <string name="stripe_failure_connection_error">Kami mengalami masalah saat menghubungkan ke penyedia layanan pembayaran kami. Periksa koneksi internet Anda dan coba lagi.</string>
+    <string name="stripe_failure_reason_authentication">Kami tidak dapat mengautentikasi metode pembayaran Anda. Pilih metode pembayaran yang berbeda dan coba lagi.</string>
+    <string name="stripe_failure_reason_timed_out">Waktu autentikasi metode pembayaran Anda habis -- coba lagi</string>
+    <string name="stripe_field_required">Ini harus diisi</string>
+    <string name="stripe_form_label_optional">%s (opsional)</string>
+    <string name="stripe_fpx_bank">FPX Bank</string>
+    <string name="stripe_fpx_bank_offline">%s - Offline</string>
+    <string name="stripe_generic_decline">Metode pembayaran Anda ditolak.</string>
+    <string name="stripe_hcaptcha_loading_text">Memverifikasi bahwa Anda adalah manusia</string>
+    <string name="stripe_iban_incomplete">IBAN yang Anda masukkan tidak lengkap.</string>
+    <string name="stripe_iban_invalid_country">IBAN yang Anda masukkan tidak valid. \"%s\" bukan kode negara yang didukung.</string>
+    <string name="stripe_iban_invalid_start">IBAN Anda harus diawali dengan kode negara dua-huruf.</string>
+    <string name="stripe_ideal_bank">iDEAL Bank</string>
+    <string name="stripe_incomplete_blik_code">Kode BLIK Anda tidak lengkap.</string>
+    <string name="stripe_incomplete_expiry_date">Tanggal kedaluwarsa kartu Anda tidak lengkap.</string>
+    <string name="stripe_incomplete_phone_number">Nomor telepon tidak lengkap</string>
+    <string name="stripe_inline_sign_up_header">Simpan info Anda untuk checkout aman dengan 1 klik dengan Link</string>
+    <string name="stripe_internal_error">Terjadi kesalahan internal.</string>
+    <string name="stripe_invalid_bank_account_iban">IBAN yang Anda masukkan tidak valid.</string>
+    <string name="stripe_invalid_blik_code">Kode BLIK Anda tidak valid.</string>
+    <string name="stripe_invalid_card_number">Nomor kartu Anda tidak valid.</string>
+    <string name="stripe_invalid_cvc">Kode keamanan kartu Anda tidak valid.</string>
+    <string name="stripe_invalid_email_address">Alamat email tidak valid: %s</string>
+    <string name="stripe_invalid_expiry_month">Bulan kedaluwarsa kartu Anda tidak valid.</string>
+    <string name="stripe_invalid_expiry_year">Tahun kedaluwarsa kartu Anda tidak valid.</string>
+    <string name="stripe_invalid_owner_name">Nama Anda tidak valid.</string>
+    <string name="stripe_invalid_shipping_information">Alamat Pengiriman Tidak Valid</string>
+    <string name="stripe_invalid_upi_id">Identifikasi UPI tidak valid</string>
+    <string name="stripe_invalid_zip">Kode pos Anda tidak lengkap.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Beli sekarang atau bayar nanti dengan Klarna.</string>
+    <string name="stripe_klarna_mandate">Dengan melanjutkan ke Klarna, berarti Anda mengizinkan %1$s mengenakan charge untuk pembayaran mendatang pada akun Klarna Anda sesuai dengan ketentuan mereka dan ketentuan Klarna. Anda dapat mengubahnya kapan saja di aplikasi Klarna atau dengan menghubungi %2$s.</string>
+    <string name="stripe_klarna_pay_later">Bayar nanti dengan Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Telepon</string>
+    <string name="stripe_link_simple_secure_payments">Pembayaran sekali klik yang mudah dan aman</string>
+    <string name="stripe_log_out">Keluar dari Link</string>
+    <string name="stripe_name_on_card">Nama pada kartu</string>
+    <string name="stripe_network_error_message">Terjadi kesalahan. Periksa koneksi Anda dan coba lagi.</string>
+    <string name="stripe_p24_bank">Bank Przelewy24</string>
+    <string name="stripe_pay_button_amount">Bayar %s</string>
+    <string name="stripe_pay_with_link">Bayar dengan Link</string>
+    <string name="stripe_payment_method_add_new_card">Tambahkan kartu baru...</string>
+    <string name="stripe_payment_method_add_new_fpx">Pilih Rekening Bank (FPX)…</string>
+    <string name="stripe_payment_method_bank">Bank</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Dengan melanjutkan, Anda berarti setuju untuk mengotorisasi pembayaran sesuai dengan <terms>ketentuan-ketentuan berikut</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Dengan menyimpan rekening bank Anda untuk %s, Anda berarti setuju untuk mengotorisasi pembayaran sesuai dengan <terms>ketentuan-ketentuan berikut</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Ada masalah saat menautkan rekening Anda.\nCoba lagi nanti.</string>
+    <string name="stripe_paymentsheet_add_card">Tambahkan kartu</string>
+    <string name="stripe_paymentsheet_add_new_card">Tambahkan kartu baru</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Tambahkan</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Informasi kartu</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Tambahkan informasi pembayaran Anda</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Tambahkan rekening bank AS</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Simpan alamat</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Alamat Pengiriman</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Sebuah email akan dikirim ke %s dalam waktu tiga hari kerja untuk mengonfirmasi penyiapan instruksi debit ini.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Konfirmasikan detail Debit Langsung Anda</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Ubah detail</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Selain itu, Anda akan menerima pemberitahuan dua hari di muka lewat email mengenai berapa pun jumlah yang akan didebit menurut instruksi ini. Pembayaran akan ditampilkan sebagai \'%s\' pada rekening koran Anda</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Pembayaran Anda diproteksi oleh %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Beli menggunakan identifikasi UPI</string>
+    <string name="stripe_paymentsheet_card_mandate">Dengan memberikan informasi kartu, Anda berarti mengizinkan %s mengenakan charge pada kartu Anda untuk pembayaran mendatang sesuai dengan ketentuan mereka.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Pilih metode pembayaran</string>
+    <string name="stripe_paymentsheet_close">Tutup</string>
+    <string name="stripe_paymentsheet_confirm">Konfirmasikan</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Konfirmasikan CVC Anda</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Masukkan alamat secara manual</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Kelola metode pembayaran</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Kelola metode pembayaran Anda</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe akan menyetorkan $0,01 ke rekening Anda dalam waktu 1–2 hari kerja. Kemudian Anda akan mendapatkan email yang berisi petunjuk untuk menyelesaikan pembayaran kepada %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Edit %s</string>
+    <string name="stripe_paymentsheet_new_card">Kartu baru</string>
+    <string name="stripe_paymentsheet_new_pm">Metode pembayaran baru</string>
+    <string name="stripe_paymentsheet_or_pay_using">Atau bayar menggunakan</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Atau bayar dengan kartu</string>
+    <string name="stripe_paymentsheet_or_use">Atau gunakan</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Atau gunakan kartu</string>
+    <string name="stripe_paymentsheet_pay_button_label">Bayar</string>
+    <string name="stripe_paymentsheet_pay_using">Bayar menggunakan</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Bayar dengan rekening bank Anda hanya dalam beberapa langkah.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">Debit Langsung BECS AU</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Debit Langsung Bacs</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kartu</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA Debit</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Memproses...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Hapus rekening bank?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Hapus rekening bank</string>
+    <string name="stripe_paymentsheet_remove_card">Hapus kartu</string>
+    <string name="stripe_paymentsheet_remove_card_title">Hapus kartu?</string>
+    <string name="stripe_paymentsheet_remove_pm">Hapus %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Hapus metode pembayaran</string>
+    <string name="stripe_paymentsheet_save">Simpan</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Simpan metode pembayaran baru</string>
+    <string name="stripe_paymentsheet_save_bank_title">Simpan rekening bank Anda hanya dalam beberapa langkah.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Simpan untuk pembayaran mendatang</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Simpan kartu ini untuk pembayaran %s mendatang</string>
+    <string name="stripe_paymentsheet_saved">Disimpan</string>
+    <string name="stripe_paymentsheet_select_payment_method">Pilih metode pembayaran</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Pilih metode pembayaran Anda</string>
+    <string name="stripe_paymentsheet_total_amount">Total: %s</string>
+    <string name="stripe_paypal_mandate">Dengan mengonfirmasi pembayaran menggunakan PayPal, berarti Anda mengizinkan %s mengenakan charge untuk pembayaran mendatang pada akun PayPal Anda sesuai dengan ketentuan mereka.</string>
+    <string name="stripe_pm_set_as_default">Atur sebagai metode pembayaran default</string>
+    <string name="stripe_price_free">Gratis</string>
+    <string name="stripe_processing_error">Ada kesalahan saat memproses kartu Anda -- cobalah lagi dalam beberapa detik</string>
+    <string name="stripe_remove">Hapus</string>
+    <string name="stripe_remove_bank_account_ending_in">Hapus rekening bank yang berakhiran dengan %s</string>
+    <string name="stripe_removed">%s Dihapus</string>
+    <string name="stripe_revolut_mandate">Dengan mengonfirmasi pembayaran menggunakan RevolutPay, berarti Anda mengizinkan %s mengenakan charge untuk pembayaran mendatang pada akun RevolutPay Anda sesuai dengan ketentuan mereka.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Simpan untuk pembayaran %s mendatang</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Simpan detail pembayaran pada %s untuk pembelian mendatang</string>
+    <string name="stripe_scan_card">Pindai kartu</string>
+    <string name="stripe_secure_checkout">Checkout Aman</string>
+    <string name="stripe_sepa_mandate">Dengan memberikan informasi pembayaran dan mengonfirmasi pembayaran ini, berarti Anda mengotorisasi (A) %s dan Stripe, penyedia layanan pembayaran kami, untuk mengirim instruksi kepada bank untuk mendebit rekening Anda dan (B) kepada bank untuk mendebit rekening Anda sesuai instruksi itu. Sebagai bagian dari hak Anda, Anda berhak mendapat pengembalian dana dari bank berdasarkan ketentuan dan persyaratan perjanjian Anda dengan bank. Pengembalian dana harus diklaim dalam waktu 8 minggu sejak tanggal pendebitan rekening Anda. Hak Anda dijelaskan dalam pernyataan yang dapat Anda peroleh dari bank Anda. Anda setuju untuk menerima notifikasi pendebitan di masa mendatang hingga 2 hari sebelum dilakukan.</string>
+    <string name="stripe_setup_button_label">Siapkan</string>
+    <string name="stripe_show_menu">Tampilkan menu</string>
+    <string name="stripe_sign_up">Bergabunglah dengan Link</string>
+    <string name="stripe_sign_up_header">Checkout 1-klik dengan aman</string>
+    <string name="stripe_sign_up_message">Bayar lebih cepat di %s dan ribuan merchant lainnya.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Dengan bergabung ke Link, Anda berarti menyetujui <terms>Ketentuan</terms> dan <privacy>Kebijakan Privasi</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Dengan memberikan email, berarti Anda menyetujui pembuatan akun Link serta penyimpanan informasi pembayaran pada Link, sesuai dengan <terms>Ketentuan</terms> dan <privacy>Kebijakan Privasi Link</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Dengan memberikan nomor telepon, berarti Anda menyetujui pembuatan akun Link serta penyimpanan informasi pembayaran pada Link, sesuai dengan <terms>Ketentuan</terms> dan <privacy>Kebijakan Privasi Link</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Terjadi kesalahan</string>
+    <string name="stripe_title_add_a_card">Tambahkan sebuah Kartu</string>
+    <string name="stripe_title_add_an_address">Atur Alamat</string>
+    <string name="stripe_title_bank_account">Rekening bank</string>
+    <string name="stripe_title_payment_method">Metode Pembayaran</string>
+    <string name="stripe_title_select_shipping_method">Pilih Metode Pengiriman</string>
+    <string name="stripe_title_update_card">Perbarui kartu</string>
+    <string name="stripe_update">Perbarui</string>
+    <string name="stripe_upi_id_label">Identifikasi UPI</string>
+    <string name="stripe_upi_polling_cancel">Batalkan dan bayar dengan cara lain</string>
+    <string name="stripe_upi_polling_header">Setujui pembayaran</string>
+    <string name="stripe_upi_polling_message">Buka aplikasi UPI Anda untuk menyetujui pembayaran di dalam %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Harap kembali dan pilih metode pembayaran lain</string>
+    <string name="stripe_upi_polling_payment_failed_title">Pembayaran gagal</string>
+    <string name="stripe_verification_change_email">Ubah email</string>
+    <string name="stripe_verification_code_sent">Kode dikirim</string>
+    <string name="stripe_verification_header">Masukkan kode verifikasi Anda</string>
+    <string name="stripe_verification_header_inline">Masuk ke akun Link Anda</string>
+    <string name="stripe_verification_header_prefilled">Gunakan info yang tersimpan untuk memproses pembayaran dengan lebih cepat</string>
+    <string name="stripe_verification_message">Masukkan kode yang dikirim ke %s untuk menggunakan Link untuk membayar secara default.</string>
+    <string name="stripe_verification_not_email">Bukan %s?</string>
+    <string name="stripe_verification_resend">Kirim ulang kode</string>
+    <string name="stripe_verify_your_payment">Verifikasikan pembayaran Anda</string>
+    <string name="stripe_view_more">Lihat selengkapnya</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Dengan melanjutkan, berarti Anda setuju untuk mengotorisasi pembayaran sesuai dengan <terms>ketentuan</terms> ini.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Pembayaran</string>
+    <string name="stripe_wallet_default">Default</string>
+    <string name="stripe_wallet_expanded_title">Metode pembayaran</string>
+    <string name="stripe_wallet_pay_another_way">Bayar dengan cara lain</string>
+    <string name="stripe_wallet_recollect_cvc_error">Untuk keamanan, masukkan lagi kode keamanan kartu Anda.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Anda yakin ingin menghapus rekening tertaut ini?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Anda yakin ingin menghapus kartu ini?</string>
+    <string name="stripe_wallet_remove_linked_account">Hapus rekening tertaut</string>
+    <string name="stripe_wallet_set_as_default">Atur sebagai default</string>
+    <string name="stripe_wallet_unavailable">Tidak tersedia untuk pembelian ini</string>
+    <string name="stripe_wallet_update_card">Perbarui kartu</string>
+    <string name="stripe_wallet_update_expired_card_error">Kartu ini telah kedaluwarsa. Perbarui info kartu Anda atau pilih metode pembayaran yang lain.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Alihkan"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> persen."</string>
+    <string name="wallet_buy_button_place_holder">Beli dengan Google</string>
+</resources>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d thông báo mới</item>
+    <item quantity="other">%d thông báo mới</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Mật khẩu"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Khoá truy cập"</string>
+    <string name="bottomsheet_action_collapse">Thu gọn bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
+    <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Trả lời"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Từ chối"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kết thúc"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Cuộc gọi đến"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Cuộc gọi đang thực hiện"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Đang sàng lọc cuộc gọi đến"</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string msgid="406453423630273620" name="close_drawer">"Đóng trình đơn điều hướng"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Đóng trang tính"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Đã thu gọn"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Bật</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp Dịch vụ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với Dịch vụ Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có Dịch vụ Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Cập nhật</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Đã sao chép đường liên kết vào bảng nhớ tạm"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Giá trị nhập không hợp lệ"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Cửa sổ bật lên"</string>
+    <string msgid="4057925834421392736" name="dialog">"Hộp thoại"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Trình đơn thả xuống"</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string msgid="5974471714631304645" name="expanded">"Đã mở rộng"</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Sao chép đường liên kết"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Mở trong trình duyệt"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Chia sẻ đường liên kết"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string msgid="6827826412747255547" name="in_progress">"Đang thực hiện"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Đã kiểm tra một phần"</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
+    <string name="material_hour_24h_suffix">%1$s giờ</string>
+    <string name="material_hour_selection">Chọn giờ</string>
+    <string name="material_hour_suffix">%1$s giờ</string>
+    <string name="material_minute_selection">Chọn phút</string>
+    <string name="material_minute_suffix">%1$s phút</string>
+    <string name="material_timepicker_am">SA</string>
+    <string name="material_timepicker_clock_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
+    <string name="material_timepicker_hour">Giờ</string>
+    <string name="material_timepicker_minute">Phút</string>
+    <string name="material_timepicker_pm">CH</string>
+    <string name="material_timepicker_select_time">Chọn thời gian</string>
+    <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
+    <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
+    <string name="mtrl_picker_announce_current_range_selection">Ngày bắt đầu được chọn: %1$s – Ngày kết thúc được chọn: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">không có</string>
+    <string name="mtrl_picker_cancel">Hủy</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chọn ngày</string>
+    <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+    <string name="mtrl_picker_day_of_week_column_header">Cột ngày: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Ngày kết thúc %1$s</string>
+    <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+    <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Chuyển đến năm hiện tại %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Chuyển tới năm %1$d</string>
+    <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chọn dải ô</string>
+    <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
+    <string name="mtrl_picker_save">Lưu</string>
+    <string name="mtrl_picker_start_date_description">Ngày bắt đầu %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Ngày</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Hôm nay %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chế độ xem theo lịch</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chế độ xem theo năm</string>
+    <string name="mtrl_timepicker_cancel">Huỷ</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Trình đơn điều hướng"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Chưa chọn"</string>
+    <string msgid="875452955155264703" name="off">"Đang tắt"</string>
+    <string msgid="8655164131929253426" name="on">"Đang bật"</string>
+    <string name="password_toggle_content_description">Hiện mật khẩu</string>
+    <string msgid="5941395253238309765" name="range_end">"Điểm kết thúc phạm vi"</string>
+    <string msgid="7097486360902471446" name="range_start">"Điểm bắt đầu phạm vi"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string msgid="6043586758067023" name="selected">"Đã chọn"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_acc_label_card_number">Số thẻ</string>
+    <string name="stripe_acc_label_card_number_node">%s, Số thẻ</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">Ngày hết hạn</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, Ngày hết hạn</string>
+    <string name="stripe_acc_label_zip">Mã ZIP</string>
+    <string name="stripe_acc_label_zip_short">ZIP</string>
+    <string name="stripe_add_bank_account">Thêm tài khoản ngân hàng</string>
+    <string name="stripe_add_new_payment_method">Thêm phương thức thanh toán mới</string>
+    <string name="stripe_add_payment_method">Thêm phương thức thanh toán</string>
+    <string name="stripe_added">Đã thêm %s</string>
+    <string name="stripe_address_city_required">Vui lòng nhập tên thành phố</string>
+    <string name="stripe_address_country_invalid">Tên quận không hợp lệ</string>
+    <string name="stripe_address_county_required">Vui lòng nhập tên quận</string>
+    <string name="stripe_address_label_address">Địa chỉ</string>
+    <string name="stripe_address_label_address_line1">Dòng địa chỉ 1</string>
+    <string name="stripe_address_label_address_line1_optional">Dòng địa chỉ 1 (tùy chọn)</string>
+    <string name="stripe_address_label_address_line2">Dòng địa chỉ 2</string>
+    <string name="stripe_address_label_address_line2_optional">Dòng địa chỉ 2 (tùy chọn)</string>
+    <string name="stripe_address_label_address_optional">Địa chỉ (tùy chọn) </string>
+    <string name="stripe_address_label_ae_emirate">Tiểu vương quốc</string>
+    <string name="stripe_address_label_apt_optional">Căn hộ (tùy chọn)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Ngoại ô hoặc thành phố</string>
+    <string name="stripe_address_label_bb_jm_parish">Giáo xứ</string>
+    <string name="stripe_address_label_cedex">Mã Cedex</string>
+    <string name="stripe_address_label_city">Thành phố</string>
+    <string name="stripe_address_label_city_optional">Thành phố (tùy chọn)</string>
+    <string name="stripe_address_label_country">Quốc gia</string>
+    <string name="stripe_address_label_country_or_region">Quốc gia hoặc khu vực</string>
+    <string name="stripe_address_label_county">Quận</string>
+    <string name="stripe_address_label_county_optional">Quận (tùy chọn)</string>
+    <string name="stripe_address_label_department">Sở ngành</string>
+    <string name="stripe_address_label_district">Quận/Huyện</string>
+    <string name="stripe_address_label_full_name">Họ tên</string>
+    <string name="stripe_address_label_hk_area">Khu vực</string>
+    <string name="stripe_address_label_ie_eircode">Mã Eircode</string>
+    <string name="stripe_address_label_ie_townland">Thị trấn</string>
+    <string name="stripe_address_label_in_pin">Mã Pin</string>
+    <string name="stripe_address_label_island">Đảo</string>
+    <string name="stripe_address_label_jp_prefecture">Tỉnh</string>
+    <string name="stripe_address_label_kr_do_si">Tỉnh/Thành phố</string>
+    <string name="stripe_address_label_name">Tên</string>
+    <string name="stripe_address_label_neighborhood">Khu dân cư</string>
+    <string name="stripe_address_label_oblast">Vùng</string>
+    <string name="stripe_address_label_phone_number">Số điện thoại</string>
+    <string name="stripe_address_label_phone_number_optional">Số điện thoại (tùy chọn)</string>
+    <string name="stripe_address_label_post_town">Bưu điện hoặc Thị trấn</string>
+    <string name="stripe_address_label_postal_code">Mã bưu điện</string>
+    <string name="stripe_address_label_postal_code_optional">Mã bưu điện (tùy chọn)</string>
+    <string name="stripe_address_label_postcode">Mã bưu điện</string>
+    <string name="stripe_address_label_postcode_optional">Mã bưu điện (tùy chọn)</string>
+    <string name="stripe_address_label_province">Tỉnh</string>
+    <string name="stripe_address_label_province_optional">Tỉnh (tùy chọn)</string>
+    <string name="stripe_address_label_region_generic">Tiểu bang/Tỉnh/Khu vực</string>
+    <string name="stripe_address_label_region_generic_optional">Tiểu bang/Tỉnh/Khu vực (tùy chọn)</string>
+    <string name="stripe_address_label_state">Tiểu bang</string>
+    <string name="stripe_address_label_state_optional">Tiểu bang (tùy chọn)</string>
+    <string name="stripe_address_label_suburb">Ngoại ô</string>
+    <string name="stripe_address_label_village_township">Làng hoặc thị trấn</string>
+    <string name="stripe_address_label_zip_code">Mã ZIP</string>
+    <string name="stripe_address_label_zip_code_optional">Mã ZIP (tùy chọn)</string>
+    <string name="stripe_address_label_zip_postal_code">Mã bưu điện/ZIP</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Mã bưu điện/ZIP (tùy chọn)</string>
+    <string name="stripe_address_name_required">Vui lòng nhập tên của bạn</string>
+    <string name="stripe_address_phone_number_required">Vui lòng nhập số điện thoại</string>
+    <string name="stripe_address_postal_code_invalid">Mã bưu điện không hợp lệ.</string>
+    <string name="stripe_address_postcode_invalid">Mã bưu điện không hợp lệ</string>
+    <string name="stripe_address_province_required">Vui lòng nhập tên tỉnh</string>
+    <string name="stripe_address_region_generic_required">Vui lòng nhập tên Tiểu bang/Tỉnh/Khu vực</string>
+    <string name="stripe_address_required">Vui lòng nhập địa chỉ email</string>
+    <string name="stripe_address_search_content_description">Tìm kiếm</string>
+    <string name="stripe_address_state_required">Vui lòng nhập tên tiểu bang</string>
+    <string name="stripe_address_zip_invalid">Mã ZIP không hợp lệ</string>
+    <string name="stripe_address_zip_postal_invalid">Mã bưu điện/ZIP không hợp lệ</string>
+    <string name="stripe_affirm_buy_now_pay_later">Trả dần bằng &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Trả dần bằng Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Mua ngay hoặc thanh toán sau bằng <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Trả bằng <num_installments/> khoản thanh toán không lãi suất là <installment_price/> bằng <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d khoản thanh toán không lãi suất %2$s</string>
+    <string name="stripe_afterpay_subtitle">Mua ngay hoặc thanh toán sau bằng Afterpay</string>
+    <string name="stripe_amazon_pay_mandate">Bằng việc xác nhận khoản thanh toán với Amazon Pay, bạn cho phép %s tính phí vào tài khoản Amazon Pay của bạn cho các khoản thanh toán trong tương lai căn cứ theo các điều khoản của họ.</string>
+    <string name="stripe_au_becs_account_name">Tên trên tài khoản</string>
+    <string name="stripe_au_becs_bsb_number">Số BSB</string>
+    <string name="stripe_au_becs_mandate">Bằng việc cung cấp chi tiết tài khoản ngân hàng của quý vị và xác nhận thanh toán này, quý vị đồng ý với Yêu cầu Ghi nợ Trực tiếp này và &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">thỏa thuận dịch vụ Yêu cầu Ghi nợ Trực tiếp&lt;/a>, và cho phép Stripe Payments Australia Pty Ltd ACN 160 180 343 ID người dùng Ghi nợ Trực tiếp số 507156 (“Stripe”) ghi nợ tài khoản của quý vị thông qua Bulk Electronic Clearing System (BECS) thay mặt %s (\"Người bán\") cho bất kỳ số tiền nào được Người bán liên lạc riêng với quý vị. Quý vị chứng nhận rằng quý vị là chủ tài khoản hoặc người ký kết được ủy quyền trên tài khoản được liệt kê ở trên.</string>
+    <string name="stripe_back">Quay lại</string>
+    <string name="stripe_bacs_account_number">Số tài khoản</string>
+    <string name="stripe_bacs_account_number_incomplete">Số tài khoản của bạn chưa đầy đủ.</string>
+    <string name="stripe_bacs_bank_account_title">Tài khoản ngân hàng</string>
+    <string name="stripe_bacs_confirm_mandate_label">Tôi hiểu rằng Stripe sẽ thu Ghi nợ Trực tiếp thay mặt %s và tôi xác nhận rằng tôi là chủ tài khoản và là người duy nhất cần có để ủy quyền ghi nợ từ tài khoản này.</string>
+    <string name="stripe_bacs_sort_code">Mã sắp xếp</string>
+    <string name="stripe_bacs_sort_code_incomplete">Mã sắp xếp chưa đầy đủ.</string>
+    <string name="stripe_bank_account_ending_in">Tài khoản ngân hàng có số cuối là %s</string>
+    <string name="stripe_bank_account_plus_last_4">Tài khoản ngân hàng ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Tài khoản ngân hàng ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Khi cung cấp chi tiết tài khoản ngân hàng của bạn và xác nhận khoản thanh toán này, bạn đồng ý\n    với Yêu cầu Ghi nợ Trực tiếp này và thỏa thuận dịch vụ Yêu cầu Ghi nợ Trực tiếp và ủy quyền cho\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 có số ID Người dùng Ghi nợ Trực tiếp là\n    507156 (“Stripe”), thay mặt cho %1$s (\"Người bán\") ghi nợ tài khoản thông qua Hệ thống thanh toán\n    bù trừ điện tử hàng loạt (BECS) đối với bất kỳ số tiền nào được Người bán thông báo riêng cho\n    bạn. Bạn xác nhận rằng bạn là chủ tài khoản hoặc người ký được ủy quyền trên tài khoản được\n    liệt kê ở trên.\n    </string>
+    <string name="stripe_becs_widget_account_number">Số tài khoản</string>
+    <string name="stripe_becs_widget_account_number_incomplete">Số tài khoản quý vị đã nhập không đầy đủ.</string>
+    <string name="stripe_becs_widget_account_number_required">Số tài khoản của bạn là bắt buộc.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">BSB mà bạn nhập chưa đầy đủ.</string>
+    <string name="stripe_becs_widget_bsb_invalid">BSB mà bạn nhập không hợp lệ.</string>
+    <string name="stripe_becs_widget_email">Địa chỉ email</string>
+    <string name="stripe_becs_widget_email_invalid">Địa chỉ email của bạn không hợp lệ.</string>
+    <string name="stripe_becs_widget_email_required">Địa chỉ email của bạn là bắt buộc.</string>
+    <string name="stripe_becs_widget_name">Tên</string>
+    <string name="stripe_becs_widget_name_required">Tên của bạn là bắt buộc.</string>
+    <string name="stripe_billing_details">Địa chỉ thanh toán</string>
+    <string name="stripe_billing_same_as_shipping">Địa chỉ xuất hóa đơn giống địa chỉ chuyển hàng</string>
+    <string name="stripe_blank_and_required">Trường này không được bỏ trống.</string>
+    <string name="stripe_blik_code">Mã BLIK</string>
+    <string name="stripe_blik_confirm_payment">Hãy xác nhận thanh toán trong ứng dụng ngân hàng của quý vị trong vòng %s để hoàn tất giao dịch mua.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Hủy</string>
+    <string name="stripe_card_brand_choice_no_selection">Không có lựa chọn</string>
+    <string name="stripe_card_brand_choice_selection_header">Chọn thương hiệu thẻ (tùy chọn)</string>
+    <string name="stripe_card_declined">Thẻ bị từ chối</string>
+    <string name="stripe_card_ending_in">%1$s kết thúc bằng %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Bằng cách tiếp tục, quý vị ủy quyền cho %1$s ghi nợ tài khoản Cash App của quý vị cho khoản thanh toán này và các khoản thanh toán trong tương lai theo các điều khoản của %2$s, cho đến khi ủy quyền này bị thu hồi. Quý vị có thể thay đổi điều này bất cứ lúc nào trong mục Cài đặt của Cash App.</string>
+    <string name="stripe_change">Thay đổi</string>
+    <string name="stripe_clearpay_subtitle">Mua ngay hoặc thanh toán sau bằng Clearpay</string>
+    <string name="stripe_close">Đóng</string>
+    <string name="stripe_confirm_close_form_body">Thông tin thanh toán của bạn sẽ không lưu lại.</string>
+    <string name="stripe_confirm_close_form_title">Bạn có muốn đóng biểu mẫu này không?</string>
+    <string name="stripe_contact_information">Thông tin liên lạc</string>
+    <string name="stripe_continue_button_label">Tiếp tục</string>
+    <string name="stripe_delete_payment_method">Xóa phương thức thanh toán</string>
+    <string name="stripe_delete_payment_method_prompt_title">Xóa phương thức thanh toán?</string>
+    <string name="stripe_done">Xong</string>
+    <string name="stripe_edit">Sửa</string>
+    <string name="stripe_email">Email</string>
+    <string name="stripe_email_is_invalid">Email của quý vị không hợp lệ.</string>
+    <string name="stripe_eps_bank">Ngân hàng EPS</string>
+    <string name="stripe_expiration_date_hint">Tháng /Năm</string>
+    <string name="stripe_expired_card">Thẻ đã hết hạn</string>
+    <string name="stripe_expiry_date_hint">Tháng/Năm</string>
+    <string name="stripe_expiry_label_short">Hết hạn</string>
+    <string name="stripe_failure_connection_error">Chúng tôi đang gặp sự cố khi kết nối với nhà cung cấp dịch vụ thanh toán của mình. Vui lòng kiểm tra kết nối internet của bạn và thử lại.</string>
+    <string name="stripe_failure_reason_authentication">Chúng tôi không thể xác thực phương thức thanh toán của bạn. Vui lòng chọn phương thức thanh toán khác và thử lại.</string>
+    <string name="stripe_failure_reason_timed_out">Đã hết thời gian xác thực phương thức thanh toán -- hãy thử lại sau</string>
+    <string name="stripe_field_required">Điều này là bắt buộc</string>
+    <string name="stripe_form_label_optional">%s (tùy chọn)</string>
+    <string name="stripe_fpx_bank">Ngân hàng FPX</string>
+    <string name="stripe_fpx_bank_offline">%s - Ngoại tuyến</string>
+    <string name="stripe_generic_decline">Phương thức thanh toán của quý vị đã bị từ chối.</string>
+    <string name="stripe_hcaptcha_loading_text">Xác minh bạn là con người</string>
+    <string name="stripe_iban_incomplete">IBAN quý vị đã nhập chưa đầy đủ.</string>
+    <string name="stripe_iban_invalid_country">IBAN quý vị đã nhập không hợp lệ, \"%s\" không phải là mã quốc gia được hỗ trợ.</string>
+    <string name="stripe_iban_invalid_start">IBAN của quý vị phải bắt đầu bằng mã quốc gia gồm hai chữ cái.</string>
+    <string name="stripe_ideal_bank">Ngân hàng iDEAL</string>
+    <string name="stripe_incomplete_blik_code">Mã BLIK của quý vị chưa đầy đủ.</string>
+    <string name="stripe_incomplete_expiry_date">Ngày hết hạn trên thẻ không hợp lệ.</string>
+    <string name="stripe_incomplete_phone_number">Số điện thoại chưa đầy đủ</string>
+    <string name="stripe_inline_sign_up_header">Lưu thông tin của bạn để thanh toán an toàn bằng 1 cú nhấp chuột với Link</string>
+    <string name="stripe_internal_error">Đã xảy ra lỗi nội bộ.</string>
+    <string name="stripe_invalid_bank_account_iban">IBAN quý vị đã nhập không hợp lệ.</string>
+    <string name="stripe_invalid_blik_code">Mã BLIK của quý vị không hợp lệ.</string>
+    <string name="stripe_invalid_card_number">Số thẻ của bạn không hợp lệ.</string>
+    <string name="stripe_invalid_cvc">Mã bảo mật trên thẻ không hợp lệ.</string>
+    <string name="stripe_invalid_email_address">Địa chỉ email không hợp lệ: %s</string>
+    <string name="stripe_invalid_expiry_month">Tháng hết hạn trên thẻ của bạn không hợp lệ.</string>
+    <string name="stripe_invalid_expiry_year">Năm hết hạn trên thẻ của bạn không hợp lệ.</string>
+    <string name="stripe_invalid_owner_name">Tên của quý vị không hợp lệ.</string>
+    <string name="stripe_invalid_shipping_information">Địa chỉ vận chuyển không hợp lệ</string>
+    <string name="stripe_invalid_upi_id">Số ID UPI không hợp lệ</string>
+    <string name="stripe_invalid_zip">Mã bưu điện chưa đầy đủ.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Mua ngay hoặc thanh toán sau bằng Klarna.</string>
+    <string name="stripe_klarna_mandate">Bằng việc tiếp tục với Klarna, bạn cho phép %1$s tính phí vào tài khoản Klarna của bạn cho các khoản thanh toán trong tương lai căn cứ theo các điều khoản của khoản thanh toán và của Klarna. Bạn có thể thay đổi tùy chọn này bất kỳ lúc nào trong ứng dụng Klarna của mình hoặc bằng cách liên hệ với %2$s.</string>
+    <string name="stripe_klarna_pay_later">Thanh toán sau bằng Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Điện thoại</string>
+    <string name="stripe_link_simple_secure_payments">Thanh toán đơn giản, an toàn chỉ bằng một cú nhấp chuột</string>
+    <string name="stripe_log_out">Đăng xuất khỏi Link</string>
+    <string name="stripe_name_on_card">Tên trên thẻ</string>
+    <string name="stripe_network_error_message">Đã xảy ra lỗi. Hãy kiểm tra kết nối của bạn và thử lại.</string>
+    <string name="stripe_p24_bank">Ngân hàng Przelewy24</string>
+    <string name="stripe_pay_button_amount">Thanh toán %s</string>
+    <string name="stripe_pay_with_link">Thanh toán bằng Link</string>
+    <string name="stripe_payment_method_add_new_card">Thêm thẻ mới...</string>
+    <string name="stripe_payment_method_add_new_fpx">Chọn Tài khoản Ngân hàng (FPX)...</string>
+    <string name="stripe_payment_method_bank">Ngân hàng</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Bằng việc tiếp tục, bạn đồng ý cho phép thanh toán tuân theo <terms>các điều khoản này</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Bằng việc lưu tài khoản ngân hàng của bạn cho %s bạn đồng ý cho phép thanh toán tuân theo <terms>các điều khoản này</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Đã xảy ra lỗi khi liên kết tài khoản của bạn.\nVui lòng thử lại sau.</string>
+    <string name="stripe_paymentsheet_add_card">Thêm thẻ</string>
+    <string name="stripe_paymentsheet_add_new_card">Thêm thẻ mới</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Thêm</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Thông tin thẻ</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Thêm thông tin thanh toán của bạn</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Thêm tài khoản ngân hàng Hoa Kỳ</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Lưu địa chỉ</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Địa chỉ vận chuyển</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Một email sẽ được gửi đến %s trong vòng ba ngày làm việc để xác nhận việc thiết lập hướng dẫn ghi nợ này.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Xác nhận thông tin Ghi nợ Trực tiếp của bạn</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Sửa đổi thông tin chi tiết</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Ngoài ra, bạn sẽ nhận được thông báo trước qua email về bất kỳ khoản tiền nào sẽ được ghi nợ theo hướng dẫn này. Các khoản thanh toán sẽ hiển thị là \'%s\' trên bảng sao kê ngân hàng của bạn.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Các khoản thanh toán của bạn được bảo vệ bởi %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Mua bằng cách sử dụng ID UPI</string>
+    <string name="stripe_paymentsheet_card_mandate">Bằng việc cung cấp thông tin thẻ, bạn cho phép %s tính phí thẻ của bạn cho các khoản thanh toán trong tương lai theo điều khoản của họ.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Chọn phương thức thanh toán</string>
+    <string name="stripe_paymentsheet_close">Đóng</string>
+    <string name="stripe_paymentsheet_confirm">Xác nhận</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Xác nhận CVC của bạn</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Nhập địa chỉ thủ công</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Quản lý các phương thức thanh toán</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Quản lý các phương thức thanh toán của bạn</string>
+    <string name="stripe_paymentsheet_microdeposit">Stripe sẽ gửi $0.01 vào tài khoản của bạn trong 1-2 ngày làm việc. Khi đó bạn sẽ nhận được một email chứa hướng dẫn để hoàn tất thanh toán cho %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Sửa %s</string>
+    <string name="stripe_paymentsheet_new_card">Thẻ mới</string>
+    <string name="stripe_paymentsheet_new_pm">Phương thức thanh toán mới</string>
+    <string name="stripe_paymentsheet_or_pay_using">Hoặc thanh toán bằng</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Hoặc thanh toán bằng thẻ</string>
+    <string name="stripe_paymentsheet_or_use">Hoặc dùng</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Hoặc dùng thẻ</string>
+    <string name="stripe_paymentsheet_pay_button_label">Thanh toán</string>
+    <string name="stripe_paymentsheet_pay_using">Thanh toán bằng</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Thanh toán bằng tài khoản ngân hàng của bạn chỉ trong vài bước.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">Ghi nợ trực tiếp AU Becs</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Ghi nợ Trực tiếp Bacs</string>
+    <string name="stripe_paymentsheet_payment_method_card">Thẻ</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">Ghi nợ SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Đang xử lý...</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Bỏ tài khoản ngân hàng?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Bỏ tài khoản ngân hàng</string>
+    <string name="stripe_paymentsheet_remove_card">Xóa thẻ</string>
+    <string name="stripe_paymentsheet_remove_card_title">Xóa thẻ?</string>
+    <string name="stripe_paymentsheet_remove_pm">Xóa %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Gỡ bỏ phương thức thanh toán</string>
+    <string name="stripe_paymentsheet_save">Lưu</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Lưu một phương thức thanh toán mới</string>
+    <string name="stripe_paymentsheet_save_bank_title">Lưu tài khoản ngân hàng chỉ trong vài bước.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Tiết kiệm cho các khoản thanh toán trong tương lai</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Lưu thẻ này để thanh toán nhanh %s sau này</string>
+    <string name="stripe_paymentsheet_saved">Đã lưu</string>
+    <string name="stripe_paymentsheet_select_payment_method">Chọn phương thức thanh toán</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Chọn phương thức thanh toán của bạn</string>
+    <string name="stripe_paymentsheet_total_amount">Tổng cộng: %s</string>
+    <string name="stripe_paypal_mandate">Bằng cách xác nhận thanh toán của quý vị với PayPal, quý vị cho phép %s tính phí tài khoản PayPal của quý vị cho các khoản thanh toán trong tương lai theo các điều khoản của họ.</string>
+    <string name="stripe_pm_set_as_default">Đặt làm phương thức thanh toán mặc định</string>
+    <string name="stripe_price_free">Miễn phí</string>
+    <string name="stripe_processing_error">Có lỗi bất ngờ khi xử lý thẻ -- hãy thử lại sau vài giây</string>
+    <string name="stripe_remove">Xóa</string>
+    <string name="stripe_remove_bank_account_ending_in">Gỡ bỏ tài khoản ngân hàng có đuôi là %s</string>
+    <string name="stripe_removed">Đã xóa %s</string>
+    <string name="stripe_revolut_mandate">Khi xác nhận khoản thanh toán với RevolutPay, bạn cho phép %s tính phí vào tài khoản RevolutPay của bạn cho các khoản thanh toán trong tương lai căn cứ theo các điều khoản của họ.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Lưu để thanh toán %s sau này</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Lưu thông tin thanh toán vào %s để mua hàng trong tương lai</string>
+    <string name="stripe_scan_card">Quét thẻ</string>
+    <string name="stripe_secure_checkout">Bảo mật Thanh toán</string>
+    <string name="stripe_sepa_mandate">Bằng việc cung cấp thông tin thanh toán của quý vị và xác nhận khoản thanh toán này, quý vị đã ủy quyền cho (A) %s và Stripe, nhà cung cấp dịch vụ thanh toán của chúng tôi, gửi hướng dẫn đến ngân hàng của quý vị để ghi nợ tài khoản của quý vị và (B) ngân hàng ghi nợ tài khoản của quý vị theo những hướng dẫn đó. Trong các quyền của mình, quý vị được hoàn tiền từ ngân hàng của mình theo các điều khoản và điều kiện trong thỏa thuận của quý vị với ngân hàng của quý vị. Khoản tiền hoàn phải được yêu cầu trong vòng 8 tuần kể từ ngày tài khoản của quý vị bị ghi nợ. Các quyền của quý vị được giải thích trong bản tuyên bố mà quý vị có thể nhận được từ ngân hàng của mình. Quý vị đồng ý nhận thông báo cho các khoản ghi nợ trong tương lai tối đa 2 ngày trước khi chúng xảy ra.</string>
+    <string name="stripe_setup_button_label">Cài đặt</string>
+    <string name="stripe_show_menu">Hiển thị trình đơn</string>
+    <string name="stripe_sign_up">Tham gia Link</string>
+    <string name="stripe_sign_up_header">Thanh toán bảo mật bằng một cú nhấp chuột</string>
+    <string name="stripe_sign_up_message">Thanh toán nhanh hơn tại %s và hàng ngàn người bán.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Bằng việc tham gia Link, quý vị đồng ý với <terms>Điều khoản</terms> và <privacy>Chính sách Quyền riêng tư</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Bằng việc cung cấp email, bạn đồng ý tạo tài khoản Link và lưu thông tin thanh toán vào Link, theo <terms>Điều khoản</terms> và <privacy>Chính sách Quyền riêng tư của Link</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Bằng việc cung cấp số điện thoại, bạn đồng ý tạo tài khoản Link và lưu thông tin thanh toán vào Link, theo <terms>Điều khoản</terms> và <privacy>Chính sách Quyền riêng tư của Link</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Đã xảy ra sự cố</string>
+    <string name="stripe_title_add_a_card">Thêm Thẻ</string>
+    <string name="stripe_title_add_an_address">Đặt địa chỉ</string>
+    <string name="stripe_title_bank_account">Tài khoản ngân hàng</string>
+    <string name="stripe_title_payment_method">Phương thức thanh toán</string>
+    <string name="stripe_title_select_shipping_method">Chọn phương thức vận chuyển</string>
+    <string name="stripe_title_update_card">Cập nhật thẻ</string>
+    <string name="stripe_update">Cập nhật</string>
+    <string name="stripe_upi_id_label">Số ID UPI</string>
+    <string name="stripe_upi_polling_cancel">Hủy và thanh toán theo cách khác</string>
+    <string name="stripe_upi_polling_header">Chấp nhận thanh toán</string>
+    <string name="stripe_upi_polling_message">Mở ứng dụng UPI của quý vị để phê duyệt khoản thanh toán của quý vị trong vòng%s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Vui lòng quay lại và chọn phương thức thanh toán khác</string>
+    <string name="stripe_upi_polling_payment_failed_title">Thanh toán không thành công</string>
+    <string name="stripe_verification_change_email">Đổi email</string>
+    <string name="stripe_verification_code_sent">Mã đã được gửi</string>
+    <string name="stripe_verification_header">Nhập mã xác minh của bạn</string>
+    <string name="stripe_verification_header_inline">Đăng nhập vào tài khoản Link của bạn</string>
+    <string name="stripe_verification_header_prefilled">Sử dụng thông tin đã lưu của bạn để thanh toán nhanh hơn</string>
+    <string name="stripe_verification_message">Nhập mã được gửi tới %s để dùng Link làm phương thức thanh toán mặc định.</string>
+    <string name="stripe_verification_not_email">Không phải %s?</string>
+    <string name="stripe_verification_resend">Gửi lại mã</string>
+    <string name="stripe_verify_your_payment">Xác minh thanh toán của quý vị</string>
+    <string name="stripe_view_more">Xem thêm</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Bằng việc tiếp tục, quý vị đồng ý xác thực thanh toán tuân theo các <terms>điều khoản</terms> sau.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Thanh toán</string>
+    <string name="stripe_wallet_default">Mặc định</string>
+    <string name="stripe_wallet_expanded_title">Phương thức thanh toán</string>
+    <string name="stripe_wallet_pay_another_way">Thanh toán theo cách khác</string>
+    <string name="stripe_wallet_recollect_cvc_error">Vì lý do bảo mật, vui lòng nhập lại mã bảo mật của thẻ của bạn.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Bạn có chắc chắn muốn gỡ bỏ tài khoản liên kết này không?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Bạn có chắc chắn muốn gỡ bỏ thẻ này không?</string>
+    <string name="stripe_wallet_remove_linked_account">Xóa tài khoản liên kết</string>
+    <string name="stripe_wallet_set_as_default">Đặt làm mặc định</string>
+    <string name="stripe_wallet_unavailable">Không khả dụng cho giao dịch mua hàng này</string>
+    <string name="stripe_wallet_update_card">Cập nhật thẻ</string>
+    <string name="stripe_wallet_update_expired_card_error">Thẻ này đã hết hạn. Hãy cập nhật thông tin thẻ của bạn hoặc chọn một phương thức thanh toán khác.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Chuyển"</string>
+    <string msgid="1672349317127674378" name="tab">"Thẻ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>%%."</string>
+    <string name="wallet_buy_button_place_holder">Mua hàng bằng Google</string>
+</resources>

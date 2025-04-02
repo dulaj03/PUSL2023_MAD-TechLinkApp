@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova notificação</item>
+    <item quantity="other">%d novas notificações</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"Senha"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"Chave de acesso"</string>
+    <string name="bottomsheet_action_collapse">Fechar a página inferior</string>
+    <string name="bottomsheet_action_expand">Abrir a página inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Alça de arrastar tocada duas vezes</string>
+    <string name="bottomsheet_drag_handle_content_description">Alça de arrastar</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Desligar"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Chamada recebida"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chamada em andamento"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrando uma ligação recebida"</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
+    <string name="clear_text_end_icon_content_description">Limpar texto</string>
+    <string msgid="406453423630273620" name="close_drawer">"Fechar menu de navegação"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Fechar planilha"</string>
+    <string msgid="5389587048670450460" name="collapsed">"Fechado"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Ativar</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Atualizar</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_signin_button_text">Fazer login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link copiado para a área de transferência"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Entrada inválida"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Janela pop-up"</string>
+    <string msgid="4057925834421392736" name="dialog">"Caixa de diálogo"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu suspenso"</string>
+    <string name="error_icon_content_description">Erro</string>
+    <string msgid="5974471714631304645" name="expanded">"Aberto"</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Copiar link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Abrir no navegador"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Compartilhar link"</string>
+    <string name="gpay_logo_description">Google Pay</string>
+    <string name="icon_content_description">Ícone de caixa de diálogo</string>
+    <string msgid="6827826412747255547" name="in_progress">"Em andamento"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Parcialmente selecionada"</string>
+    <string name="item_view_role_description">Guia</string>
+    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s horas</string>
+    <string name="material_hour_selection">Selecionar horário</string>
+    <string name="material_hour_suffix">%1$s em ponto</string>
+    <string name="material_minute_selection">Selecione os minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecionar horário</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Mais de %1$d novas notificações</string>
+    <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
+    <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
+    <string name="mtrl_picker_announce_current_range_selection">Seleção da data de início: %1$s. Seleção da data de término: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">nenhuma</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecionar data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Data de término: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato inválido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ir para o ano atual %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$d</string>
+    <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecionar intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_start_date_description">Data de início: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Hoje %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a visualização de agenda</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização \"Ano\"</string>
+    <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu de navegação"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Não selecionado"</string>
+    <string msgid="875452955155264703" name="off">"Desativado"</string>
+    <string msgid="8655164131929253426" name="on">"Ativado"</string>
+    <string name="password_toggle_content_description">Exibir senha</string>
+    <string msgid="5941395253238309765" name="range_end">"Fim do intervalo"</string>
+    <string msgid="7097486360902471446" name="range_start">"Início do intervalo"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="6043586758067023" name="selected">"Selecionado"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Imagem do emissor</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Imagem do sistema de pagamento</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Não</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Sim</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Cancelar</string>
+    <string name="stripe_3ds2_hzv_header_label">Pagamento seguro</string>
+    <string name="stripe_3ds2_processing">Processando\u2026</string>
+    <string name="stripe_acc_label_card_number">Número do cartão</string>
+    <string name="stripe_acc_label_card_number_node">%s, número do cartão</string>
+    <string name="stripe_acc_label_cvc_node">%s, CVC</string>
+    <string name="stripe_acc_label_expiry_date">Data de validade</string>
+    <string name="stripe_acc_label_expiry_date_node">%s, data de validade</string>
+    <string name="stripe_acc_label_zip">Código postal</string>
+    <string name="stripe_acc_label_zip_short">CEP</string>
+    <string name="stripe_add_bank_account">Adicionar conta bancária</string>
+    <string name="stripe_add_new_payment_method">Adicionar nova forma de pagamento</string>
+    <string name="stripe_add_payment_method">Adicionar forma de pagamento</string>
+    <string name="stripe_added">Adicionou %s</string>
+    <string name="stripe_address_city_required">Informe sua cidade</string>
+    <string name="stripe_address_country_invalid">País inválido</string>
+    <string name="stripe_address_county_required">Informe seu condado</string>
+    <string name="stripe_address_label_address">Endereço</string>
+    <string name="stripe_address_label_address_line1">Endereço – Linha 1</string>
+    <string name="stripe_address_label_address_line1_optional">Endereço – Linha 1 (opcional)</string>
+    <string name="stripe_address_label_address_line2">Endereço – Linha 2</string>
+    <string name="stripe_address_label_address_line2_optional">Endereço – Linha 2 (opcional)</string>
+    <string name="stripe_address_label_address_optional">Endereço (opcional)</string>
+    <string name="stripe_address_label_ae_emirate">Emirado</string>
+    <string name="stripe_address_label_apt_optional">Apt. (opcional)</string>
+    <string name="stripe_address_label_au_suburb_or_city">Subúrbio ou cidade</string>
+    <string name="stripe_address_label_bb_jm_parish">Paróquia</string>
+    <string name="stripe_address_label_cedex">Cedex</string>
+    <string name="stripe_address_label_city">Cidade</string>
+    <string name="stripe_address_label_city_optional">Cidade (opcional)</string>
+    <string name="stripe_address_label_country">País</string>
+    <string name="stripe_address_label_country_or_region">País ou região</string>
+    <string name="stripe_address_label_county">Condado</string>
+    <string name="stripe_address_label_county_optional">Condado (opcional)</string>
+    <string name="stripe_address_label_department">Departamento</string>
+    <string name="stripe_address_label_district">Distrito</string>
+    <string name="stripe_address_label_full_name">Nome completo</string>
+    <string name="stripe_address_label_hk_area">Área</string>
+    <string name="stripe_address_label_ie_eircode">Eircode</string>
+    <string name="stripe_address_label_ie_townland">Townland</string>
+    <string name="stripe_address_label_in_pin">Pin</string>
+    <string name="stripe_address_label_island">Ilha</string>
+    <string name="stripe_address_label_jp_prefecture">Prefeitura</string>
+    <string name="stripe_address_label_kr_do_si">Do Si</string>
+    <string name="stripe_address_label_name">Nome</string>
+    <string name="stripe_address_label_neighborhood">Bairro</string>
+    <string name="stripe_address_label_oblast">Oblast</string>
+    <string name="stripe_address_label_phone_number">Telefone</string>
+    <string name="stripe_address_label_phone_number_optional">Telefone (opcional)</string>
+    <string name="stripe_address_label_post_town">Posto ou município</string>
+    <string name="stripe_address_label_postal_code">Código postal</string>
+    <string name="stripe_address_label_postal_code_optional">Código postal (opcional)</string>
+    <string name="stripe_address_label_postcode">Código postal</string>
+    <string name="stripe_address_label_postcode_optional">Código postal (opcional)</string>
+    <string name="stripe_address_label_province">Província</string>
+    <string name="stripe_address_label_province_optional">Província (opcional)</string>
+    <string name="stripe_address_label_region_generic">Estado/Província/Região</string>
+    <string name="stripe_address_label_region_generic_optional">Estado/Província/Região (opcional)</string>
+    <string name="stripe_address_label_state">Estado</string>
+    <string name="stripe_address_label_state_optional">Estado (opcional)</string>
+    <string name="stripe_address_label_suburb">Subúrbio</string>
+    <string name="stripe_address_label_village_township">Vilarejo ou município</string>
+    <string name="stripe_address_label_zip_code">Código postal</string>
+    <string name="stripe_address_label_zip_code_optional">Código postal (opcional)</string>
+    <string name="stripe_address_label_zip_postal_code">Código postal</string>
+    <string name="stripe_address_label_zip_postal_code_optional">Código postal (opcional)</string>
+    <string name="stripe_address_name_required">Informe seu nome</string>
+    <string name="stripe_address_phone_number_required">Informe seu telefone</string>
+    <string name="stripe_address_postal_code_invalid">Código postal inválido.</string>
+    <string name="stripe_address_postcode_invalid">Código postal inválido</string>
+    <string name="stripe_address_province_required">Informe sua província</string>
+    <string name="stripe_address_region_generic_required">Informe seu estado/província/região</string>
+    <string name="stripe_address_required">Informe seu endereço</string>
+    <string name="stripe_address_search_content_description">Pesquisar</string>
+    <string name="stripe_address_state_required">Informe seu estado</string>
+    <string name="stripe_address_zip_invalid">Código postal inválido.</string>
+    <string name="stripe_address_zip_postal_invalid">Código postal inválido.</string>
+    <string name="stripe_affirm_buy_now_pay_later">Pagar depois com &lt;img src=\"affirm\">.</string>
+    <string name="stripe_affirm_buy_now_pay_later_plaintext">Pagar em parcelas com Affirm.</string>
+    <string name="stripe_afterpay_clearpay_marketing"><![CDATA[Compre agora ou pague depois com <img/>.]]></string>
+    <string name="stripe_afterpay_clearpay_message"><![CDATA[Pague em <num_installments/> vezes sem juros de <installment_price/> com <img/>]]></string>
+    <string name="stripe_afterpay_clearpay_subtitle">%1$d pagamentos sem juros de%2$s</string>
+    <string name="stripe_afterpay_subtitle">Compre agora ou pague depois com Afterpay.</string>
+    <string name="stripe_amazon_pay_mandate">Ao confirmar seu pagamento com o Amazon Pay, você permite que %s cobre sua conta do Amazon Pay por pagamentos futuros em conformidade com os termos da empresa.</string>
+    <string name="stripe_au_becs_account_name">Nome na conta</string>
+    <string name="stripe_au_becs_bsb_number">Número BSB</string>
+    <string name="stripe_au_becs_mandate">Ao informar os dados da sua conta bancária e confirmar este pagamento, você aceita esta Solicitação de Débito Automático e o &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">contrato de serviço de Solicitação de Débito Automático&lt;/a> e autoriza a Stripe Payments Australia Pty Ltd ACN 160 180 343 com número de Usuário para Débito Direto 507156 (a “Stripe”) a debitar de sua conta pelo Bulk Electronic Clearing System (BECS) em nome de %s (o \"Comerciante\") quaisquer quantias comunicadas separadamente a você pelo Comerciante. Você confirma que é titular da conta ou signatário autorizado da conta indicada acima.</string>
+    <string name="stripe_back">Voltar</string>
+    <string name="stripe_bacs_account_number">Número da conta</string>
+    <string name="stripe_bacs_account_number_incomplete">O número da conta está incompleto.</string>
+    <string name="stripe_bacs_bank_account_title">Conta bancária</string>
+    <string name="stripe_bacs_confirm_mandate_label">Entendo que a Stripe debitará diretamente em nome de %s e confirmo que sou o titular da conta e a única pessoa necessária para autorizar débitos nesta conta.</string>
+    <string name="stripe_bacs_sort_code">Sort code</string>
+    <string name="stripe_bacs_sort_code_incomplete">Seu sort code está incompleto.</string>
+    <string name="stripe_bank_account_ending_in">Conta bancária com final %s</string>
+    <string name="stripe_bank_account_plus_last_4">Conta bancária ···· %s</string>
+    <string name="stripe_bank_account_with_last_4">Conta bancária ····%s</string>
+    <string name="stripe_becs_mandate_acceptance">\n    Ao informar os dados da sua conta bancária e confirmar este pagamento, você aceita esta\n    Solicitação de Débito Direto e o contrato de serviço da Solicitação de Débito Direto, bem como autoriza a\n    Stripe Payments Australia Pty Ltd ACN 160 180 343 com número de Usuário para Débito Direto 507156\n    (a “Stripe”) a debitar de sua conta pelo Bulk Electronic Clearing System (BECS) em\n    nome de %1$s (o \"Comerciante\") quaisquer quantias comunicadas separadamente a você\n    pelo Comerciante. Você confirma que é títular da conta ou signatário\n    autorizado da conta listada acima.\n    </string>
+    <string name="stripe_becs_widget_account_number">Número da conta</string>
+    <string name="stripe_becs_widget_account_number_incomplete">O número de conta inserido está incompleto.</string>
+    <string name="stripe_becs_widget_account_number_required">É obrigatório informar seu número da conta.</string>
+    <string name="stripe_becs_widget_bsb">BSB</string>
+    <string name="stripe_becs_widget_bsb_incomplete">O BSB inserido está incompleto.</string>
+    <string name="stripe_becs_widget_bsb_invalid">O BSB inserido é inválido.</string>
+    <string name="stripe_becs_widget_email">Endereço de e-mail</string>
+    <string name="stripe_becs_widget_email_invalid">Endereço de e-mail inválido.</string>
+    <string name="stripe_becs_widget_email_required">É obrigatório informar seu e-mail.</string>
+    <string name="stripe_becs_widget_name">Nome</string>
+    <string name="stripe_becs_widget_name_required">É obrigatório informar seu nome.</string>
+    <string name="stripe_billing_details">Endereço de cobrança</string>
+    <string name="stripe_billing_same_as_shipping">O endereço de faturamento é igual ao de envio</string>
+    <string name="stripe_blank_and_required">Este campo não pode ficar em branco.</string>
+    <string name="stripe_blik_code">Código BLIK</string>
+    <string name="stripe_blik_confirm_payment">Confirme o pagamento no aplicativo do seu banco em até %s para concluir a compra.</string>
+    <string name="stripe_boleto_tax_id_label">CPF/CNPJ</string>
+    <string name="stripe_cancel">Cancelar</string>
+    <string name="stripe_card_brand_choice_no_selection">Sem seleção</string>
+    <string name="stripe_card_brand_choice_selection_header">Selecionar bandeira de cartão (opcional)</string>
+    <string name="stripe_card_declined">O cartão foi recusado</string>
+    <string name="stripe_card_ending_in">%1$s com final %2$s</string>
+    <string name="stripe_card_plus_last_4">%1$s ···· %2$s</string>
+    <string name="stripe_card_with_last_4">%1$s ····%2$s</string>
+    <string name="stripe_cash_app_pay_mandate">Ao continuar, você autoriza %1$s a debitar sua conta do Cash App para este pagamento e futuros pagamentos, em conformidade com os temos da empresa %2$s, até que a autorização seja revogada. É possível alterar isso a qualquer momento nas Configurações do Cash App.</string>
+    <string name="stripe_change">Alterar</string>
+    <string name="stripe_clearpay_subtitle">Compre agora ou pague depois com Clearpay</string>
+    <string name="stripe_close">Fechar</string>
+    <string name="stripe_confirm_close_form_body">Seus dados de pagamento não serão salvos.</string>
+    <string name="stripe_confirm_close_form_title">Deseja fechar este formulário?</string>
+    <string name="stripe_contact_information">Dados de contato</string>
+    <string name="stripe_continue_button_label">Continuar</string>
+    <string name="stripe_delete_payment_method">Excluir forma de pagamento</string>
+    <string name="stripe_delete_payment_method_prompt_title">Excluir forma de pagamento?</string>
+    <string name="stripe_done">Concluído</string>
+    <string name="stripe_edit">Editar</string>
+    <string name="stripe_email">E-mail</string>
+    <string name="stripe_email_is_invalid">Seu e-mail é inválido.</string>
+    <string name="stripe_eps_bank">Banco EPS</string>
+    <string name="stripe_expiration_date_hint">MM / AA</string>
+    <string name="stripe_expired_card">O cartão expirou</string>
+    <string name="stripe_expiry_date_hint">MM/AA</string>
+    <string name="stripe_expiry_label_short">Validade</string>
+    <string name="stripe_failure_connection_error">Estamos passando por problemas de conexão com nosso provedor de pagamentos. Verifique sua conexão com a Internet e tente novamente.</string>
+    <string name="stripe_failure_reason_authentication">Não é possível autenticar sua forma de pagamento. Escolha outra forma de pagamento e tente de novo.</string>
+    <string name="stripe_failure_reason_timed_out">Tempo limite esgotado para autenticar sua forma de pagamento – tente novamente</string>
+    <string name="stripe_field_required">Obrigatório</string>
+    <string name="stripe_form_label_optional">%s (opcional)</string>
+    <string name="stripe_fpx_bank">Banco do FPX</string>
+    <string name="stripe_fpx_bank_offline">%s – Offline</string>
+    <string name="stripe_generic_decline">A forma de pagamento foi recusada.</string>
+    <string name="stripe_iban_incomplete">O IBAN inserido está incompleto.</string>
+    <string name="stripe_iban_invalid_country">O IBAN inserido é inválido, \"%s\" não foi reconhecido como código de país.</string>
+    <string name="stripe_iban_invalid_start">Seu IBAN deve começar com um código de país de duas letras.</string>
+    <string name="stripe_ideal_bank">Banco iDEAL</string>
+    <string name="stripe_incomplete_blik_code">Seu código BLIK está incompleto.</string>
+    <string name="stripe_incomplete_expiry_date">Data de validade incompleta.</string>
+    <string name="stripe_incomplete_phone_number">Número de telefone incompleto</string>
+    <string name="stripe_inline_sign_up_header">Salve seus dados para fazer checkout seguro em 1 clique com o Link</string>
+    <string name="stripe_internal_error">Ocorreu um erro interno.</string>
+    <string name="stripe_invalid_bank_account_iban">O IBAN inserido é inválido.</string>
+    <string name="stripe_invalid_blik_code">Seu código BLIK é inválido.</string>
+    <string name="stripe_invalid_card_number">Número do cartão inválido.</string>
+    <string name="stripe_invalid_cvc">Código de segurança inválido.</string>
+    <string name="stripe_invalid_email_address">Endereço de e-mail inválido: %s</string>
+    <string name="stripe_invalid_expiry_month">O mês de validade do cartão é inválido.</string>
+    <string name="stripe_invalid_expiry_year">Ano de validade inválido.</string>
+    <string name="stripe_invalid_owner_name">Nome inválido.</string>
+    <string name="stripe_invalid_shipping_information">Endereço de envio inválido</string>
+    <string name="stripe_invalid_upi_id">ID UPI inválido</string>
+    <string name="stripe_invalid_zip">Código postal incompleto.</string>
+    <string name="stripe_klarna_buy_now_pay_later">Compre agora ou pague depois com Klarna.</string>
+    <string name="stripe_klarna_mandate">Ao continuar para a Klarna, você permite que %1$s cobre sua conta Klarna por pagamentos futuros em conformidade com os termos da empresa e da Klarna. É possível alterar essa opção a qualquer momento no aplicativo Klarna ou entrando em contato com %2$s.</string>
+    <string name="stripe_klarna_pay_later">Pagar depois com Klarna.</string>
+    <string name="stripe_konbini_confirmation_number_label">Telefone</string>
+    <string name="stripe_link_simple_secure_payments">Pagamentos simples e seguros em um clique</string>
+    <string name="stripe_log_out">Sair do Link</string>
+    <string name="stripe_name_on_card">Nome no cartão</string>
+    <string name="stripe_network_error_message">Ocorreu um erro. Verifique sua conexão e tente novamente.</string>
+    <string name="stripe_p24_bank">Banco Przelewy24</string>
+    <string name="stripe_pay_button_amount">Pagar %s</string>
+    <string name="stripe_pay_with_link">Pagar com Link</string>
+    <string name="stripe_payment_method_add_new_card">Adicionar novo cartão…</string>
+    <string name="stripe_payment_method_add_new_fpx">Selecionar conta bancária (FPX)…</string>
+    <string name="stripe_payment_method_bank">Banco</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Ao continuar, você aceita autorizar pagamentos de acordo com <terms>estes termos</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Ao salvar sua conta bancária para %s, você autoriza pagamentos de acordo com <terms>estes termos</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_something_went_wrong">Ocorre um erro ao vincular sua conta.\nTente novamente mais tarde.</string>
+    <string name="stripe_paymentsheet_add_card">Adicionar cartão</string>
+    <string name="stripe_paymentsheet_add_new_card">Adicionar novo cartão</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Adicionar</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Dados do cartão</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Adicione seus dados de pagamento</string>
+    <string name="stripe_paymentsheet_add_us_bank_account">Adicionar conta bancária dos EUA</string>
+    <string name="stripe_paymentsheet_address_element_primary_button">Salvar endereço</string>
+    <string name="stripe_paymentsheet_address_element_shipping_address">Endereço de envio</string>
+    <string name="stripe_paymentsheet_bacs_email_mandate">Enviaremos um e-mail para %s em até três dias úteis para confirmar a criação da instrução de débito.</string>
+    <string name="stripe_paymentsheet_bacs_mandate_title">Confirme os dados do seu débito automático</string>
+    <string name="stripe_paymentsheet_bacs_modify_details_button_label">Modificar detalhes</string>
+    <string name="stripe_paymentsheet_bacs_notice_mandate">Além disso, você será notificado por e-mail com dois dias de antecedência sobre qualquer valor a ser debitado de acordo com esta instrução. Os pagamentos serão exibidos como \'\'%s\'\' no seu extrato bancário.</string>
+    <string name="stripe_paymentsheet_bacs_protection_mandate">Seus pagamentos estão protegidos por %s.</string>
+    <string name="stripe_paymentsheet_buy_using_upi_id">Comprar usando um ID UPI</string>
+    <string name="stripe_paymentsheet_card_mandate">Ao fornecer os dados do seu cartão, você permite que %s cobre de seu cartão por pagamentos futuros de acordo com os termos da empresa.</string>
+    <string name="stripe_paymentsheet_choose_payment_method">Escolha uma forma de pagamento</string>
+    <string name="stripe_paymentsheet_close">Fechar</string>
+    <string name="stripe_paymentsheet_confirm">Confirmar</string>
+    <string name="stripe_paymentsheet_confirm_your_cvc">Confirme seu CVC</string>
+    <string name="stripe_paymentsheet_enter_address_manually">Inserir endereço manualmente</string>
+    <string name="stripe_paymentsheet_manage_payment_methods">Gerenciar formas de pagamento</string>
+    <string name="stripe_paymentsheet_manage_your_payment_methods">Gerencie suas formas de pagamento</string>
+    <string name="stripe_paymentsheet_microdeposit">A Stripe depositará $ 0,01 na sua conta em 1 a 2 dias úteis. Depois disso, você receberá um e-mail com instruções de como concluir o pagamento para %s.</string>
+    <string name="stripe_paymentsheet_modify_pm">Editar %s</string>
+    <string name="stripe_paymentsheet_new_card">Novo cartão</string>
+    <string name="stripe_paymentsheet_new_pm">Nova forma de pagamento</string>
+    <string name="stripe_paymentsheet_or_pay_using">Ou pague com</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Ou pagar com cartão</string>
+    <string name="stripe_paymentsheet_or_use">Ou use</string>
+    <string name="stripe_paymentsheet_or_use_a_card">Ou use um cartão</string>
+    <string name="stripe_paymentsheet_pay_button_label">Pagar</string>
+    <string name="stripe_paymentsheet_pay_using">Pagar com</string>
+    <string name="stripe_paymentsheet_pay_with_bank_title">Pague com sua conta bancária em poucos passos.</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">Débito automático AU BECS</string>
+    <string name="stripe_paymentsheet_payment_method_bacs_debit">Débito automático Bacs</string>
+    <string name="stripe_paymentsheet_payment_method_card">Cartão</string>
+    <string name="stripe_paymentsheet_payment_method_konbini">Konbini</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">Débito SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Processando…</string>
+    <string name="stripe_paymentsheet_remove_bank_account_question_title">Remover conta bancária?</string>
+    <string name="stripe_paymentsheet_remove_bank_account_title">Remover conta bancária</string>
+    <string name="stripe_paymentsheet_remove_card">Remover cartão</string>
+    <string name="stripe_paymentsheet_remove_card_title">Remover cartão?</string>
+    <string name="stripe_paymentsheet_remove_pm">Remover %s</string>
+    <string name="stripe_paymentsheet_remove_pm_title">Remover forma de pagamento</string>
+    <string name="stripe_paymentsheet_save">Salvar</string>
+    <string name="stripe_paymentsheet_save_a_new_payment_method">Salvar nova forma de pagamento</string>
+    <string name="stripe_paymentsheet_save_bank_title">Salve sua conta bancária em poucos passos.</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Salvar para pagamentos futuros</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Salvar este cartão para pagamentos futuros a %s</string>
+    <string name="stripe_paymentsheet_saved">Salva</string>
+    <string name="stripe_paymentsheet_select_payment_method">Selecionar forma de pagamento</string>
+    <string name="stripe_paymentsheet_select_your_payment_method">Selecione sua forma de pagamento</string>
+    <string name="stripe_paymentsheet_total_amount">Total: %s</string>
+    <string name="stripe_paypal_mandate">Ao confirmar seu pagamento com o PayPal, você permite que %s cobre sua conta do PayPal por pagamentos futuros em conformidade com os termos definidos pela empresa.</string>
+    <string name="stripe_pm_set_as_default">Definir como forma de pagamento padrão</string>
+    <string name="stripe_price_free">Grátis</string>
+    <string name="stripe_processing_error">Erro ao processar o cartão – tente novamente em alguns segundos</string>
+    <string name="stripe_remove">Remover</string>
+    <string name="stripe_remove_bank_account_ending_in">Remover conta bancária com final %s</string>
+    <string name="stripe_removed">Removeu %s</string>
+    <string name="stripe_revolut_mandate">Ao confirmar seu pagamento com o RevolutPay, você permite que %s cobre sua conta do RevolutPay por pagamentos futuros em conformidade com os termos da empresa.</string>
+    <string name="stripe_save_for_future_payments_with_merchant_name">Salvar para pagamentos futuros a %s</string>
+    <string name="stripe_save_payment_details_to_merchant_name">Salvar dados de pagamento para compras futuras em %s</string>
+    <string name="stripe_scan_card">Ler cartão</string>
+    <string name="stripe_secure_checkout">Secure Checkout</string>
+    <string name="stripe_sepa_mandate">Ao fornecer seus dados de pagamento e confirmar este pagamento, você autoriza (A) %s e a Stripe, o nosso provedor de serviços de pagamento, a enviar instruções ao seu banco para debitar sua conta e (B) seu banco a debitar sua conta, de acordo com as referidas instruções. Os seus direitos incluem a possibilidade de exigir do banco o reembolso do valor debitado, nos termos e condições acordados com a instituição. O reembolso deve ser solicitado dentro de um prazo de 8 semanas a partir da data do débito na conta. Você concorda em receber notificações de débitos futuros em até 2 dias antes do débito.</string>
+    <string name="stripe_setup_button_label">Configurar</string>
+    <string name="stripe_show_menu">Mostrar o menu</string>
+    <string name="stripe_sign_up">Cadastre-se no Link</string>
+    <string name="stripe_sign_up_header">Checkout seguro em 1 clique</string>
+    <string name="stripe_sign_up_message">Pague mais rápido em %s e milhares de estabelecimentos comerciais.</string>
+    <string name="stripe_sign_up_terms"><![CDATA[Ao entrar no Link, você concorda com os <terms>Termos</terms> e <privacy>Política de Privacidade</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative"><![CDATA[Ao informar seu e-mail, você concorda em criar uma conta do Link e salvar seus dados de pagamento no Link, segundo os <terms>Termos</terms> e a <privacy>Política de Privacidade do Link</privacy>.]]></string>
+    <string name="stripe_sign_up_terms_alternative_with_phone_number"><![CDATA[Ao informar seu número de telefone, você concorda em criar uma conta do Link e salvar seus dados de pagamento no Link, segundo os <terms>Termos</terms> e a <privacy>Política de Privacidade do Link</privacy>.]]></string>
+    <string name="stripe_something_went_wrong">Ocorreu um erro</string>
+    <string name="stripe_title_add_a_card">Adicionar um cartão</string>
+    <string name="stripe_title_add_an_address">Definir endereço</string>
+    <string name="stripe_title_bank_account">Conta bancária</string>
+    <string name="stripe_title_payment_method">Forma de pagamento</string>
+    <string name="stripe_title_select_shipping_method">Selecionar forma de envio</string>
+    <string name="stripe_title_update_card">Atualizar cartão</string>
+    <string name="stripe_update">Atualizar</string>
+    <string name="stripe_upi_id_label">ID UPI</string>
+    <string name="stripe_upi_polling_cancel">Cancele e pague de outra forma</string>
+    <string name="stripe_upi_polling_header">Aprovar pagamento</string>
+    <string name="stripe_upi_polling_message">Abra o aplicativo UPI para aprovar o pagamento em até %s</string>
+    <string name="stripe_upi_polling_payment_failed_message">Volte e selecione outra forma de pagamento</string>
+    <string name="stripe_upi_polling_payment_failed_title">Falha no pagamento</string>
+    <string name="stripe_verification_change_email">Alterar e-mail</string>
+    <string name="stripe_verification_code_sent">Código enviado</string>
+    <string name="stripe_verification_header">Insira seu código de verificação</string>
+    <string name="stripe_verification_header_inline">Entrar em sua conta Link</string>
+    <string name="stripe_verification_header_prefilled">Use as informações salvas para pagar mais rápido</string>
+    <string name="stripe_verification_message">Insira o código enviado para %s para o usar o Link por padrão em pagamentos.</string>
+    <string name="stripe_verification_not_email">Não é %s?</string>
+    <string name="stripe_verification_resend">Reenviar código</string>
+    <string name="stripe_verify_your_payment">Verifique seu pagamento</string>
+    <string name="stripe_view_more">Exibir mais</string>
+    <string name="stripe_wallet_bank_account_terms"><![CDATA[Ao continuar, você concorda em autorizar pagamentos conforme estes <terms>termos</terms>.]]></string>
+    <string name="stripe_wallet_collapsed_payment">Pagamento</string>
+    <string name="stripe_wallet_default">Padrão</string>
+    <string name="stripe_wallet_expanded_title">Formas de pagamento</string>
+    <string name="stripe_wallet_pay_another_way">Pagar de outra forma</string>
+    <string name="stripe_wallet_recollect_cvc_error">Por segurança, digite novamente o código de segurança do cartão.</string>
+    <string name="stripe_wallet_remove_account_confirmation">Tem certeza de que deseja remover esta conta vinculada?</string>
+    <string name="stripe_wallet_remove_card_confirmation">Tem certeza de que deseja remover este cartão?</string>
+    <string name="stripe_wallet_remove_linked_account">Remover conta vinculada</string>
+    <string name="stripe_wallet_set_as_default">Definir como padrão</string>
+    <string name="stripe_wallet_unavailable">Indisponível para esta compra</string>
+    <string name="stripe_wallet_update_card">Atualizar cartão</string>
+    <string name="stripe_wallet_update_expired_card_error">Este cartão expirou. Atualize as informações do seu cartão ou escolha outra forma de pagamento.</string>
+    <string msgid="2561197295334830845" name="switch_role">"Chave"</string>
+    <string msgid="1672349317127674378" name="tab">"Guia"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>%%"</string>
+    <string name="wallet_buy_button_place_holder">Comprar com o Google</string>
+</resources>

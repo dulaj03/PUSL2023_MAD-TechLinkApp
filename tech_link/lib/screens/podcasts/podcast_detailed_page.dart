@@ -79,8 +79,8 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                   169,
                 ),
                 progressColors: const ProgressBarColors(
-                  playedColor: Color.fromARGB(255, 146, 227, 169),
-                  handleColor: Color.fromARGB(255, 146, 227, 169),
+                  playedColor: Color.fromARGB(256, 144, 226, 169),
+                  handleColor: Color.fromARGB(256, 144, 226, 169),
                 ),
                 onReady: () {
                   setState(() {
@@ -109,7 +109,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                     "Hosted by ${podcast.host}",
                     style: GoogleFonts.chakraPetch(
                       fontSize: 16,
-                      color: Colors.grey[700],
+                      color: Colors.lightgrey[700],
                       fontWeight: FontWeight.w500,
                     ),
                   ),
@@ -120,7 +120,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                     children: [
                       const Icon(
                         Icons.star,
-                        color: Color.fromARGB(255, 146, 227, 169),
+                        color: Color.fromARGB(256, 144, 226, 169),
                       ),
                       const SizedBox(width: 4),
                       Text(
@@ -133,7 +133,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                       const SizedBox(width: 20),
                       const Icon(
                         Icons.headphones,
-                        color: Color.fromARGB(255, 146, 227, 169),
+                        color: Color.fromARGB(256, 144, 226, 169),
                       ),
                       const SizedBox(width: 4),
                       Text(
@@ -143,7 +143,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                       const SizedBox(width: 20),
                       const Icon(
                         Icons.access_time,
-                        color: Color.fromARGB(255, 146, 227, 169),
+                        color: Color.fromARGB(256, 144, 226, 169),
                       ),
                       const SizedBox(width: 4),
                       Text(
@@ -175,7 +175,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                                 color: Colors.black,
                               ),
                             ),
-                            backgroundColor: Color.fromARGB(255, 146, 227, 169),
+                            backgroundColor: Color.fromARGB(256, 144, 226, 169),
                             padding: const EdgeInsets.all(0),
                           );
                         }).toList(),
@@ -213,7 +213,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                       return ListTile(
                         contentPadding: EdgeInsets.zero,
                         leading: CircleAvatar(
-                          backgroundColor: Color.fromARGB(255, 146, 227, 169),
+                          backgroundColor: Color.fromARGB(256, 144, 226, 169),
                           child: Text(
                             "${index + 1}",
                             style: GoogleFonts.chakraPetch(
@@ -230,7 +230,7 @@ class _PodcastDetailsPageState extends State<PodcastDetailsPage> {
                         ),
                         trailing: const Icon(
                           Icons.play_circle_outline,
-                          color: Color.fromARGB(255, 146, 227, 169),
+                          color: Color.fromARGB(256, 144, 226, 169),
                         ),
                         onTap: () {
                           if (_isPlayerReady) {

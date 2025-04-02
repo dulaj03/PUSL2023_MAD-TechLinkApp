@@ -45,8 +45,8 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Text('Application submitted successfully!'),
-        backgroundColor: Color.fromARGB(256, 9, 56, 60),
-        duration: Duration(seconds: 1),
+        backgroundColor: Color.fromARGB(255, 7, 59, 58),
+        duration: Duration(seconds: 2),
       ),
     );
   }
@@ -68,7 +68,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
               _isSaved ? Icons.bookmark : Icons.bookmark_border,
               color:
                   _isSaved
-                      ? const Color.fromARGB(255, 145, 228, 162)
+                      ? const Color.fromARGB(255, 146, 227, 169)
                       : Colors.grey[600],
             ),
             onPressed: _toggleSave,
@@ -83,7 +83,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
         title: Text(
           'Job Details',
           style: GoogleFonts.chakraPetch(
-            color: Colors.darkgray,
+            color: Colors.black,
             fontWeight: FontWeight.bold,
           ),
         ),
@@ -253,7 +253,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                       style: GoogleFonts.chakraPetch(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
-                        color: Colors.darkgray,
+                        color: Colors.black,
                       ),
                     ),
                     const SizedBox(height: 12),
@@ -303,7 +303,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                               )
                               .toList(),
                     ),
-                    const SizedBox(height: 26),
+                    const SizedBox(height: 24),
                   ],
 
                   // Description section
@@ -312,10 +312,10 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     style: GoogleFonts.chakraPetch(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: Colors.darkgray,
+                      color: Colors.black,
                     ),
                   ),
-                  const SizedBox(height: 14),
+                  const SizedBox(height: 12),
                   Text(
                     widget.job.description,
                     style: GoogleFonts.chakraPetch(
@@ -325,7 +325,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     ),
                   ),
 
-                  const SizedBox(height: 26),
+                  const SizedBox(height: 24),
 
                   // Responsibilities section
                   Text(
@@ -336,7 +336,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                       color: Colors.black,
                     ),
                   ),
-                  const SizedBox(height: 14),
+                  const SizedBox(height: 12),
                   _buildBulletPoint(
                     'Design, develop and maintain high-quality mobile applications',
                   ),
@@ -353,7 +353,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     'Help maintain code quality, organization, and automatization',
                   ),
 
-                  const SizedBox(height: 26),
+                  const SizedBox(height: 24),
 
                   // Requirements section
                   Text(
@@ -381,7 +381,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     'Solid understanding of the full mobile development life cycle',
                   ),
 
-                  const SizedBox(height: 26),
+                  const SizedBox(height: 24),
 
                   // Benefits section
                   Text(
@@ -389,7 +389,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     style: GoogleFonts.chakraPetch(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: Colors.darkgray,
+                      color: Colors.black,
                     ),
                   ),
                   const SizedBox(height: 12),
@@ -405,7 +405,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                   ),
                   _buildBulletPoint('Modern office with great amenities'),
 
-                  const SizedBox(height: 42),
+                  const SizedBox(height: 40),
 
                   // Company section
                   Text(
@@ -426,7 +426,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     ),
                   ),
 
-                  const SizedBox(height: 32),
+                  const SizedBox(height: 30),
                 ],
               ),
             ),
@@ -518,7 +518,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
 
   Widget _buildBulletPoint(String text) {
     return Padding(
-      padding: const EdgeInsets.only(bottom: 12),
+      padding: const EdgeInsets.only(bottom: 10),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -526,7 +526,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
             '•',
             style: GoogleFonts.chakraPetch(
               fontSize: 18,
-              color: const Color.fromARGB(255, 145, 228, 162),
+              color: const Color.fromARGB(255, 146, 227, 169),
               fontWeight: FontWeight.bold,
             ),
           ),

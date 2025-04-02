@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">294273642206</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7bmgN-XizvqudmKmzCUp82PdgRcd5pM4</string>
+    <string name="google_app_id" translatable="false">1:294273642206:android:1cbe74410875d791cadc4f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7bmgN-XizvqudmKmzCUp82PdgRcd5pM4</string>
+    <string name="google_storage_bucket" translatable="false">techlink-n.firebasestorage.app</string>
+    <string name="project_id" translatable="false">techlink-n</string>
+</resources>

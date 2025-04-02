@@ -79,6 +79,99 @@ class _AddPostPageState extends State<AddPostPage> {
     try {
       final user = context.read<UserProvider>().user;
 
+
+// Selected images preview
+              if (_selectedImages.isNotEmpty)
+                Expanded(
+                  child: GridView.builder(
+                    padding: const EdgeInsets.all(8.0),
+                    gridDelegate:
+                        const SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 3,
+                          crossAxisSpacing: 4.0,
+                          mainAxisSpacing: 4.0,
+                        ),
+                    itemCount: _selectedImages.length,
+                    itemBuilder: (context, index) {
+                      return Stack(
+                        children: [
+                          Container(
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(8),
+                              image: DecorationImage(
+                                image: FileImage(File(_selectedImages[index])),
+                                fit: BoxFit.cover,
+                              ),
+                            ),
+                          ),
+                          Positioned(
+                            top: 5,
+                            right: 5,
+                            child: GestureDetector(
+                              onTap: () => _removeImage(index),
+                              child: Container(
+                                padding: const EdgeInsets.all(4),
+                                decoration: const BoxDecoration(
+                                  color: Colors.black54,
+                                  shape: BoxShape.circle,
+                                ),
+                                child: const Icon(
+                                  Icons.close,
+                                  color: Colors.white,
+                                  size: 16,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      );
+                    },
+                  ),
+                )
+              else
+                Center(
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Icon(
+                        Icons.photo_library_outlined,
+                        size: 80,
+                        color: Colors.grey,
+                      ),
+                      const SizedBox(height: 16),
+                      const Text(
+                        'Select photos to share',
+                        style: TextStyle(fontSize: 18, color: Colors.grey),
+                      ),
+                      const SizedBox(height: 24),
+                      ElevatedButton(
+                        onPressed: _pickMultipleImages,
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: const Color.fromARGB(
+                            255,
+                            146,
+                            227,
+                            169,
+                          ),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(20),
+                          ),
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 24,
+                            vertical: 12,
+                          ),
+                        ),
+                        child: const Text(
+                          'Select from Gallery',
+                          style: TextStyle(fontSize: 16, color: Colors.black),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+
+
+
       // Create post with the local file paths
       context.read<PostProvider>().addPost(
         Post(
@@ -224,96 +317,6 @@ class _AddPostPageState extends State<AddPostPage> {
                   const Divider(),
                 ],
               ),
-
-              // Selected images preview
-              if (_selectedImages.isNotEmpty)
-                Expanded(
-                  child: GridView.builder(
-                    padding: const EdgeInsets.all(8.0),
-                    gridDelegate:
-                        const SliverGridDelegateWithFixedCrossAxisCount(
-                          crossAxisCount: 3,
-                          crossAxisSpacing: 4.0,
-                          mainAxisSpacing: 4.0,
-                        ),
-                    itemCount: _selectedImages.length,
-                    itemBuilder: (context, index) {
-                      return Stack(
-                        children: [
-                          Container(
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.circular(8),
-                              image: DecorationImage(
-                                image: FileImage(File(_selectedImages[index])),
-                                fit: BoxFit.cover,
-                              ),
-                            ),
-                          ),
-                          Positioned(
-                            top: 5,
-                            right: 5,
-                            child: GestureDetector(
-                              onTap: () => _removeImage(index),
-                              child: Container(
-                                padding: const EdgeInsets.all(4),
-                                decoration: const BoxDecoration(
-                                  color: Colors.black54,
-                                  shape: BoxShape.circle,
-                                ),
-                                child: const Icon(
-                                  Icons.close,
-                                  color: Colors.white,
-                                  size: 16,
-                                ),
-                              ),
-                            ),
-                          ),
-                        ],
-                      );
-                    },
-                  ),
-                )
-              else
-                Center(
-                  child: Column(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      const Icon(
-                        Icons.photo_library_outlined,
-                        size: 80,
-                        color: Colors.grey,
-                      ),
-                      const SizedBox(height: 16),
-                      const Text(
-                        'Select photos to share',
-                        style: TextStyle(fontSize: 18, color: Colors.grey),
-                      ),
-                      const SizedBox(height: 24),
-                      ElevatedButton(
-                        onPressed: _pickMultipleImages,
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color.fromARGB(
-                            255,
-                            146,
-                            227,
-                            169,
-                          ),
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(20),
-                          ),
-                          padding: const EdgeInsets.symmetric(
-                            horizontal: 24,
-                            vertical: 12,
-                          ),
-                        ),
-                        child: const Text(
-                          'Select from Gallery',
-                          style: TextStyle(fontSize: 16, color: Colors.black),
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
 
               // Bottom action bar
               Container(

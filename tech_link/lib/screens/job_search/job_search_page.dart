@@ -66,7 +66,7 @@ class _SearchPageState extends State<SearchPage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: const Color.fromARGB(256, 246, 246, 246),
+        backgroundColor: const Color.fromARGB(255, 145, 228, 162),
         body: Column(
           children: [
             // Search header with profile picture
@@ -80,7 +80,7 @@ class _SearchPageState extends State<SearchPage> {
                     child: Container(
                       height: 48,
                       decoration: BoxDecoration(
-                        color: const Color.fromARGB(256, 246, 246, 246),
+                        color: const Color.fromARGB(255, 145, 228, 162),
                         borderRadius: BorderRadius.circular(12),
                       ),
                       child: TextField(

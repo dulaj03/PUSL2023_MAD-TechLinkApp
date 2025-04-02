@@ -68,7 +68,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
               _isSaved ? Icons.bookmark : Icons.bookmark_border,
               color:
                   _isSaved
-                      ? const Color.fromARGB(256, 148, 226, 166)
+                      ? const Color.fromARGB(255, 145, 228, 162)
                       : Colors.grey[600],
             ),
             onPressed: _toggleSave,
@@ -303,7 +303,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                               )
                               .toList(),
                     ),
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 26),
                   ],
 
                   // Description section
@@ -315,7 +315,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                       color: Colors.darkgray,
                     ),
                   ),
-                  const SizedBox(height: 12),
+                  const SizedBox(height: 14),
                   Text(
                     widget.job.description,
                     style: GoogleFonts.chakraPetch(
@@ -325,7 +325,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     ),
                   ),
 
-                  const SizedBox(height: 24),
+                  const SizedBox(height: 26),
 
                   // Responsibilities section
                   Text(
@@ -336,7 +336,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                       color: Colors.black,
                     ),
                   ),
-                  const SizedBox(height: 12),
+                  const SizedBox(height: 14),
                   _buildBulletPoint(
                     'Design, develop and maintain high-quality mobile applications',
                   ),
@@ -353,7 +353,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     'Help maintain code quality, organization, and automatization',
                   ),
 
-                  const SizedBox(height: 24),
+                  const SizedBox(height: 26),
 
                   // Requirements section
                   Text(
@@ -381,7 +381,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     'Solid understanding of the full mobile development life cycle',
                   ),
 
-                  const SizedBox(height: 24),
+                  const SizedBox(height: 26),
 
                   // Benefits section
                   Text(
@@ -405,7 +405,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                   ),
                   _buildBulletPoint('Modern office with great amenities'),
 
-                  const SizedBox(height: 40),
+                  const SizedBox(height: 42),
 
                   // Company section
                   Text(
@@ -426,7 +426,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
                     ),
                   ),
 
-                  const SizedBox(height: 30),
+                  const SizedBox(height: 32),
                 ],
               ),
             ),
@@ -518,7 +518,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
 
   Widget _buildBulletPoint(String text) {
     return Padding(
-      padding: const EdgeInsets.only(bottom: 10),
+      padding: const EdgeInsets.only(bottom: 12),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -526,7 +526,7 @@ class _JobDetailsPageState extends State<JobDetailsPage> {
             '•',
             style: GoogleFonts.chakraPetch(
               fontSize: 18,
-              color: const Color.fromARGB(255, 146, 227, 169),
+              color: const Color.fromARGB(255, 145, 228, 162),
               fontWeight: FontWeight.bold,
             ),
           ),

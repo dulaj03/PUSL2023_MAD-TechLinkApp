@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tech_link.app-mergeDebugResources-98:/values-nb-rNO/values-nb-rNO.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.10.2\\transforms\\69476615ee12a9567a6c65a92b6171bb\\transformed\\jetified-stripe-3ds2-android-6.1.8\\res\\values-nb-rNO\\values-nb-rNO.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,138,240,307,374,438,513",
+                        "endColumns": "82,101,66,66,63,74,66",
+                        "endOffsets": "133,235,302,369,433,508,575"
+                    }
+                }
+            ]
+        }
+    ]
+}

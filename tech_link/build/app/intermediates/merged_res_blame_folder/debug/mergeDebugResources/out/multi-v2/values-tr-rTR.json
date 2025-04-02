@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tech_link.app-mergeDebugResources-98:/values-tr-rTR/values-tr-rTR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.10.2\\transforms\\69476615ee12a9567a6c65a92b6171bb\\transformed\\jetified-stripe-3ds2-android-6.1.8\\res\\values-tr-rTR\\values-tr-rTR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,239,308,377,440,511",
+                        "endColumns": "84,98,68,68,62,70,66",
+                        "endOffsets": "135,234,303,372,435,506,573"
+                    }
+                }
+            ]
+        }
+    ]
+}

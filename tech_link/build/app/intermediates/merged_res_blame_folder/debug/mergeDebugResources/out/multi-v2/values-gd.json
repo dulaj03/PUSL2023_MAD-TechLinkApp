@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tech_link.app-mergeDebugResources-98:/values-gd/values-gd.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.10.2\\transforms\\c2f256a25ba80a92352898d432bb55b7\\transformed\\jetified-hcaptcha-20.52.3\\res\\values-gd\\values-gd.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "89",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        }
+    ]
+}

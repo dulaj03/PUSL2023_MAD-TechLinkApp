@@ -1,0 +1,111 @@
+com.example.tech_link.app-jetified-glide-4.12.0-0 C:\Users\DELL\.gradle\caches\8.10.2\transforms\004a82abde95216a906a6c02efff29fc\transformed\jetified-glide-4.12.0\res
+com.example.tech_link.app-jetified-lifecycle-process-2.7.0-1 C:\Users\DELL\.gradle\caches\8.10.2\transforms\0095a4dba85ef3c38f0a9652b34cd9be\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.tech_link.app-webkit-1.12.0-2 C:\Users\DELL\.gradle\caches\8.10.2\transforms\014b6638bfaf62e11b32606c7e7d745a\transformed\webkit-1.12.0\res
+com.example.tech_link.app-jetified-accompanist-themeadapter-core-0.32.0-3 C:\Users\DELL\.gradle\caches\8.10.2\transforms\057ced752683e81d4fc7dd1501deb8a6\transformed\jetified-accompanist-themeadapter-core-0.32.0\res
+com.example.tech_link.app-lifecycle-runtime-2.7.0-4 C:\Users\DELL\.gradle\caches\8.10.2\transforms\07d5ffcb9c6912ffd610dc84a8004380\transformed\lifecycle-runtime-2.7.0\res
+com.example.tech_link.app-jetified-emoji2-1.4.0-5 C:\Users\DELL\.gradle\caches\8.10.2\transforms\07f49ec38907c17106e55c5a7ee24855\transformed\jetified-emoji2-1.4.0\res
+com.example.tech_link.app-jetified-financial-connections-20.52.3-6 C:\Users\DELL\.gradle\caches\8.10.2\transforms\087440c9ed4234ffe6dbb1e48698a187\transformed\jetified-financial-connections-20.52.3\res
+com.example.tech_link.app-navigation-common-ktx-2.7.6-7 C:\Users\DELL\.gradle\caches\8.10.2\transforms\094f8edda789bc0d87c946b0f14ad265\transformed\navigation-common-ktx-2.7.6\res
+com.example.tech_link.app-jetified-fragment-ktx-1.7.1-8 C:\Users\DELL\.gradle\caches\8.10.2\transforms\0c2fe07ca1553c701c96a682f9b78a46\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.tech_link.app-jetified-ui-tooling-preview-release-9 C:\Users\DELL\.gradle\caches\8.10.2\transforms\0d515f3ca356ff95a819f5a5de2c19ff\transformed\jetified-ui-tooling-preview-release\res
+com.example.tech_link.app-lifecycle-viewmodel-2.7.0-10 C:\Users\DELL\.gradle\caches\8.10.2\transforms\0df03071d3ea5a13ca8a701a85da690b\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.tech_link.app-jetified-accompanist-themeadapter-material-0.32.0-11 C:\Users\DELL\.gradle\caches\8.10.2\transforms\0e9d8b55757499572c761703650005f9\transformed\jetified-accompanist-themeadapter-material-0.32.0\res
+com.example.tech_link.app-jetified-core-ktx-1.13.1-12 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1012b3d72a26572e790cb673f126d840\transformed\jetified-core-ktx-1.13.1\res
+com.example.tech_link.app-jetified-lifecycle-viewmodel-compose-2.7.0-13 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1183df03ec00a5955654efc48e7c97de\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.example.tech_link.app-jetified-material3-1.0.1-14 C:\Users\DELL\.gradle\caches\8.10.2\transforms\137125880c403b3a2b942298121a1c5d\transformed\jetified-material3-1.0.1\res
+com.example.tech_link.app-lifecycle-livedata-2.7.0-15 C:\Users\DELL\.gradle\caches\8.10.2\transforms\141e4ef551e1154e2ac426f165237904\transformed\lifecycle-livedata-2.7.0\res
+com.example.tech_link.app-jetified-stripe-core-20.52.3-16 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1658e76a05f3fe44759e1888b6b8a1fd\transformed\jetified-stripe-core-20.52.3\res
+com.example.tech_link.app-jetified-stripe-ui-core-20.52.3-17 C:\Users\DELL\.gradle\caches\8.10.2\transforms\181fda134ad22ba54d1293bb75f68242\transformed\jetified-stripe-ui-core-20.52.3\res
+com.example.tech_link.app-browser-1.8.0-18 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1a36ee1e87beff061ef9f2c053c4f171\transformed\browser-1.8.0\res
+com.example.tech_link.app-jetified-runtime-saveable-release-19 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1c6005d68e5de1fe40d27ab73d2e279f\transformed\jetified-runtime-saveable-release\res
+com.example.tech_link.app-jetified-play-services-maps-18.0.2-20 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1ce451a700b2143bc90438a9314df811\transformed\jetified-play-services-maps-18.0.2\res
+com.example.tech_link.app-jetified-savedstate-1.2.1-21 C:\Users\DELL\.gradle\caches\8.10.2\transforms\1f37faca982b225960866422b14b0e48\transformed\jetified-savedstate-1.2.1\res
+com.example.tech_link.app-jetified-runtime-livedata-1.5.4-22 C:\Users\DELL\.gradle\caches\8.10.2\transforms\2314b1075df0bdae107ebd22b4270730\transformed\jetified-runtime-livedata-1.5.4\res
+com.example.tech_link.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-23 C:\Users\DELL\.gradle\caches\8.10.2\transforms\23adfe722c8911b0c72ccd7b6c20c672\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.tech_link.app-cardview-1.0.0-24 C:\Users\DELL\.gradle\caches\8.10.2\transforms\2c52fddffb4a4858b65e09bc36907dcb\transformed\cardview-1.0.0\res
+com.example.tech_link.app-lifecycle-livedata-core-2.7.0-25 C:\Users\DELL\.gradle\caches\8.10.2\transforms\30580628b6a4c90a31a9185e5e7442f2\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.tech_link.app-media-1.0.0-26 C:\Users\DELL\.gradle\caches\8.10.2\transforms\3449914bcef464990650050358ca0d5d\transformed\media-1.0.0\res
+com.example.tech_link.app-jetified-lifecycle-livedata-core-ktx-2.7.0-27 C:\Users\DELL\.gradle\caches\8.10.2\transforms\35d43ac5b93081fc719d5206591bc8b3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.tech_link.app-navigation-common-2.7.6-28 C:\Users\DELL\.gradle\caches\8.10.2\transforms\365da56321d57b45c1103990d9a6afdc\transformed\navigation-common-2.7.6\res
+com.example.tech_link.app-jetified-ui-graphics-release-29 C:\Users\DELL\.gradle\caches\8.10.2\transforms\37bc595e652fd37742dce393f5ebbd9e\transformed\jetified-ui-graphics-release\res
+com.example.tech_link.app-jetified-foundation-layout-release-30 C:\Users\DELL\.gradle\caches\8.10.2\transforms\399e9bd763d833dbc8edb5e2ebedeb32\transformed\jetified-foundation-layout-release\res
+com.example.tech_link.app-jetified-ui-util-release-31 C:\Users\DELL\.gradle\caches\8.10.2\transforms\39ad15d6c4e2a09cf4dcef00e8cc89f6\transformed\jetified-ui-util-release\res
+com.example.tech_link.app-swiperefreshlayout-1.1.0-32 C:\Users\DELL\.gradle\caches\8.10.2\transforms\3b73935f74d1bc0b4ddd1a64c9102826\transformed\swiperefreshlayout-1.1.0\res
+com.example.tech_link.app-jetified-ui-viewbinding-1.5.4-33 C:\Users\DELL\.gradle\caches\8.10.2\transforms\4454ca2d28219100869a3e842fa5ce8a\transformed\jetified-ui-viewbinding-1.5.4\res
+com.example.tech_link.app-jetified-viewpager2-1.1.0-beta02-34 C:\Users\DELL\.gradle\caches\8.10.2\transforms\46fe7b076faee23aa5d5ddc206d0825d\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.tech_link.app-jetified-lifecycle-viewmodel-ktx-2.7.0-35 C:\Users\DELL\.gradle\caches\8.10.2\transforms\4cf4aaf0c2a5f8e9be19976f292485c2\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.tech_link.app-jetified-play-services-base-18.3.0-36 C:\Users\DELL\.gradle\caches\8.10.2\transforms\4e1997020e60d7ffc179448f361ad381\transformed\jetified-play-services-base-18.3.0\res
+com.example.tech_link.app-jetified-link-20.52.3-37 C:\Users\DELL\.gradle\caches\8.10.2\transforms\4fa569c5560ae7c56aaa42fe1095e078\transformed\jetified-link-20.52.3\res
+com.example.tech_link.app-fragment-1.7.1-38 C:\Users\DELL\.gradle\caches\8.10.2\transforms\504a3b9bc759ca6028567aaea36c5498\transformed\fragment-1.7.1\res
+com.example.tech_link.app-jetified-customview-poolingcontainer-1.0.0-39 C:\Users\DELL\.gradle\caches\8.10.2\transforms\5211f5142cf14078d1b1f729d496e5a4\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.tech_link.app-jetified-paymentsheet-20.52.3-40 C:\Users\DELL\.gradle\caches\8.10.2\transforms\52152f5632d010cedc57959cc4475c19\transformed\jetified-paymentsheet-20.52.3\res
+com.example.tech_link.app-jetified-core-1.0.0-41 C:\Users\DELL\.gradle\caches\8.10.2\transforms\5231da36518c5740ff6ec8f636c4adaa\transformed\jetified-core-1.0.0\res
+com.example.tech_link.app-jetified-play-services-wallet-19.3.0-42 C:\Users\DELL\.gradle\caches\8.10.2\transforms\5bfc81ab41533fc2d7ded35e9ed769fd\transformed\jetified-play-services-wallet-19.3.0\res
+com.example.tech_link.app-jetified-material-release-43 C:\Users\DELL\.gradle\caches\8.10.2\transforms\61a61e7dc1460b574dcfddfa895466dd\transformed\jetified-material-release\res
+com.example.tech_link.app-jetified-material-ripple-release-44 C:\Users\DELL\.gradle\caches\8.10.2\transforms\660001665e2251a6f2f5de75345e9960\transformed\jetified-material-ripple-release\res
+com.example.tech_link.app-jetified-navigation-compose-2.7.6-45 C:\Users\DELL\.gradle\caches\8.10.2\transforms\67bcfa4aebabde32c4a047e5bbbc8b2d\transformed\jetified-navigation-compose-2.7.6\res
+com.example.tech_link.app-coordinatorlayout-1.1.0-46 C:\Users\DELL\.gradle\caches\8.10.2\transforms\69129c28edb1abdabe36b9e46f091548\transformed\coordinatorlayout-1.1.0\res
+com.example.tech_link.app-jetified-stripe-3ds2-android-6.1.8-47 C:\Users\DELL\.gradle\caches\8.10.2\transforms\69476615ee12a9567a6c65a92b6171bb\transformed\jetified-stripe-3ds2-android-6.1.8\res
+com.example.tech_link.app-jetified-payments-ui-core-20.52.3-48 C:\Users\DELL\.gradle\caches\8.10.2\transforms\6d01bd5c4d3279b7b3864718084dea44\transformed\jetified-payments-ui-core-20.52.3\res
+com.example.tech_link.app-jetified-emoji2-views-helper-1.4.0-49 C:\Users\DELL\.gradle\caches\8.10.2\transforms\704b603720404e07e806b23c6ae40ded\transformed\jetified-emoji2-views-helper-1.4.0\res
+com.example.tech_link.app-jetified-profileinstaller-1.3.1-50 C:\Users\DELL\.gradle\caches\8.10.2\transforms\71c2a5c462ada5f663b8ca591b1907a5\transformed\jetified-profileinstaller-1.3.1\res
+com.example.tech_link.app-jetified-savedstate-ktx-1.2.1-51 C:\Users\DELL\.gradle\caches\8.10.2\transforms\73983292212b7db8ee4526aa2f086e1d\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.tech_link.app-jetified-window-1.2.0-52 C:\Users\DELL\.gradle\caches\8.10.2\transforms\73db24a2829d8fb9cf5663cfbb96cfeb\transformed\jetified-window-1.2.0\res
+com.example.tech_link.app-navigation-runtime-ktx-2.7.6-53 C:\Users\DELL\.gradle\caches\8.10.2\transforms\75b375153deeaf1dc7dd60b00dc4dc0e\transformed\navigation-runtime-ktx-2.7.6\res
+com.example.tech_link.app-jetified-annotation-experimental-1.4.0-54 C:\Users\DELL\.gradle\caches\8.10.2\transforms\7afb1ce17e862ead92a72a9258c9afa9\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.tech_link.app-jetified-payments-core-20.52.3-55 C:\Users\DELL\.gradle\caches\8.10.2\transforms\7d5943b7ad2bf8c304aebf666df91703\transformed\jetified-payments-core-20.52.3\res
+com.example.tech_link.app-jetified-play-services-auth-20.7.0-56 C:\Users\DELL\.gradle\caches\8.10.2\transforms\7f3cbd85e9776d1033d598bbdc03a650\transformed\jetified-play-services-auth-20.7.0\res
+com.example.tech_link.app-core-1.13.1-57 C:\Users\DELL\.gradle\caches\8.10.2\transforms\7f46bbd13206153774356ca6103aa890\transformed\core-1.13.1\res
+com.example.tech_link.app-material-1.11.0-58 C:\Users\DELL\.gradle\caches\8.10.2\transforms\8324b43afa9d761f65569b15fc85afb7\transformed\material-1.11.0\res
+com.example.tech_link.app-jetified-credentials-1.2.0-rc01-59 C:\Users\DELL\.gradle\caches\8.10.2\transforms\847a26655a62540eb6e1b568482ff8fb\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.tech_link.app-jetified-activity-1.9.3-60 C:\Users\DELL\.gradle\caches\8.10.2\transforms\87eca1956ddb86a2a7193da8df59556f\transformed\jetified-activity-1.9.3\res
+com.example.tech_link.app-jetified-window-java-1.2.0-61 C:\Users\DELL\.gradle\caches\8.10.2\transforms\8bb9749c6545c229064751184c200f17\transformed\jetified-window-java-1.2.0\res
+com.example.tech_link.app-core-runtime-2.2.0-62 C:\Users\DELL\.gradle\caches\8.10.2\transforms\8bc22c9aee1a6640ae9b0a38be5c9ed3\transformed\core-runtime-2.2.0\res
+com.example.tech_link.app-transition-1.2.0-63 C:\Users\DELL\.gradle\caches\8.10.2\transforms\94bbf1b3a0f3087e88bd26d2b95fa182\transformed\transition-1.2.0\res
+com.example.tech_link.app-jetified-ui-release-64 C:\Users\DELL\.gradle\caches\8.10.2\transforms\9c9c4039a3541557c1e7fe91c1d9ffbc\transformed\jetified-ui-release\res
+com.example.tech_link.app-constraintlayout-2.1.4-65 C:\Users\DELL\.gradle\caches\8.10.2\transforms\9f8473f70c6967940aa07810de6c7a0f\transformed\constraintlayout-2.1.4\res
+com.example.tech_link.app-jetified-credentials-play-services-auth-1.2.0-rc01-66 C:\Users\DELL\.gradle\caches\8.10.2\transforms\a159499e04f9d5848eb9c527e821c718\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.tech_link.app-jetified-payments-model-20.52.3-67 C:\Users\DELL\.gradle\caches\8.10.2\transforms\a1aa8c95cda4e91f7f3fa23e6fd23265\transformed\jetified-payments-model-20.52.3\res
+com.example.tech_link.app-jetified-material-icons-core-release-68 C:\Users\DELL\.gradle\caches\8.10.2\transforms\a7fcce0f7169b739769f08ee1896823f\transformed\jetified-material-icons-core-release\res
+com.example.tech_link.app-jetified-lifecycle-livedata-ktx-2.7.0-69 C:\Users\DELL\.gradle\caches\8.10.2\transforms\a84720f3f8b689c69850db401b1e8b8b\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res
+com.example.tech_link.app-jetified-ui-geometry-release-70 C:\Users\DELL\.gradle\caches\8.10.2\transforms\aa211c509a2e09b52734e880a33585cc\transformed\jetified-ui-geometry-release\res
+com.example.tech_link.app-jetified-accompanist-themeadapter-appcompat-0.32.0-71 C:\Users\DELL\.gradle\caches\8.10.2\transforms\add6b3c1af161a26dbf5c17047ebdaa0\transformed\jetified-accompanist-themeadapter-appcompat-0.32.0\res
+com.example.tech_link.app-jetified-activity-compose-1.9.3-72 C:\Users\DELL\.gradle\caches\8.10.2\transforms\aee6315b2ad3e538081f2868cefc3f79\transformed\jetified-activity-compose-1.9.3\res
+com.example.tech_link.app-jetified-accompanist-themeadapter-material3-0.32.0-73 C:\Users\DELL\.gradle\caches\8.10.2\transforms\b345778a5106ab02e95ccf0140b2b7fe\transformed\jetified-accompanist-themeadapter-material3-0.32.0\res
+com.example.tech_link.app-jetified-foundation-release-74 C:\Users\DELL\.gradle\caches\8.10.2\transforms\b938df7b61a0cd7c19faaf15651e7404\transformed\jetified-foundation-release\res
+com.example.tech_link.app-jetified-tracing-1.2.0-75 C:\Users\DELL\.gradle\caches\8.10.2\transforms\ba2395cf8fc4cc2c2d9a7b0f13aa21c0\transformed\jetified-tracing-1.2.0\res
+com.example.tech_link.app-jetified-animation-release-76 C:\Users\DELL\.gradle\caches\8.10.2\transforms\c1637df33c6f5ef66c2f6271f307c477\transformed\jetified-animation-release\res
+com.example.tech_link.app-jetified-hcaptcha-20.52.3-77 C:\Users\DELL\.gradle\caches\8.10.2\transforms\c2f256a25ba80a92352898d432bb55b7\transformed\jetified-hcaptcha-20.52.3\res
+com.example.tech_link.app-jetified-startup-runtime-1.1.1-78 C:\Users\DELL\.gradle\caches\8.10.2\transforms\c4042ec9e8cc7d9cdf61197d11f01375\transformed\jetified-startup-runtime-1.1.1\res
+com.example.tech_link.app-appcompat-1.6.1-79 C:\Users\DELL\.gradle\caches\8.10.2\transforms\cdc1fd5a4f8cb18094ee01b408d70e6e\transformed\appcompat-1.6.1\res
+com.example.tech_link.app-jetified-animation-core-release-80 C:\Users\DELL\.gradle\caches\8.10.2\transforms\cf37258039c7f686b69cc74353c8a7e3\transformed\jetified-animation-core-release\res
+com.example.tech_link.app-jetified-play-services-basement-18.4.0-81 C:\Users\DELL\.gradle\caches\8.10.2\transforms\cf636ef2f0738047fe8129f320ef339e\transformed\jetified-play-services-basement-18.4.0\res
+com.example.tech_link.app-recyclerview-1.3.2-82 C:\Users\DELL\.gradle\caches\8.10.2\transforms\cfc9ce65488be0d4ea3904ce9bced09e\transformed\recyclerview-1.3.2\res
+com.example.tech_link.app-drawerlayout-1.1.1-83 C:\Users\DELL\.gradle\caches\8.10.2\transforms\d19577210a0f5b09cbf5762c2fffb67c\transformed\drawerlayout-1.1.1\res
+com.example.tech_link.app-jetified-ui-unit-release-84 C:\Users\DELL\.gradle\caches\8.10.2\transforms\d6a2bcc8a92e18395c8d08494fb473b5\transformed\jetified-ui-unit-release\res
+com.example.tech_link.app-jetified-core-common-2.0.3-85 C:\Users\DELL\.gradle\caches\8.10.2\transforms\dc78addb618cc9a88505262f8a23e42d\transformed\jetified-core-common-2.0.3\res
+com.example.tech_link.app-jetified-ui-text-release-86 C:\Users\DELL\.gradle\caches\8.10.2\transforms\e1c0cf96c80703dee8625a9dce4bfff8\transformed\jetified-ui-text-release\res
+com.example.tech_link.app-jetified-firebase-common-21.0.0-87 C:\Users\DELL\.gradle\caches\8.10.2\transforms\ec4138de37aaf41c537b7e74e719439c\transformed\jetified-firebase-common-21.0.0\res
+com.example.tech_link.app-jetified-lifecycle-runtime-ktx-2.7.0-88 C:\Users\DELL\.gradle\caches\8.10.2\transforms\ee40907df6635dadbd2abe5161721138\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.tech_link.app-jetified-activity-ktx-1.9.3-89 C:\Users\DELL\.gradle\caches\8.10.2\transforms\f63e4fb308e51274fbafb363fde41672\transformed\jetified-activity-ktx-1.9.3\res
+com.example.tech_link.app-jetified-appcompat-resources-1.6.1-90 C:\Users\DELL\.gradle\caches\8.10.2\transforms\f6da13a9846494f8148c639e8691af2b\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.tech_link.app-jetified-runtime-release-91 C:\Users\DELL\.gradle\caches\8.10.2\transforms\f90c28524a9737bec2193264cb848cfb\transformed\jetified-runtime-release\res
+com.example.tech_link.app-navigation-runtime-2.7.6-92 C:\Users\DELL\.gradle\caches\8.10.2\transforms\fbb0e6b6a670817fc26988ae164dcbde\transformed\navigation-runtime-2.7.6\res
+com.example.tech_link.app-debug-93 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\android\app\src\debug\res
+com.example.tech_link.app-main-94 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\android\app\src\main\res
+com.example.tech_link.app-google-services-95 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\generated\res\google-services\debug
+com.example.tech_link.app-pngs-96 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\generated\res\pngs\debug
+com.example.tech_link.app-resValues-97 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\generated\res\resValues\debug
+com.example.tech_link.app-packageDebugResources-98 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.tech_link.app-packageDebugResources-99 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.tech_link.app-debug-100 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.tech_link.app-debug-101 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\cloud_firestore\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-102 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\firebase_auth\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-103 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-104 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\firebase_storage\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-105 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\flutter_inappwebview_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-106 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-107 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-108 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-109 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\stripe_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.tech_link.app-debug-110 F:\NSBM New\2nd Year\2nd Sem\Mobile Application Development\TechLink-All_in_one_integrated_ecosystem_for_IT_industry\tech_link\build\url_launcher_android\intermediates\packaged_res\debug\packageDebugResources
